@@ -1,0 +1,590 @@
+Collembola	Poduromorpha		Anurida maritima
+Collembola	Poduromorpha		Tetrodontophora bielanensis
+Insecta	Raphidioptera	Raphidiidae	Raphidia
+Insecta	Raphidioptera	Raphidiidae	Phaeostigma
+Insecta	Raphidioptera	Raphidiidae	Puncha
+Insecta	Orthoptera	Pyrgomorphidae	Dictyophorus
+Insecta	Orthoptera	Pyrgomorphidae	Phymateus
+Insecta	Orthoptera	Pyrgomorphidae	Stenoscepa
+Insecta	Orthoptera	Pyrgomorphidae	Atractomorpha
+Insecta	Orthoptera	Pyrgomorphidae	Nippancistroger testaceus
+Insecta	Orthoptera	Pyrgomorphidae	Tetrix subulata
+Insecta	Megaloptera	Corydalidae	Corydalidae sp. AD-2015
+Insecta	Megaloptera	Corydalidae	Chauliodes
+Insecta	Megaloptera	Corydalidae	Corydalus
+Insecta	Megaloptera	Corydalidae	Sialis lutaria
+Insecta	Psocoptera	Ceratophyllus gallinae	Thaipsocus sp. ThspTR
+Insecta	Psocoptera	Ceratophyllus gallinae	Spurostigma sp. SpspCL
+Insecta	Psocoptera	Ceratophyllus gallinae	Lepium sp. LpspLE
+Insecta	Psocoptera	Pseudocaeciliidae	Zelandopsocus
+Insecta	Psocoptera	Pseudocaeciliidae	Mepleres
+Insecta	Psocoptera	Pseudocaeciliidae	Dolabellopsocus sp. DospDO
+Insecta	Psocoptera	Hemipsocidae	Hemipsocus
+Insecta	Psocoptera	Hemipsocidae	Goja eertmoedi
+Insecta	Psocoptera	Hemipsocidae	Psilopsocus sp. PsspPS
+Insecta	Psocoptera	Hemipsocidae	Loneura mombachensis
+Insecta	Psocoptera	Myopsocidae	Myopsocus
+Insecta	Psocoptera	Myopsocidae	Lichenomima
+Insecta	Psocoptera	Myopsocidae	Cladiopsocus ocotensis
+Insecta	Psocoptera	Myopsocidae	Calopsocus reticulatus
+Insecta	Psocoptera	Myopsocidae	Bryopsocus townsendi
+Insecta	Psocoptera	Myopsocidae	Rhyopsocus sp. RhspPQ
+Insecta	Psocoptera	Myopsocidae	Neurostigma sp. NespNE
+Insecta	Psocoptera	Myopsocidae	Musapsocus sp. MuspMU
+Insecta	Psocoptera	Myopsocidae	Epitroctes sp. EpspEL
+Insecta	Psocoptera	Myopsocidae	Trichopsocus clarus
+Insecta	Psocoptera	Elipsocidae	Nepiomorpha
+Insecta	Psocoptera	Elipsocidae	Kilauella
+Insecta	Psocoptera	Elipsocidae	Propsocus
+Insecta	Psocoptera	Elipsocidae	Asiopsocus sonorensis
+Insecta	Psocoptera	Psocidae	Trichadenotecnum
+Insecta	Psocoptera	Psocidae	Loensia
+Insecta	Psocoptera	Prionoglarididae	Sensitibilla
+Insecta	Psocoptera	Prionoglarididae	Afrotrogla
+Insecta	Psocoptera	Prionoglarididae	Prionoglaris
+Insecta	Psocoptera	Prionoglarididae	Neotrogla
+Insecta	Psocoptera	Prionoglarididae	Speleketor
+Insecta	Psocoptera	Prionoglarididae	Philotarsus kwakiutl
+Insecta	Psocoptera	Lachesillidae	Acantholachesilla
+Insecta	Psocoptera	Lachesillidae	Notolachesilla
+Insecta	Psocoptera	Lachesillidae	Prolachesilla
+Insecta	Psocoptera	Lachesillidae	Waoraniella
+Insecta	Psocoptera	Lachesillidae	Anomolachesilla
+Insecta	Psocoptera	Lachesillidae	Lachesilla
+Insecta	Psocoptera	Lachesillidae	Anomopsocus
+Insecta	Psocoptera	Lachesillidae	Eolachesilla
+Insecta	Psocoptera	Lachesillidae	Ectopsocopsis cryptomeriae
+Insecta	Psocoptera	Pachytroctidae	Tapinella
+Insecta	Psocoptera	Pachytroctidae	Peritroctes
+Insecta	Psocoptera	Pachytroctidae	Pachytroctes
+Insecta	Psocoptera	Sphaeropsocidae	Sphaeropsocus
+Insecta	Psocoptera	Sphaeropsocidae	Hemicaecilius
+Insecta	Psocoptera	Sphaeropsocidae	Graphocaecilius
+Insecta	Psocoptera	Sphaeropsocidae	Dagualachesilloides
+Insecta	Psocoptera	Sphaeropsocidae	Dagualachesilla
+Insecta	Psocoptera	Sphaeropsocidae	Badonnelia
+Insecta	Psocoptera	Amphipsocidae	Teliapsocus
+Insecta	Psocoptera	Amphipsocidae	Amphipsocus
+Insecta	Psocoptera	Amphipsocidae	Polypsocus
+Insecta	Psocoptera	Archipsocidae	Pararchipsocus
+Insecta	Psocoptera	Archipsocidae	Archipsocus
+Insecta	Psocoptera	Peripsocidae	Kaestneriella
+Insecta	Psocoptera	Peripsocidae	Peripsocus
+Insecta	Psocoptera	Liposcelididae	Embidopsocus
+Insecta	Psocoptera	Liposcelididae	Liposcelis
+Insecta	Psocoptera	Liposcelididae	Dorypteryx domestica
+Insecta	Psocoptera	Liposcelididae	Compsocus elegans
+Insecta	Psocoptera	Liposcelididae	Idatenopsocus orientalis
+Insecta	Psocoptera	Caeciliusidae	Fuelleborniella
+Insecta	Psocoptera	Caeciliusidae	Paracaecilius
+Insecta	Psocoptera	Caeciliusidae	Dypsocus
+Insecta	Psocoptera	Caeciliusidae	Valenzuela
+Insecta	Psocoptera	Caeciliusidae	Xanthocaecilius
+Insecta	Neuroptera	Mantispidae	Mantispinae sp. AD-2015
+Insecta	Neuroptera	Mantispidae	Eumantispa
+Insecta	Neuroptera	Hemerobiidae	Hemerobius
+Insecta	Neuroptera	Hemerobiidae	Myrmeleon formicarius
+Insecta	Neuroptera	Chrysopidae	Apertochrysa
+Insecta	Neuroptera	Chrysopidae	Peyerimhoffina
+Insecta	Neuroptera	Chrysopidae	Chrysoperla
+Insecta	Phasmatodea	Aschiphasmatidae	Abrosoma
+Insecta	Phasmatodea	Aschiphasmatidae	Orthomeria
+Insecta	Phasmatodea	Aschiphasmatidae	Peruphasma schultei
+Insecta	Phasmatodea	Phasmatidae	Spathomorpha
+Insecta	Phasmatodea	Phasmatidae	Megacrania
+Insecta	Phasmatodea	Phasmatidae	Timema knulli
+Insecta	Zygentoma	Cordulegaster boltonii	Atelura formicaria
+Insecta	Zygentoma	Cordulegaster boltonii	Thermobia domestica
+Insecta	Phthiraptera	Cordulegaster boltonii	Neolinognathus sp. NlspEledw
+Insecta	Phthiraptera	Cordulegaster boltonii	Prolinognathus sp. XlspPrcap
+Insecta	Phthiraptera	Cordulegaster boltonii	Enderleinellus marmotae
+Insecta	Phthiraptera	Gyropidae	Aotiella
+Insecta	Phthiraptera	Gyropidae	Gliricola
+Insecta	Phthiraptera	Gyropidae	Macrogyropus
+Insecta	Phthiraptera	Ricinidae	Trochiloecetes
+Insecta	Phthiraptera	Ricinidae	Ricinus
+Insecta	Phthiraptera	Trimenoponidae	Chinchillophaga
+Insecta	Phthiraptera	Trimenoponidae	Trimenopon
+Insecta	Phthiraptera	Trimenoponidae	Harrisonia
+Insecta	Phthiraptera	Trimenoponidae	Cummingsia
+Insecta	Phthiraptera	Boopidae	Heterodoxus
+Insecta	Phthiraptera	Bovicoliidae	Bovicola
+Insecta	Phthiraptera	Laemobothriidae	Laemobothrion
+Insecta	Phthiraptera	Trichodectidae	Procavicola
+Insecta	Phthiraptera	Trichodectidae	Neotrichodectes
+Insecta	Phthiraptera	Trichodectidae	Eutrichophilus
+Insecta	Phthiraptera	Trichodectidae	Tricholipeurus
+Insecta	Phthiraptera	Trichodectidae	Stachiella
+Insecta	Phthiraptera	Trichodectidae	Trichodectes
+Insecta	Phthiraptera	Trichodectidae	Geomydoecus
+Insecta	Phthiraptera	Polyplacidae	Phthirpediculus
+Insecta	Phthiraptera	Polyplacidae	Lemurphthirus
+Insecta	Phthiraptera	Polyplacidae	Polyplax
+Insecta	Phthiraptera	Polyplacidae	Linognathoides
+Insecta	Phthiraptera	Polyplacidae	Haematomyzus elephantis
+Insecta	Phthiraptera	Heptapsogasteridae	Megaginus
+Insecta	Phthiraptera	Heptapsogasteridae	Kelloggia
+Insecta	Phthiraptera	Heptapsogasteridae	Pectenosoma
+Insecta	Phthiraptera	Heptapsogasteridae	Heptapsogaster
+Insecta	Phthiraptera	Heptapsogasteridae	Strongylocotes
+Insecta	Phthiraptera	Heptapsogasteridae	Megapeostus
+Insecta	Phthiraptera	Heptapsogasteridae	Discocorpus
+Insecta	Phthiraptera	Echinophthiriidae	Lepidophthirus
+Insecta	Phthiraptera	Echinophthiriidae	Antarctophthirus
+Insecta	Phthiraptera	Echinophthiriidae	Echinophthirius
+Insecta	Phthiraptera	Philopteridae	Olivinirmus
+Insecta	Phthiraptera	Philopteridae	Maculinirmus
+Insecta	Phthiraptera	Philopteridae	Indoceoplanetes
+Insecta	Phthiraptera	Philopteridae	Guimaraesiella
+Insecta	Phthiraptera	Philopteridae	Heptarthrogaster
+Insecta	Phthiraptera	Philopteridae	Tyranniphilopterus
+Insecta	Phthiraptera	Philopteridae	Philopteroides
+Insecta	Phthiraptera	Philopteridae	Traihoriella
+Insecta	Phthiraptera	Philopteridae	Mayriphilopterus
+Insecta	Phthiraptera	Philopteridae	Corcorides
+Insecta	Phthiraptera	Philopteridae	Priceiella
+Insecta	Phthiraptera	Philopteridae	Resartor
+Insecta	Phthiraptera	Philopteridae	Ornicholax
+Insecta	Phthiraptera	Philopteridae	Trichodopeostus
+Insecta	Phthiraptera	Philopteridae	Nothocotus
+Insecta	Phthiraptera	Philopteridae	Philopteridae sp. FuspSaruf
+Insecta	Phthiraptera	Philopteridae	Saepocephalum
+Insecta	Phthiraptera	Philopteridae	Lamprocorpus
+Insecta	Phthiraptera	Philopteridae	Cuclotocephalus
+Insecta	Phthiraptera	Philopteridae	Pterocotes
+Insecta	Phthiraptera	Philopteridae	Furnariphilus
+Insecta	Phthiraptera	Philopteridae	Tinamotaecola
+Insecta	Phthiraptera	Philopteridae	Podargoecus
+Insecta	Phthiraptera	Philopteridae	Esthiopterum
+Insecta	Phthiraptera	Philopteridae	Dahlemhornia
+Insecta	Phthiraptera	Philopteridae	Ardeiphagus
+Insecta	Phthiraptera	Philopteridae	Cuculoecus
+Insecta	Phthiraptera	Philopteridae	Craspedorrhynchus
+Insecta	Phthiraptera	Philopteridae	Alcedoffula
+Insecta	Phthiraptera	Philopteridae	Acidoproctus
+Insecta	Phthiraptera	Philopteridae	Turnicola
+Insecta	Phthiraptera	Philopteridae	Splendoroffula
+Insecta	Phthiraptera	Philopteridae	Philopterus
+Insecta	Phthiraptera	Philopteridae	Mulcticola
+Insecta	Phthiraptera	Philopteridae	Meropoecus
+Insecta	Phthiraptera	Philopteridae	Upupicola
+Insecta	Phthiraptera	Philopteridae	Trogoniella
+Insecta	Phthiraptera	Philopteridae	Pseudocophorus
+Insecta	Phthiraptera	Philopteridae	Lagopoecus
+Insecta	Phthiraptera	Philopteridae	Hopkinsiella
+Insecta	Phthiraptera	Philopteridae	Caracaricola
+Insecta	Phthiraptera	Philopteridae	Buceronirmus
+Insecta	Phthiraptera	Philopteridae	Buceroemersonia
+Insecta	Phthiraptera	Philopteridae	Bucerocophorus
+Insecta	Phthiraptera	Philopteridae	Acutifrons
+Insecta	Phthiraptera	Philopteridae	Strigiphilus
+Insecta	Phthiraptera	Philopteridae	Rhynonirmus
+Insecta	Phthiraptera	Philopteridae	Pseudonirmus
+Insecta	Phthiraptera	Philopteridae	Ornithobius
+Insecta	Phthiraptera	Philopteridae	Rhopaloceras
+Insecta	Phthiraptera	Philopteridae	Physconella
+Insecta	Phthiraptera	Philopteridae	Psophiicola
+Insecta	Phthiraptera	Philopteridae	Palmaellus
+Insecta	Phthiraptera	Philopteridae	Labicotes
+Insecta	Phthiraptera	Philopteridae	Epipicus
+Insecta	Phthiraptera	Philopteridae	Alcedoecus
+Insecta	Phthiraptera	Philopteridae	Trogoninirmus
+Insecta	Phthiraptera	Philopteridae	Cuclotogaster
+Insecta	Phthiraptera	Philopteridae	Capraiella
+Insecta	Phthiraptera	Philopteridae	Theresiella
+Insecta	Phthiraptera	Philopteridae	Pseudophilopterus
+Insecta	Phthiraptera	Philopteridae	Passonomedea
+Insecta	Phthiraptera	Philopteridae	Paragoniocotes
+Insecta	Phthiraptera	Philopteridae	Formicaphagus
+Insecta	Phthiraptera	Philopteridae	Buerelius
+Insecta	Phthiraptera	Philopteridae	Bizarrifrons
+Insecta	Phthiraptera	Philopteridae	Emersoniella
+Insecta	Phthiraptera	Philopteridae	Sturnidoecus
+Insecta	Phthiraptera	Philopteridae	Psittaconirmus
+Insecta	Phthiraptera	Philopteridae	Psittoecus
+Insecta	Phthiraptera	Philopteridae	Anatoecus
+Insecta	Phthiraptera	Philopteridae	Pessoaiella
+Insecta	Phthiraptera	Philopteridae	Rallicola
+Insecta	Phthiraptera	Philopteridae	Carduiceps
+Insecta	Phthiraptera	Philopteridae	Lunaceps
+Insecta	Phthiraptera	Philopteridae	Kodocephalon
+Insecta	Phthiraptera	Philopteridae	Goniocotes
+Insecta	Phthiraptera	Philopteridae	Goniodes
+Insecta	Phthiraptera	Philopteridae	Forficuloecus
+Insecta	Phthiraptera	Philopteridae	Bothriometopus
+Insecta	Phthiraptera	Philopteridae	Echinophilopterus
+Insecta	Phthiraptera	Philopteridae	Austrophilopterus
+Insecta	Phthiraptera	Philopteridae	Degeeriella
+Insecta	Phthiraptera	Philopteridae	Vernoniella
+Insecta	Phthiraptera	Philopteridae	Neopsittaconirmus
+Insecta	Phthiraptera	Philopteridae	Lipeurus
+Insecta	Phthiraptera	Philopteridae	Ibidoecus
+Insecta	Phthiraptera	Philopteridae	Falcolipeurus
+Insecta	Phthiraptera	Philopteridae	Craspedonirmus
+Insecta	Phthiraptera	Philopteridae	Nesiotinus
+Insecta	Phthiraptera	Philopteridae	Pelmatocerandra
+Insecta	Phthiraptera	Philopteridae	Incidifrons
+Insecta	Phthiraptera	Philopteridae	Picicola
+Insecta	Phthiraptera	Philopteridae	Cotingacola
+Insecta	Phthiraptera	Philopteridae	Neophilopterus
+Insecta	Phthiraptera	Philopteridae	Philoceanus
+Insecta	Phthiraptera	Philopteridae	Perineus
+Insecta	Phthiraptera	Philopteridae	Paraclisis
+Insecta	Phthiraptera	Philopteridae	Episbates
+Insecta	Phthiraptera	Philopteridae	Ardeicola
+Insecta	Phthiraptera	Philopteridae	Fulicoffula
+Insecta	Phthiraptera	Philopteridae	Cirrophthirius
+Insecta	Phthiraptera	Philopteridae	Osculotes
+Insecta	Phthiraptera	Philopteridae	Colinicola
+Insecta	Phthiraptera	Philopteridae	Anaticola
+Insecta	Phthiraptera	Philopteridae	Trichophilopterus
+Insecta	Phthiraptera	Philopteridae	Struthiolipeurus
+Insecta	Phthiraptera	Philopteridae	Quadraceps
+Insecta	Phthiraptera	Philopteridae	Pseudolipeurus
+Insecta	Phthiraptera	Philopteridae	Penenirmus
+Insecta	Phthiraptera	Philopteridae	Pectinopygus
+Insecta	Phthiraptera	Philopteridae	Otidoecus
+Insecta	Phthiraptera	Philopteridae	Nyctibicola
+Insecta	Phthiraptera	Philopteridae	Naubates
+Insecta	Phthiraptera	Philopteridae	Harrisoniella
+Insecta	Phthiraptera	Philopteridae	Formicaricola
+Insecta	Phthiraptera	Philopteridae	Docophoroides
+Insecta	Phthiraptera	Philopteridae	Cuculicola
+Insecta	Phthiraptera	Philopteridae	Colilipeurus
+Insecta	Phthiraptera	Philopteridae	Chelopistes
+Insecta	Phthiraptera	Philopteridae	Brueelia
+Insecta	Phthiraptera	Philopteridae	Bedfordiella
+Insecta	Phthiraptera	Philopteridae	Aquanirmus
+Insecta	Phthiraptera	Philopteridae	Haffneria
+Insecta	Phthiraptera	Philopteridae	Oxylipeurus
+Insecta	Phthiraptera	Philopteridae	Physconelloides
+Insecta	Phthiraptera	Philopteridae	Coloceras
+Insecta	Phthiraptera	Philopteridae	Campanulotes
+Insecta	Phthiraptera	Philopteridae	Auricotes
+Insecta	Phthiraptera	Philopteridae	Columbicola
+Insecta	Phthiraptera	Philopteridae	Trabeculus
+Insecta	Phthiraptera	Philopteridae	Saemundssonia
+Insecta	Phthiraptera	Philopteridae	Halipeurus
+Insecta	Phthiraptera	Philopteridae	Austrogoniodes
+Insecta	Phthiraptera	Menoponidae	Eureum
+Insecta	Phthiraptera	Menoponidae	Heleonomus
+Insecta	Phthiraptera	Menoponidae	Amyrsidea
+Insecta	Phthiraptera	Menoponidae	Kaysius
+Insecta	Phthiraptera	Menoponidae	Heteromenopon
+Insecta	Phthiraptera	Menoponidae	Machaerilaemus
+Insecta	Phthiraptera	Menoponidae	Comatomenopon
+Insecta	Phthiraptera	Menoponidae	Bonomiella
+Insecta	Phthiraptera	Menoponidae	Turacoeca
+Insecta	Phthiraptera	Menoponidae	Meromenopon
+Insecta	Phthiraptera	Menoponidae	Quateia
+Insecta	Phthiraptera	Menoponidae	Psittacomenopon
+Insecta	Phthiraptera	Menoponidae	Psittacobrosus
+Insecta	Phthiraptera	Menoponidae	Pseudomenopon
+Insecta	Phthiraptera	Menoponidae	Plegadiphilus
+Insecta	Phthiraptera	Menoponidae	Piagetiella
+Insecta	Phthiraptera	Menoponidae	Odoriphila
+Insecta	Phthiraptera	Menoponidae	Numidicola
+Insecta	Phthiraptera	Menoponidae	Nosopon
+Insecta	Phthiraptera	Menoponidae	Eidmanniella
+Insecta	Phthiraptera	Menoponidae	Cuculiphilus
+Insecta	Phthiraptera	Menoponidae	Austromenopon
+Insecta	Phthiraptera	Menoponidae	Actornithophilus
+Insecta	Phthiraptera	Menoponidae	Dicteisia
+Insecta	Phthiraptera	Menoponidae	Franciscoloa
+Insecta	Phthiraptera	Menoponidae	Clayia
+Insecta	Phthiraptera	Menoponidae	Ramphasticola
+Insecta	Phthiraptera	Menoponidae	Apterygon
+Insecta	Phthiraptera	Menoponidae	Eomenopon
+Insecta	Phthiraptera	Menoponidae	Kelerimenopon
+Insecta	Phthiraptera	Menoponidae	Holomenopon
+Insecta	Phthiraptera	Menoponidae	Menacanthus
+Insecta	Phthiraptera	Menoponidae	Kurodaia
+Insecta	Phthiraptera	Menoponidae	Ciconiphilus
+Insecta	Phthiraptera	Menoponidae	Fregatiella
+Insecta	Phthiraptera	Menoponidae	Colpocephalum
+Insecta	Phthiraptera	Menoponidae	Myrsidea
+Insecta	Phthiraptera	Menoponidae	Menopon
+Insecta	Phthiraptera	Menoponidae	Hoazineus
+Insecta	Phthiraptera	Menoponidae	Chapinia
+Insecta	Phthiraptera	Menoponidae	Trinoton
+Insecta	Phthiraptera	Menoponidae	Hohorstiella
+Insecta	Phthiraptera	Menoponidae	Colimenopon
+Insecta	Phthiraptera	Menoponidae	Ancistrona
+Insecta	Phthiraptera	Menoponidae	Dennyus
+Insecta	Thysanoptera	Menoponidae	Heterothrips salicis
+Insecta	Thysanoptera	Menoponidae	Dorythrips wallacei
+Insecta	Thysanoptera	Menoponidae	Dactuliothrips xerophilus
+Insecta	Thysanoptera	Menoponidae	Merothrips floridensis
+Insecta	Thysanoptera	Thripidae	Hercinothrips
+Insecta	Thysanoptera	Thripidae	Neurisothrips
+Insecta	Thysanoptera	Thripidae	Nesothrips
+Insecta	Thysanoptera	Thripidae	Monilothrips
+Insecta	Thysanoptera	Thripidae	Anisopilothrips
+Insecta	Thysanoptera	Thripidae	Anaphothrips
+Insecta	Thysanoptera	Thripidae	Helionothrips
+Insecta	Thysanoptera	Thripidae	Dendrothrips
+Insecta	Thysanoptera	Thripidae	Dichromothrips
+Insecta	Thysanoptera	Thripidae	Pseudanaphothrips
+Insecta	Thysanoptera	Thripidae	Australothrips
+Insecta	Thysanoptera	Thripidae	Aptinothrips
+Insecta	Thysanoptera	Thripidae	Sciothrips
+Insecta	Thysanoptera	Thripidae	Heliothrips
+Insecta	Thysanoptera	Thripidae	Scirtothrips
+Insecta	Thysanoptera	Thripidae	Thrips
+Insecta	Thysanoptera	Thripidae	Frankliniella
+Insecta	Thysanoptera	Phlaeothripidae	Lissothrips
+Insecta	Thysanoptera	Phlaeothripidae	Malesiathrips
+Insecta	Thysanoptera	Phlaeothripidae	Zemiathrips
+Insecta	Thysanoptera	Phlaeothripidae	Tolmetothrips
+Insecta	Thysanoptera	Phlaeothripidae	Thaumatothrips
+Insecta	Thysanoptera	Phlaeothripidae	Psalidothrips
+Insecta	Thysanoptera	Phlaeothripidae	Phallothrips
+Insecta	Thysanoptera	Phlaeothripidae	Iotatubothrips
+Insecta	Thysanoptera	Phlaeothripidae	Eurynothrips
+Insecta	Thysanoptera	Phlaeothripidae	Euoplothrips
+Insecta	Thysanoptera	Phlaeothripidae	Choleothrips
+Insecta	Thysanoptera	Phlaeothripidae	Celidothrips
+Insecta	Thysanoptera	Phlaeothripidae	Allothrips
+Insecta	Thysanoptera	Phlaeothripidae	Triadothrips
+Insecta	Thysanoptera	Phlaeothripidae	Sacothrips
+Insecta	Thysanoptera	Phlaeothripidae	Liothrips
+Insecta	Thysanoptera	Phlaeothripidae	Leeuwenia
+Insecta	Thysanoptera	Phlaeothripidae	Koptothrips
+Insecta	Thysanoptera	Phlaeothripidae	Dolichothrips
+Insecta	Thysanoptera	Phlaeothripidae	Carientothrips
+Insecta	Thysanoptera	Phlaeothripidae	Baenothrips
+Insecta	Thysanoptera	Phlaeothripidae	Cartomothrips
+Insecta	Thysanoptera	Phlaeothripidae	Teuchothrips
+Insecta	Thysanoptera	Phlaeothripidae	Haplothrips
+Insecta	Thysanoptera	Phlaeothripidae	Strepterothrips
+Insecta	Thysanoptera	Phlaeothripidae	Idolothrips
+Insecta	Thysanoptera	Phlaeothripidae	Lichanothrips
+Insecta	Thysanoptera	Phlaeothripidae	Gynaikothrips
+Insecta	Thysanoptera	Phlaeothripidae	Kladothrips
+Insecta	Hymenoptera	Stylops melittae	Abia berezowskii
+Insecta	Hymenoptera	Stylops melittae	Philoctetes bogdanovii
+Insecta	Hymenoptera	Stylops melittae	Monosapyga clavicornis
+Insecta	Hymenoptera	Stylops melittae	Trichopria drosophilae
+Insecta	Hymenoptera	Stylops melittae	Tremex magus
+Insecta	Hymenoptera	Stylops melittae	Podagrion pachymerum
+Insecta	Hymenoptera	Stylops melittae	Macrocentrus marginator
+Insecta	Hymenoptera	Stylops melittae	Elisabethiella stueckenbergi
+Insecta	Hymenoptera	Stylops melittae	Chyphotes sp. AD-2014
+Insecta	Hymenoptera	Stylops melittae	Ceraphron sp. AD-2014
+Insecta	Hymenoptera	Stylops melittae	Orussus unicolor
+Insecta	Hymenoptera	Stylops melittae	Sphecodes albilabris
+Insecta	Hymenoptera	Crabronidae	Spilomena
+Insecta	Hymenoptera	Crabronidae	Oxybelus
+Insecta	Hymenoptera	Crabronidae	Gorytes
+Insecta	Hymenoptera	Vespidae	Quartinia
+Insecta	Hymenoptera	Vespidae	Celonites
+Insecta	Hymenoptera	Vespidae	Symmorphus
+Insecta	Hymenoptera	Vespidae	Cephus spinipes
+Insecta	Hymenoptera	Pompilidae	Heterodontonyx
+Insecta	Hymenoptera	Pompilidae	Pompilus
+Insecta	Hymenoptera	Pompilidae	Heteropelma amictum
+Insecta	Hymenoptera	Sphecidae	Chlorion
+Insecta	Hymenoptera	Sphecidae	Ammophila
+Insecta	Hymenoptera	Sphecidae	Chalybion
+Insecta	Hymenoptera	Sphecidae	Synergus umbraculus
+Insecta	Hymenoptera	Sphecidae	Colpa sexmaculata
+Insecta	Hymenoptera	Sphecidae	Brachygaster minutus
+Insecta	Hymenoptera	Sphecidae	Eucharis adscendens
+Insecta	Hymenoptera	Sphecidae	Aphelinus abdominalis
+Insecta	Hymenoptera	Sphecidae	Cosmocomoidea morrilli
+Insecta	Hymenoptera	Megachilidae	Dioxys
+Insecta	Hymenoptera	Megachilidae	Coelioxys
+Insecta	Hymenoptera	Megachilidae	Chelostoma
+Insecta	Hymenoptera	Megachilidae	Megachile
+Insecta	Hymenoptera	Megachilidae	Osmia
+Insecta	Hymenoptera	Megachilidae	Diglyphus isaea
+Insecta	Hymenoptera	Megachilidae	Pelecinus polyturator
+Insecta	Hymenoptera	Apidae	Nomada
+Insecta	Hymenoptera	Apidae	Bombus
+Insecta	Dermaptera	Apidae	Gonolabis marginalis
+Insecta	Dermaptera	Apidae	Forficula auricularia
+Insecta	Diptera	Mantis religiosa	Meroplius fasciculatus
+Insecta	Diptera	Mantis religiosa	Cuterebra austeni
+Insecta	Diptera	Mantis religiosa	Trichocera saltator
+Insecta	Diptera	Mantis religiosa	Ptecticus tenebrifer
+Insecta	Diptera	Mantis religiosa	Lonchoptera bifurcata
+Insecta	Diptera	Mantis religiosa	Polypedilum vanderplanki
+Insecta	Diptera	Syrphidae	Eristalis
+Insecta	Diptera	Syrphidae	Ferdinandea
+Insecta	Diptera	Syrphidae	Bibio marci
+Insecta	Diptera	Syrphidae	Heteropsilopus ingenuus
+Insecta	Diptera	Syrphidae	Calliphora vomitoria
+Insecta	Diptera	Syrphidae	Drosophila melanogaster
+Insecta	Lepidoptera	Syrphidae	Menevia lantona
+Insecta	Lepidoptera	Syrphidae	Amata phegea
+Insecta	Lepidoptera	Crambidae	Catoptria
+Insecta	Lepidoptera	Crambidae	Leucinodes
+Insecta	Lepidoptera	Crambidae	Samia wangi
+Insecta	Lepidoptera	Crambidae	Triodia sylvina
+Insecta	Lepidoptera	Crambidae	Urbanus proteus
+Insecta	Lepidoptera	Crambidae	Nemophora degeerella
+Insecta	Lepidoptera	Crambidae	Dendrolimus pini
+Insecta	Lepidoptera	Nymphalidae	Vanessa
+Insecta	Lepidoptera	Nymphalidae	Pararge
+Insecta	Lepidoptera	Pieridae	Eurema
+Insecta	Lepidoptera	Pieridae	Colias
+Insecta	Lepidoptera	Pieridae	Papilio xuthus
+Insecta	Lepidoptera	Noctuidae	Spodoptera
+Insecta	Lepidoptera	Noctuidae	Bombyx mori
+Insecta	Coleoptera	Noctuidae	Zophobas morio
+Insecta	Coleoptera	Noctuidae	Sandalus niger
+Insecta	Coleoptera	Noctuidae	Melittomma sp. AD-2015
+Insecta	Coleoptera	Noctuidae	Glaresis sp. AD-2015
+Insecta	Coleoptera	Noctuidae	Dineutus sp. AD-2015
+Insecta	Coleoptera	Noctuidae	Pharaxonotha floridana
+Insecta	Coleoptera	Noctuidae	Drilus concolor
+Insecta	Coleoptera	Noctuidae	Haliplus fluviatilis
+Insecta	Coleoptera	Noctuidae	Atomaria fuscata
+Insecta	Coleoptera	Noctuidae	Uleiota planata
+Insecta	Coleoptera	Noctuidae	Anoplotrupes stercorosus
+Insecta	Coleoptera	Scarabaeidae	Trypoxylus
+Insecta	Coleoptera	Scarabaeidae	Onthophagus
+Insecta	Coleoptera	Coccinellidae	Stethorus
+Insecta	Coleoptera	Coccinellidae	Harmonia
+Insecta	Coleoptera	Coccinellidae	Noterus clavicornis
+Insecta	Coleoptera	Coccinellidae	Cybister lateralimarginalis
+Insecta	Coleoptera	Coccinellidae	Oreina cacaliae
+Insecta	Coleoptera	Curculionidae	Larinus
+Insecta	Coleoptera	Curculionidae	Dendroctonus
+Insecta	Coleoptera	Curculionidae	Hypothenemus
+Insecta	Coleoptera	Curculionidae	Ips
+Insecta	Coleoptera	Curculionidae	Diaprepes
+Insecta	Coleoptera	Curculionidae	Sitophilus
+Insecta	Hemiptera	Curculionidae	Lasiochilus sp. LASspLAS
+Insecta	Hemiptera	Curculionidae	Alienates sp. AlspENIC
+Insecta	Hemiptera	Curculionidae	Tornocrusus sp. AENspAEN
+Insecta	Hemiptera	Curculionidae	Omania coleoptrata
+Insecta	Hemiptera	Curculionidae	Megaris sp. MEGspMEG
+Insecta	Hemiptera	Curculionidae	Medocostes sp. MespMED
+Insecta	Hemiptera	Curculionidae	Epipolops sp. EpspGEO
+Insecta	Hemiptera	Curculionidae	Anommatocoris minutissimus
+Insecta	Hemiptera	Curculionidae	Urostylis sp. UrspURO
+Insecta	Hemiptera	Curculionidae	Oxycarenus sp. OXYspOXY
+Insecta	Hemiptera	Curculionidae	Lipokophila tengella
+Insecta	Hemiptera	Curculionidae	Lestonia sp. LESspLES
+Insecta	Hemiptera	Tessaratomidae	Piezosternum
+Insecta	Hemiptera	Tessaratomidae	Eusthenes
+Insecta	Hemiptera	Tessaratomidae	Dicranocephalus sp. DispSTE
+Insecta	Hemiptera	Tessaratomidae	Cymoninus sp. CyspNIN
+Insecta	Hemiptera	Tessaratomidae	Cryptostemma sp. CrspDIPS
+Insecta	Hemiptera	Tessaratomidae	Canopus sp. CANspCAN
+Insecta	Hemiptera	Tessaratomidae	Rectilamina sp. KJ-2017
+Insecta	Hemiptera	Tessaratomidae	Nisamia sp. KJ-2017
+Insecta	Hemiptera	Tessaratomidae	Cerococcus sp. KJ-2017
+Insecta	Hemiptera	Tessaratomidae	Russellaspis sp. KJ-2017
+Insecta	Hemiptera	Tessaratomidae	Pseudophacopteron sp. A KJ-2017
+Insecta	Hemiptera	Tessaratomidae	Mapuchea sp. KJ-2017
+Insecta	Hemiptera	Tessaratomidae	Quilessa sp. KJ-2017
+Insecta	Hemiptera	Tessaratomidae	Bebaiotes sp. KJ-2017
+Insecta	Hemiptera	Velocipedidae	Scotomedes
+Insecta	Hemiptera	Velocipedidae	Costomedes
+Insecta	Hemiptera	Velocipedidae	Asprocranites variegata
+Insecta	Hemiptera	Velocipedidae	Araucaricoccus queenslandicus
+Insecta	Hemiptera	Psyllidae	Freysuila
+Insecta	Hemiptera	Psyllidae	Russelliana
+Insecta	Hemiptera	Psyllidae	Mycopsylla gardenensis
+Insecta	Hemiptera	Psyllidae	Lophops saccharicida
+Insecta	Hemiptera	Psyllidae	Lecanodiaspis rufescens
+Insecta	Hemiptera	Psyllidae	Euphyllura phillyreae
+Insecta	Hemiptera	Psyllidae	Lyctocoris campestris
+Insecta	Hemiptera	Psyllidae	Phoenicococcus marlatti
+Insecta	Hemiptera	Psyllidae	Cymus coriacipennis
+Insecta	Hemiptera	Microphysidae	Loricula
+Insecta	Hemiptera	Microphysidae	Ormenoides venusta
+Insecta	Hemiptera	Membracidae	Scytodepsa
+Insecta	Hemiptera	Membracidae	Centrotus
+Insecta	Hemiptera	Membracidae	Atymna
+Insecta	Hemiptera	Membracidae	Coelostomidia montana
+Insecta	Hemiptera	Aphididae	Neophyllaphis
+Insecta	Hemiptera	Aphididae	Iziphya
+Insecta	Hemiptera	Diaspididae	Fissuraspis
+Insecta	Hemiptera	Diaspididae	Furcaspis
+Insecta	Hemiptera	Diaspididae	Comstockiella
+Insecta	Hemiptera	Diaspididae	Chilacis typhae
+Insecta	Hemiptera	Diaspididae	Diplonychus rusticus
+Insecta	Hemiptera	Thaumastocoridae	Thaumastocoris
+Insecta	Hemiptera	Thaumastocoridae	Discocoris
+Insecta	Hemiptera	Thaumastocoridae	Acanthosoma haemorrhoidale
+Insecta	Hemiptera	Thaumastocoridae	Dismegistus sanguineus
+Insecta	Hemiptera	Thaumastocoridae	Thaumastella namaquensis
+Insecta	Hemiptera	Thaumastocoridae	Protyora sterculiae
+Insecta	Hemiptera	Margarodidae	Xylococculus
+Insecta	Hemiptera	Margarodidae	Marchalina
+Insecta	Hemiptera	Margarodidae	Thysanococcus pandani
+Insecta	Hemiptera	Margarodidae	Fagisuga triloba
+Insecta	Hemiptera	Stictococcidae	Stictococcus
+Insecta	Hemiptera	Stictococcidae	Gallacoccus heckrothi
+Insecta	Hemiptera	Stictococcidae	Tettigarcta crinita
+Insecta	Hemiptera	Stictococcidae	Aphrophora alni
+Insecta	Hemiptera	Triozidae	Triozoida
+Insecta	Hemiptera	Triozidae	Pariaconus
+Insecta	Hemiptera	Triozidae	Acanthocasuarina
+Insecta	Hemiptera	Triozidae	Bactericera
+Insecta	Hemiptera	Pentatomidae	Dinidor
+Insecta	Hemiptera	Pentatomidae	Halyomorpha
+Insecta	Hemiptera	Pentatomidae	Plea minutissima
+Insecta	Hemiptera	Pentatomidae	Ochterus marginatus
+Insecta	Hemiptera	Pentatomidae	Termitaradus australiensis
+Insecta	Hemiptera	Miridae	Peritropis
+Insecta	Hemiptera	Miridae	Pachymerocorista
+Insecta	Hemiptera	Miridae	Myiomma
+Insecta	Hemiptera	Miridae	Monalocoris
+Insecta	Hemiptera	Miridae	Helopeltis
+Insecta	Hemiptera	Miridae	Fulvius
+Insecta	Hemiptera	Miridae	Deraeocoris
+Insecta	Hemiptera	Miridae	Coridromius
+Insecta	Hemiptera	Miridae	Nesidiocoris
+Insecta	Hemiptera	Miridae	Larinocerus
+Insecta	Hemiptera	Miridae	Maevius indecorus
+Insecta	Hemiptera	Miridae	Trisecus pictus
+Insecta	Hemiptera	Miridae	Joppeicus paradoxus
+Insecta	Hemiptera	Miridae	Valleriola javanica
+Insecta	Hemiptera	Pseudococcidae	Eumyrmococcus
+Insecta	Hemiptera	Pseudococcidae	Planococcus
+Insecta	Hemiptera	Cicadellidae	Sudra
+Insecta	Hemiptera	Cicadellidae	Myerslopella
+Insecta	Hemiptera	Cicadellidae	Coloborrhis
+Insecta	Hemiptera	Cicadellidae	Signoretia
+Insecta	Hemiptera	Cicadellidae	Calliscarta
+Insecta	Hemiptera	Cicadellidae	Graphocephala
+Insecta	Hemiptera	Cicadellidae	Empoasca
+Insecta	Hemiptera	Cicadellidae	Lystridea
+Insecta	Hemiptera	Cicadellidae	Phloeomyzus passerinii
+Insecta	Hemiptera	Cicadidae	Okanagana
+Insecta	Hemiptera	Cicadidae	Kikihia
+Insecta	Hemiptera	Cicadidae	Glycaspis brimblecombei
+Insecta	Hemiptera	Cicadidae	Nilaparvata lugens
+Insecta	Hemiptera	Peloridiidae	Rhacophysa
+Insecta	Hemiptera	Peloridiidae	Oiophysella
+Insecta	Hemiptera	Peloridiidae	Craspedophysa
+Insecta	Hemiptera	Peloridiidae	Xenophyes
+Insecta	Hemiptera	Peloridiidae	Hemiodoecus
+Insecta	Hemiptera	Peloridiidae	Xenophysella
+Insecta	Hemiptera	Peloridiidae	Peloridium
+Insecta	Hemiptera	Peloridiidae	Hemiowoodwardia
+Insecta	Hemiptera	Aleyrodidae	Aleurotrachelus
+Insecta	Hemiptera	Aleyrodidae	Chitonaleyrodes
+Insecta	Hemiptera	Aleyrodidae	Aleuroctarthrus
+Insecta	Hemiptera	Aleyrodidae	Aleuroclava
+Insecta	Hemiptera	Aleyrodidae	Paraleyrodes
+Insecta	Hemiptera	Aleyrodidae	Aleurocanthus
+Insecta	Hemiptera	Aleyrodidae	Dialeurodes
+Insecta	Hemiptera	Aleyrodidae	Aleyrodes
+Insecta	Hemiptera	Aleyrodidae	Trialeurodes
+Insecta	Hemiptera	Aleyrodidae	Bemisia
+Insecta	Blattodea	Aleyrodidae	Balta vilis
+Insecta	Blattodea	Aleyrodidae	Coptotermes sp. AD-2015
+Insecta	Blattodea	Aleyrodidae	Tryonicus parvus
+Insecta	Blattodea	Blattellidae	Ischnoptera
+Insecta	Blattodea	Blattellidae	Paratemnopteryx
+Insecta	Blattodea	Blattellidae	Cryptocercus wrighti
+Insecta	Blattodea	Ectobiidae	Ectobius
+Insecta	Blattodea	Ectobiidae	Supella
+Insecta	Blattodea	Ectobiidae	Polyphaga aegyptiaca
+Insecta	Blattodea	Blattidae	Deropeltis
+Insecta	Blattodea	Blattidae	Periplaneta

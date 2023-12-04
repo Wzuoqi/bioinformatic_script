@@ -1,0 +1,24 @@
+1: Patterson CW, Bonillas-Monge E, Brennan A, Grether GF, Mendoza-Cuenca L,
+Tucker R, Vega-Sánchez YM, Drury J. A chromosome-level genome assembly for the
+smoky rubyspot damselfly (Hetaerina titia). J Hered. 2023 Nov 21:esad070. doi:
+10.1093/jhered/esad070. Epub ahead of print. PMID: 37988159.
+
+2: Yuan R, Zheng B, Li Z, Ma X, Shu X, Qu Q, Ye X, Li S, Tang P, Chen X. The
+chromosome-level genome of Chinese praying mantis Tenodera sinensis (Mantodea:
+Mantidae) reveals its biology as a predator. Gigascience. 2022 Dec
+28;12:giad090. doi: 10.1093/gigascience/giad090. PMID: 37882605; PMCID:
+PMC10600911.
+
+3: Rozo-Lopez P, Brewer W, Käfer S, Martin MM, Parker BJ. Untangling an insect's
+virome from its endogenous viral elements. BMC Genomics. 2023 Oct 24;24(1):636.
+doi: 10.1186/s12864-023-09737-z. PMID: 37875824; PMCID: PMC10594914.
+
+4: Kim BY, Gellert HR, Church SH, Suvorov A, Anderson SS, Barmina O, Beskid SG,
+Comeault AA, Crown KN, Diamond SE, Dorus S, Fujichika T, Hemker JA, Hrcek J,
+Kankare M, Katoh T, Magnacca KN, Martin RA, Matsunaga T, Medeiros MJ, Miller DE,
+Pitnick S, Simoni S, Steenwinkel TE, Schiffer M, Syed ZA, Takahashi A, Wei KH,
+Yokoyama T, Eisen MB, Kopp A, Matute D, Obbard DJ, O'Grady PM, Price DK, Toda
+MJ, Werner T, Petrov DA. Single-fly assemblies fill major phylogenomic gaps
+across the Drosophilidae Tree of Life. bioRxiv [Preprint]. 2023 Oct
+2:2023.10.02.560517. doi: 10.1101/2023.10.02.560517. PMID: 37873137; PMCID:
+PMC10592941.

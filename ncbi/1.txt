@@ -1,0 +1,1433 @@
+Zoraptera	Spiralizoridae	Spiralizoros	Spiralizoros caudelli
+Raphidioptera	Raphidiidae	Raphidia	Raphidia mediterranea
+Raphidioptera	Raphidiidae	Phaeostigma	Phaeostigma divina
+Raphidioptera	Raphidiidae	Puncha	Puncha ratzeburgi
+Grylloblattodea	Grylloblattidae	Grylloblatta	Grylloblatta bifratrilecta
+Orthoptera	Pyrgomorphidae	Dictyophorus	Dictyophorus griseus
+Orthoptera	Pyrgomorphidae	Phymateus	Phymateus viridipes
+Orthoptera	Pyrgomorphidae	Stenoscepa	Stenoscepa sp. AD-2015
+Orthoptera	Pyrgomorphidae	Atractomorpha	Atractomorpha sp. AD-2015
+Orthoptera	Gryllacrididae	Nippancistroger	Nippancistroger testaceus
+Orthoptera	Tetrigidae	Tetrix	Tetrix subulata
+Megaloptera	Corydalidae	Chauliodes	Chauliodes sp. AD-2015
+Megaloptera	Corydalidae	Corydalus	Corydalus cornutus
+Megaloptera	Sialidae	Sialis	Sialis lutaria
+Plecoptera	Perlidae	Perla	Perla marginata
+Siphonaptera	Ceratophyllidae	Ceratophyllus	Ceratophyllus gallinae
+Psocoptera	Troctopsocidae	Thaipsocus	Thaipsocus sp. ThspTR
+Psocoptera	Spurostigmatidae	Spurostigma	Spurostigma sp. SpspCL
+Psocoptera	Lepidopsocidae	Lepium	Lepium sp. LpspLE
+Psocoptera	Pseudocaeciliidae	Zelandopsocus	Zelandopsocus sp. ZespPS
+Psocoptera	Pseudocaeciliidae	Mepleres	Mepleres sp. MpspPS
+Psocoptera	Dolabellopsocidae	Dolabellopsocus	Dolabellopsocus sp. DospDO
+Psocoptera	Hemipsocidae	Hemipsocus	Hemipsocus sp. HespHE
+Psocoptera	Hemipsocidae	Hemipsocus	Hemipsocus pretiosus
+Psocoptera	Epipsocidae	Goja	Goja eertmoedi
+Psocoptera	Psilopsocidae	Psilopsocus	Psilopsocus sp. PsspPS
+Psocoptera	Ptiloneuridae	Loneura	Loneura mombachensis
+Psocoptera	Myopsocidae	Myopsocus	Myopsocus sp. MyspCAL
+Psocoptera	Myopsocidae	Myopsocus	Myopsocus sp. MyspPER
+Psocoptera	Myopsocidae	Lichenomima	Lichenomima sp. LispMY
+Psocoptera	Myopsocidae	Lichenomima	Lichenomima lugens
+Psocoptera	Cladiopsocidae	Cladiopsocus	Cladiopsocus ocotensis
+Psocoptera	Calopsocidae	Calopsocus	Calopsocus reticulatus
+Psocoptera	Bryopsocidae	Bryopsocus	Bryopsocus townsendi
+Psocoptera	Psoquillidae	Rhyopsocus	Rhyopsocus sp. RhspPQ
+Psocoptera	Neurostigmatidae	Neurostigma	Neurostigma sp. NespNE
+Psocoptera	Musapsocidae	Musapsocus	Musapsocus sp. MuspMU
+Psocoptera	Electrentomidae	Epitroctes	Epitroctes sp. EpspEL
+Psocoptera	Trichopsocidae	Trichopsocus	Trichopsocus clarus
+Psocoptera	Elipsocidae	Nepiomorpha	Nepiomorpha sp. NespEL
+Psocoptera	Elipsocidae	Kilauella	Kilauella sp. KispEL
+Psocoptera	Elipsocidae	Propsocus	Propsocus pulchripennis
+Psocoptera	Asiopsocidae	Asiopsocus	Asiopsocus sonorensis
+Psocoptera	Psocidae	Trichadenotecnum	Trichadenotecnum majus
+Psocoptera	Psocidae	Loensia	Loensia conspersa
+Psocoptera	Prionoglarididae	Sensitibilla	Sensitibilla sp. SespPR
+Psocoptera	Prionoglarididae	Afrotrogla	Afrotrogla sp. AfspPR
+Psocoptera	Prionoglarididae	Prionoglaris	Prionoglaris stygia
+Psocoptera	Prionoglarididae	Neotrogla	Neotrogla sp. NespPR
+Psocoptera	Prionoglarididae	Speleketor	Speleketor irwini
+Psocoptera	Philotarsidae	Philotarsus	Philotarsus kwakiutl
+Psocoptera	Lachesillidae	Acantholachesilla	Acantholachesilla sp. AcspLA
+Psocoptera	Lachesillidae	Notolachesilla	Notolachesilla sp. GRA1sp1LA
+Psocoptera	Lachesillidae	Prolachesilla	Prolachesilla sp. GRAspLA
+Psocoptera	Lachesillidae	Prolachesilla	Prolachesilla sp. GRA2sp1LA
+Psocoptera	Lachesillidae	Prolachesilla	Prolachesilla sp. PrspLA
+Psocoptera	Lachesillidae	Waoraniella	Waoraniella jarlinsoni
+Psocoptera	Lachesillidae	Anomolachesilla	Anomolachesilla palaciosi
+Psocoptera	Lachesillidae	Lachesilla	Lachesilla sp. Lasp7Q
+Psocoptera	Lachesillidae	Lachesilla	Lachesilla sp. LaspMLY
+Psocoptera	Lachesillidae	Lachesilla	Lachesilla sp. LaspGHN
+Psocoptera	Lachesillidae	Lachesilla	Lachesilla punctata
+Psocoptera	Lachesillidae	Lachesilla	Lachesilla texcocana
+Psocoptera	Lachesillidae	Lachesilla	Lachesilla rufa
+Psocoptera	Lachesillidae	Lachesilla	Lachesilla picticeps
+Psocoptera	Lachesillidae	Lachesilla	Lachesilla pedicularia
+Psocoptera	Lachesillidae	Anomopsocus	Anomopsocus sp. AnspLA
+Psocoptera	Lachesillidae	Anomopsocus	Anomopsocus amabilis
+Psocoptera	Lachesillidae	Eolachesilla	Eolachesilla chilensis
+Psocoptera	Ectopsocidae	Ectopsocopsis	Ectopsocopsis cryptomeriae
+Psocoptera	Pachytroctidae	Tapinella	Tapinella sp. TaspPA
+Psocoptera	Pachytroctidae	Peritroctes	Peritroctes sp. PespPA
+Psocoptera	Pachytroctidae	Pachytroctes	Pachytroctes maculosus
+Psocoptera	Sphaeropsocidae	Sphaeropsocus	Sphaeropsocus bicolor
+Psocoptera	Sphaeropsocidae	Hemicaecilius	Hemicaecilius smithersi
+Psocoptera	Sphaeropsocidae	Hemicaecilius	Hemicaecilius mockfordi
+Psocoptera	Sphaeropsocidae	Graphocaecilius	Graphocaecilius interpretatus
+Psocoptera	Sphaeropsocidae	Dagualachesilloides	Dagualachesilloides caliensis
+Psocoptera	Sphaeropsocidae	Dagualachesilla	Dagualachesilla anchicayaensis
+Psocoptera	Sphaeropsocidae	Badonnelia	Badonnelia titei
+Psocoptera	Amphipsocidae	Teliapsocus	Teliapsocus conterminus
+Psocoptera	Amphipsocidae	Amphipsocus	Amphipsocus japonicus
+Psocoptera	Amphipsocidae	Polypsocus	Polypsocus corruptus
+Psocoptera	Archipsocidae	Pararchipsocus	Pararchipsocus sp. PaspAR
+Psocoptera	Archipsocidae	Archipsocus	Archipsocus sp. ArspAR
+Psocoptera	Archipsocidae	Archipsocus	Archipsocus nomas
+Psocoptera	Peripsocidae	Kaestneriella	Kaestneriella sp. KaspPE
+Psocoptera	Peripsocidae	Peripsocus	Peripsocus phaeopterus
+Psocoptera	Peripsocidae	Peripsocus	Peripsocus subfasciatus
+Psocoptera	Liposcelididae	Embidopsocus	Embidopsocus sp. Emsp2LIv2
+Psocoptera	Liposcelididae	Liposcelis	Liposcelis pearmani
+Psocoptera	Liposcelididae	Liposcelis	Liposcelis brunnea
+Psocoptera	Psyllipsocidae	Dorypteryx	Dorypteryx domestica
+Psocoptera	Compsocidae	Compsocus	Compsocus elegans
+Psocoptera	Mesopsocidae	Idatenopsocus	Idatenopsocus orientalis
+Psocoptera	Caeciliusidae	Fuelleborniella	Fuelleborniella sp. FuspCA
+Psocoptera	Caeciliusidae	Paracaecilius	Paracaecilius japanus
+Psocoptera	Caeciliusidae	Dypsocus	Dypsocus coleoptratus
+Psocoptera	Caeciliusidae	Valenzuela	Valenzuela flavidus
+Psocoptera	Caeciliusidae	Xanthocaecilius	Xanthocaecilius sommermanae
+Neuroptera	Mantispidae	Eumantispa	Eumantispa harmandi
+Neuroptera	Hemerobiidae	Hemerobius	Hemerobius nitidulus
+Neuroptera	Hemerobiidae	Hemerobius	Hemerobius handschini
+Neuroptera	Myrmeleontidae	Myrmeleon	Myrmeleon formicarius
+Neuroptera	Chrysopidae	Apertochrysa	Apertochrysa ventralis
+Neuroptera	Chrysopidae	Apertochrysa	Apertochrysa flavifrons
+Neuroptera	Chrysopidae	Peyerimhoffina	Peyerimhoffina gracilis
+Neuroptera	Chrysopidae	Chrysoperla	Chrysoperla carnea
+Phasmatodea	Aschiphasmatidae	Abrosoma	Abrosoma johorense
+Phasmatodea	Aschiphasmatidae	Orthomeria	Orthomeria sp. AD-2014
+Phasmatodea	Pseudophasmatidae	Peruphasma	Peruphasma schultei
+Phasmatodea	Phasmatidae	Spathomorpha	Spathomorpha lancettifer
+Phasmatodea	Phasmatidae	Megacrania	Megacrania phelaus
+Phasmatodea	Timematidae	Timema	Timema knulli
+Odonata	Cordulegastridae	Cordulegaster	Cordulegaster boltonii
+Zygentoma	Nicoletiidae	Atelura	Atelura formicaria
+Zygentoma	Lepismatidae	Thermobia	Thermobia domestica
+Phthiraptera	Neolinognathidae	Neolinognathus	Neolinognathus sp. NlspEledw
+Phthiraptera	Linognathidae	Prolinognathus	Prolinognathus sp. XlspPrcap
+Phthiraptera	Enderleinellidae	Enderleinellus	Enderleinellus marmotae
+Phthiraptera	Gyropidae	Aotiella	Aotiella hershkovitzi
+Phthiraptera	Gyropidae	Gliricola	Gliricola sp. GlspPrgar
+Phthiraptera	Gyropidae	Macrogyropus	Macrogyropus costalimai
+Phthiraptera	Ricinidae	Trochiloecetes	Trochiloecetes angustifrons
+Phthiraptera	Ricinidae	Trochiloecetes	Trochiloecetes sp. TcspArcol
+Phthiraptera	Ricinidae	Ricinus	Ricinus elongatus
+Phthiraptera	Ricinidae	Ricinus	Ricinus sp. RispBlsyn
+Phthiraptera	Ricinidae	Ricinus	Ricinus sp. RispJuhye
+Phthiraptera	Ricinidae	Ricinus	Ricinus sp. Risp
+Phthiraptera	Trimenoponidae	Chinchillophaga	Chinchillophaga clayae
+Phthiraptera	Trimenoponidae	Trimenopon	Trimenopon hispidum
+Phthiraptera	Trimenoponidae	Harrisonia	Harrisonia sp. HsspPrgar
+Phthiraptera	Trimenoponidae	Cummingsia	Cummingsia maculata
+Phthiraptera	Boopidae	Heterodoxus	Heterodoxus sp. HtspMaagi
+Phthiraptera	Boopidae	Heterodoxus	Heterodoxus spiniger
+Phthiraptera	Bovicoliidae	Damalinia	Damalinia meyeri
+Phthiraptera	Bovicoliidae	Bovicola	Bovicola ovis
+Phthiraptera	Laemobothriidae	Laemobothrion	Laemobothrion gracile
+Phthiraptera	Laemobothriidae	Laemobothrion	Laemobothrion opisthocomi
+Phthiraptera	Laemobothriidae	Laemobothrion	Laemobothrion maximum
+Phthiraptera	Laemobothriidae	Laemobothrion	Laemobothrion glutinans
+Phthiraptera	Laemobothriidae	Laemobothrion	Laemobothrion tinnunculi
+Phthiraptera	Laemobothriidae	Laemobothrion	Laemobothrion atrum
+Phthiraptera	Trichodectidae	Procavicola	Procavicola sp. PvspPrcap
+Phthiraptera	Trichodectidae	Neotrichodectes	Neotrichodectes mephitidis
+Phthiraptera	Trichodectidae	Eutrichophilus	Eutrichophilus setosus
+Phthiraptera	Trichodectidae	Tricholipeurus	Tricholipeurus lipeuroides
+Phthiraptera	Trichodectidae	Stachiella	Stachiella larseni
+Phthiraptera	Trichodectidae	Trichodectes	Trichodectes canis
+Phthiraptera	Trichodectidae	Geomydoecus	Geomydoecus aurei
+Phthiraptera	Polyplacidae	Phthirpediculus	Phthirpediculus sp. QzspEumac
+Phthiraptera	Polyplacidae	Lemurphthirus	Lemurphthirus sp. LespGadee
+Phthiraptera	Polyplacidae	Polyplax	Polyplax sp. PxspLoaqu
+Phthiraptera	Polyplacidae	Linognathoides	Linognathoides marmotae
+Phthiraptera	Haematomyzidae	Haematomyzus	Haematomyzus elephantis
+Phthiraptera	Heptapsogasteridae	Megaginus	Megaginus sp. MgspCrsou
+Phthiraptera	Heptapsogasteridae	Megaginus	Megaginus emarginatus
+Phthiraptera	Heptapsogasteridae	Megaginus	Megaginus sp. MgspCrund
+Phthiraptera	Heptapsogasteridae	Megaginus	Megaginus tataupensis
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia sp. 'Hypocrypturellus' HyspTitao
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia sp. 'Hypocrypturellus' HyspTimaj
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia sp. 'Hypocrypturellus' HyspTigut
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia sp. 'Hypocrypturellus' HyspCrsou
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia sp. 'Hypocrypturellus' HyspCrobs
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia intermedius
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia mendax
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia undulatus
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia sp. KespCrtat
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia sp. KespTigut
+Phthiraptera	Heptapsogasteridae	Kelloggia	Kelloggia sp. KespCrstr
+Phthiraptera	Heptapsogasteridae	Pectenosoma	Pectenosoma sp. PespCrtra
+Phthiraptera	Heptapsogasteridae	Pectenosoma	Pectenosoma punensis
+Phthiraptera	Heptapsogasteridae	Pectenosoma	Pectenosoma meserythra
+Phthiraptera	Heptapsogasteridae	Pectenosoma	Pectenosoma angusta
+Phthiraptera	Heptapsogasteridae	Pectenosoma	Pectenosoma subparva
+Phthiraptera	Heptapsogasteridae	Pectenosoma	Pectenosoma yapurae
+Phthiraptera	Heptapsogasteridae	Pectenosoma	Pectenosoma parva
+Phthiraptera	Heptapsogasteridae	Pectenosoma	Pectenosoma sp. PespCrstr
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster teres
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster subteres
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespNodar2
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster bolivianus
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster rotundatus
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sexpunctatus
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster andinae
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sexsetosus
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster testudo
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster tesselatus
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. 2 HespCrbou2
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespNopen
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespNocin
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespCrtra
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespCrobsPE
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespCrbou
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster nothocercae
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster inexpectatus
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster truncatus
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespCrobs
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespCrstr2
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespNodar
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespNobor
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespCrpar
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespCrund
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster mandibularis
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster minor
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster frielingi
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespTigut
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespEuele
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespChbur
+Phthiraptera	Heptapsogasteridae	Heptapsogaster	Heptapsogaster sp. HespCrstr
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes sp. StspTimaj
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes sp. StspTigut
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes sp. StspNonig
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes sp. SgspCrsou2
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes sp. SgspCrobsPE
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes tinami
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes sp. SgspCrobs
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes subspinosus
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes limai
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes glabrous
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes cordiceps
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes sp. SgspCrsou
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes sp. SgspTigut
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes sp. SgspCrstr
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes lipogonus
+Phthiraptera	Heptapsogasteridae	Strongylocotes	Strongylocotes orbicularis
+Phthiraptera	Heptapsogasteridae	Megapeostus	Megapeostus sp. MespCrobs
+Phthiraptera	Heptapsogasteridae	Megapeostus	Megapeostus multiplex
+Phthiraptera	Heptapsogasteridae	Megapeostus	Megapeostus sp. MpspCrcin2
+Phthiraptera	Heptapsogasteridae	Megapeostus	Megapeostus sp. MpspCrcin1
+Phthiraptera	Heptapsogasteridae	Megapeostus	Megapeostus petersi
+Phthiraptera	Heptapsogasteridae	Megapeostus	Megapeostus heptarthrogastriformis
+Phthiraptera	Heptapsogasteridae	Megapeostus	Megapeostus sp. MpspCrstr
+Phthiraptera	Heptapsogasteridae	Megapeostus	Megapeostus asymmetricus
+Phthiraptera	Heptapsogasteridae	Discocorpus	Discocorpus sp. DispCrtra
+Phthiraptera	Heptapsogasteridae	Discocorpus	Discocorpus sp. DispCrstr
+Phthiraptera	Heptapsogasteridae	Discocorpus	Discocorpus sp. DispCrobs
+Phthiraptera	Heptapsogasteridae	Discocorpus	Discocorpus mexicanus
+Phthiraptera	Echinophthiriidae	Lepidophthirus	Lepidophthirus macrorhini
+Phthiraptera	Echinophthiriidae	Antarctophthirus	Antarctophthirus ogmorhini
+Phthiraptera	Echinophthiriidae	Antarctophthirus	Antarctophthirus lobodontis
+Phthiraptera	Echinophthiriidae	Antarctophthirus	Antarctophthirus carlinii
+Phthiraptera	Echinophthiriidae	Antarctophthirus	Antarctophthirus microchir
+Phthiraptera	Echinophthiriidae	Echinophthirius	Echinophthirius horridus
+Phthiraptera	Philopteridae	Olivinirmus	Olivinirmus semiannulatus
+Phthiraptera	Philopteridae	Olivinirmus	Olivinirmus morionus
+Phthiraptera	Philopteridae	Maculinirmus	Maculinirmus sp. MaspSpvir
+Phthiraptera	Philopteridae	Indoceoplanetes	Indoceoplanetes sp. MaspConov
+Phthiraptera	Philopteridae	Indoceoplanetes	Indoceoplanetes sp. MaspComcg
+Phthiraptera	Philopteridae	Indoceoplanetes	Indoceoplanetes sp. MaspComac
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspChpap
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspChnuc
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspBlsyn
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspZolun
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspZohei
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspVacur
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspSeper
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspSenoh
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspPyplu
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspPhict
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspPhalb
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspPesig
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspNichl
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspNepoe
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspMycol
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspManit
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspFafro
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspCycri
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspCrbar
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspCohar
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspCoalb
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspBlexi
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspBlcan
+Phthiraptera	Philopteridae	Guimaraesiella	Guimaraesiella sp. GuspAraur
+Phthiraptera	Philopteridae	Heptarthrogaster	Heptarthrogaster sp. HespTigut2
+Phthiraptera	Philopteridae	Heptarthrogaster	Heptarthrogaster sp. HespTimaj2
+Phthiraptera	Philopteridae	Heptarthrogaster	Heptarthrogaster sp. HespTimaj
+Phthiraptera	Philopteridae	Tyranniphilopterus	Tyranniphilopterus sp. TyspPamin
+Phthiraptera	Philopteridae	Philopteroides	Philopteroides sp. PpspChjef
+Phthiraptera	Philopteridae	Philopteroides	Philopteroides sp. PhspQuqu
+Phthiraptera	Philopteridae	Philopteroides	Philopteroides sp. PhspBamo
+Phthiraptera	Philopteridae	Traihoriella	Traihoriella sp. PnspMevir
+Phthiraptera	Philopteridae	Traihoriella	Traihoriella sp. PnspMemys
+Phthiraptera	Philopteridae	Traihoriella	Traihoriella sp. PnspMemon
+Phthiraptera	Philopteridae	Mayriphilopterus	Mayriphilopterus sp. MaspMafu
+Phthiraptera	Philopteridae	Mayriphilopterus	Mayriphilopterus sp. MaspMomo
+Phthiraptera	Philopteridae	Mayriphilopterus	Mayriphilopterus sp. MaspJaau
+Phthiraptera	Philopteridae	Mayriphilopterus	Mayriphilopterus sp. MaspGaal
+Phthiraptera	Philopteridae	Mayriphilopterus	Mayriphilopterus sp. PpspNobru
+Phthiraptera	Philopteridae	Corcorides	Corcorides inopinatus
+Phthiraptera	Philopteridae	Corcorides	Corcorides biocellatus
+Phthiraptera	Philopteridae	Priceiella	Priceiella sp. PrspTubre
+Phthiraptera	Philopteridae	Priceiella	Priceiella sp. PrspPoruf
+Phthiraptera	Philopteridae	Priceiella	Priceiella sp. PrspLacin
+Phthiraptera	Philopteridae	Priceiella	Priceiella sp. PrspGamil
+Phthiraptera	Philopteridae	Resartor	Resartor sp. RespGamil
+Phthiraptera	Philopteridae	Ornicholax	Ornicholax sp. OrspTitao
+Phthiraptera	Philopteridae	Ornicholax	Ornicholax sp. OrspTimaj2
+Phthiraptera	Philopteridae	Ornicholax	Ornicholax sp. OrspTimaj1
+Phthiraptera	Philopteridae	Ornicholax	Ornicholax sp. OnspTigut2
+Phthiraptera	Philopteridae	Ornicholax	Ornicholax sp. OnspTigut
+Phthiraptera	Philopteridae	Ornicholax	Ornicholax sp. OnspTimaj
+Phthiraptera	Philopteridae	Trichodopeostus	Trichodopeostus spinosus
+Phthiraptera	Philopteridae	Nothocotus	Nothocotus sp. NospNonig
+Phthiraptera	Philopteridae	Nothocotus	Nothocotus subsimilis
+Phthiraptera	Philopteridae	Saepocephalum	Saepocephalum stephenfryi
+Phthiraptera	Philopteridae	Lamprocorpus	Lamprocorpus spinosus
+Phthiraptera	Philopteridae	Lamprocorpus	Lamprocorpus sp. LpspNodar
+Phthiraptera	Philopteridae	Lamprocorpus	Lamprocorpus hirsutus
+Phthiraptera	Philopteridae	Cuclotocephalus	Cuclotocephalus sp. CkspNodar2
+Phthiraptera	Philopteridae	Cuclotocephalus	Cuclotocephalus secundus
+Phthiraptera	Philopteridae	Cuclotocephalus	Cuclotocephalus extraneus
+Phthiraptera	Philopteridae	Cuclotocephalus	Cuclotocephalus sp. CkspNodar
+Phthiraptera	Philopteridae	Cuclotocephalus	Cuclotocephalus sp. CkspNoorn
+Phthiraptera	Philopteridae	Pterocotes	Pterocotes aberrans
+Phthiraptera	Philopteridae	Pterocotes	Pterocotes tergalis
+Phthiraptera	Philopteridae	Pterocotes	Pterocotes inexpectatus
+Phthiraptera	Philopteridae	Pterocotes	Pterocotes sp. PtspTimaj
+Phthiraptera	Philopteridae	Pterocotes	Pterocotes sp. QrspCrund
+Phthiraptera	Philopteridae	Furnariphilus	Furnariphilus parkeri
+Phthiraptera	Philopteridae	Furnariphilus	Furnariphilus sp. FnspAupar
+Phthiraptera	Philopteridae	Furnariphilus	Furnariphilus sp. FispScgua
+Phthiraptera	Philopteridae	Tinamotaecola	Tinamotaecola sp. TispTipen
+Phthiraptera	Philopteridae	Tinamotaecola	Tinamotaecola sp. TispEufor
+Phthiraptera	Philopteridae	Tinamotaecola	Tinamotaecola andinae
+Phthiraptera	Philopteridae	Tinamotaecola	Tinamotaecola elegans
+Phthiraptera	Philopteridae	Podargoecus	Podargoecus strigoides
+Phthiraptera	Philopteridae	Podargoecus	Podargoecus papuensis
+Phthiraptera	Philopteridae	Esthiopterum	Esthiopterum brevicephalum
+Phthiraptera	Philopteridae	Dahlemhornia	Dahlemhornia asymmetrica
+Phthiraptera	Philopteridae	Ardeiphagus	Ardeiphagus similis
+Phthiraptera	Philopteridae	Ardeiphagus	Ardeiphagus cochlearius
+Phthiraptera	Philopteridae	Cuculoecus	Cuculoecus piayae
+Phthiraptera	Philopteridae	Cuculoecus	Cuculoecus africanus
+Phthiraptera	Philopteridae	Craspedorrhynchus	Craspedorrhynchus pachypus
+Phthiraptera	Philopteridae	Craspedorrhynchus	Craspedorrhynchus sp. CfspBualb
+Phthiraptera	Philopteridae	Craspedorrhynchus	Craspedorrhynchus sp. CfspFaber
+Phthiraptera	Philopteridae	Craspedorrhynchus	Craspedorrhynchus subhaematopus
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula madagascariensis
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula sp. AfspIspic
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula sp. AfspChame
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula sp. AfspChama
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula sp. AfspColeu
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula sp. AfspCeazu
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula cristata
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula chocoana
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula ceycis
+Phthiraptera	Philopteridae	Alcedoffula	Alcedoffula alcyonae
+Phthiraptera	Philopteridae	Acidoproctus	Acidoproctus fuligulae
+Phthiraptera	Philopteridae	Acidoproctus	Acidoproctus hilli
+Phthiraptera	Philopteridae	Acidoproctus	Acidoproctus rostratus
+Phthiraptera	Philopteridae	Turnicola	Turnicola angustissimus
+Phthiraptera	Philopteridae	Turnicola	Turnicola sp. TkspTuvar
+Phthiraptera	Philopteridae	Turnicola	Turnicola sp. TkspTupyr
+Phthiraptera	Philopteridae	Splendoroffula	Splendoroffula sp. SpspTusch
+Phthiraptera	Philopteridae	Splendoroffula	Splendoroffula sp. SpspTapor
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspMocla
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspLaaet
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspCagut
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. 'Clayiella' ClspMomo
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspTenig
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspSaspi
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPrplu
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPiang
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPanig
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPagri
+Phthiraptera	Philopteridae	Philopterus	Philopterus ornatus
+Phthiraptera	Philopteridae	Philopterus	Philopterus neotropicalis
+Phthiraptera	Philopteridae	Philopterus	Philopterus agelaii
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PnspNear
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspOcpul
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPiint
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspLecoe
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspAshel
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspSyspo
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspThruf
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPycin
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspDileu
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspMycol
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspSppin
+Phthiraptera	Philopteridae	Philopterus	Philopterus corvi
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspSctur
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspTosul
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspMioli
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspVojac
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspLopil
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPimen
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspCoorr
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspTeruf
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPhict
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspDiads
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPtgui
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspAmmac
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspEurub
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspColon
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspHymad
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspClpic
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPrnew
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspGrcya
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspCipun
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspColeu
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspSppus
+Phthiraptera	Philopteridae	Philopterus	Philopterus kekilovae
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspNoruf
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspPiiri
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspCrquo
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspEuann
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspDihot
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspHepic
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspHidau
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspThpun
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspHakas
+Phthiraptera	Philopteridae	Philopterus	Philopterus solus
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspBamar
+Phthiraptera	Philopteridae	Philopterus	Philopterus sp. PpspTymel
+Phthiraptera	Philopteridae	Mulcticola	Mulcticola sp. MuspEuarg
+Phthiraptera	Philopteridae	Mulcticola	Mulcticola sp. MuspCaena
+Phthiraptera	Philopteridae	Mulcticola	Mulcticola sp. MuspNyalb
+Phthiraptera	Philopteridae	Meropoecus	Meropoecus sp. MrspMeorn
+Phthiraptera	Philopteridae	Upupicola	Upupicola upupae
+Phthiraptera	Philopteridae	Trogoniella	Trogoniella apaloderma
+Phthiraptera	Philopteridae	Pseudocophorus	Pseudocophorus antennatus
+Phthiraptera	Philopteridae	Lagopoecus	Lagopoecus obscurus
+Phthiraptera	Philopteridae	Lagopoecus	Lagopoecus gibsoni
+Phthiraptera	Philopteridae	Hopkinsiella	Hopkinsiella hopkinsi
+Phthiraptera	Philopteridae	Caracaricola	Caracaricola chimangophilus
+Phthiraptera	Philopteridae	Buceronirmus	Buceronirmus longicuneatus
+Phthiraptera	Philopteridae	Buceroemersonia	Buceroemersonia sp. BmspTonas
+Phthiraptera	Philopteridae	Buceroemersonia	Buceroemersonia clarkei
+Phthiraptera	Philopteridae	Bucerocophorus	Bucerocophorus latifrons
+Phthiraptera	Philopteridae	Acutifrons	Acutifrons mexicanus
+Phthiraptera	Philopteridae	Strigiphilus	Strigiphilus sp. StspTyalb
+Phthiraptera	Philopteridae	Strigiphilus	Strigiphilus sp. StspNicon
+Phthiraptera	Philopteridae	Strigiphilus	Strigiphilus cursor
+Phthiraptera	Philopteridae	Rhynonirmus	Rhynonirmus parsonsae
+Phthiraptera	Philopteridae	Pseudonirmus	Pseudonirmus lugubris
+Phthiraptera	Philopteridae	Ornithobius	Ornithobius goniopleurus
+Phthiraptera	Philopteridae	Rhopaloceras	Rhopaloceras genitalis
+Phthiraptera	Philopteridae	Rhopaloceras	Rhopaloceras rudimentarius
+Phthiraptera	Philopteridae	Rhopaloceras	Rhopaloceras abbreviatus
+Phthiraptera	Philopteridae	Rhopaloceras	Rhopaloceras pennaticeps
+Phthiraptera	Philopteridae	Rhopaloceras	Rhopaloceras brevitemporalis
+Phthiraptera	Philopteridae	Rhopaloceras	Rhopaloceras undulatus
+Phthiraptera	Philopteridae	Rhopaloceras	Rhopaloceras sp. RpspTigut
+Phthiraptera	Philopteridae	Rhopaloceras	Rhopaloceras sp. RpspCrstr
+Phthiraptera	Philopteridae	Physconella	Physconella sp. PwspCrsou
+Phthiraptera	Philopteridae	Physconella	Physconella nothocercae
+Phthiraptera	Philopteridae	Physconella	Physconella emersoni
+Phthiraptera	Philopteridae	Physconella	Physconella sp. PwspCrobs
+Phthiraptera	Philopteridae	Psophiicola	Psophiicola sp. PsspPscre
+Phthiraptera	Philopteridae	Psophiicola	Psophiicola sp. PsspPsvir
+Phthiraptera	Philopteridae	Palmaellus	Palmaellus sp. PaspPsvir
+Phthiraptera	Philopteridae	Labicotes	Labicotes sp. LbspPesup
+Phthiraptera	Philopteridae	Epipicus	Epipicus sp. EpspCarub
+Phthiraptera	Philopteridae	Alcedoecus	Alcedoecus delphax
+Phthiraptera	Philopteridae	Alcedoecus	Alcedoecus sp. AlspHabad
+Phthiraptera	Philopteridae	Trogoninirmus	Trogoninirmus sp. GuspTrmel
+Phthiraptera	Philopteridae	Trogoninirmus	Trogoninirmus hastiformis
+Phthiraptera	Philopteridae	Trogoninirmus	Trogoninirmus sp. Trsp.Trper
+Phthiraptera	Philopteridae	Cuclotogaster	Cuclotogaster sp. Liesp
+Phthiraptera	Philopteridae	Cuclotogaster	Cuclotogaster cinereus
+Phthiraptera	Philopteridae	Cuclotogaster	Cuclotogaster sp. Cgsp.Frhil
+Phthiraptera	Philopteridae	Capraiella	Capraiella sp. CbspEugul
+Phthiraptera	Philopteridae	Capraiella	Capraiella sp. Cbsp.Eugla
+Phthiraptera	Philopteridae	Capraiella	Capraiella sp. Cbsp.Coaby
+Phthiraptera	Philopteridae	Theresiella	Theresiella sp. TsspPsbre
+Phthiraptera	Philopteridae	Pseudophilopterus	Pseudophilopterus obsoletus
+Phthiraptera	Philopteridae	Pseudophilopterus	Pseudophilopterus sp. QsspCrstr
+Phthiraptera	Philopteridae	Passonomedea	Passonomedea sp. PyspOdspe
+Phthiraptera	Philopteridae	Passonomedea	Passonomedea sp. PyspOdguj
+Phthiraptera	Philopteridae	Passonomedea	Passonomedea sp. PyspOdste
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspPylep248
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes longulufrons
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspPymel
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspAmkaw
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspArjan
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspArleu
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspArast
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes venezolanus
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes guajirensis
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes grandis
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspPyper
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspPyane
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspArsev
+Phthiraptera	Philopteridae	Paragoniocotes	Paragoniocotes sp. PaspPisen
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspHypoe67
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspMymyo
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspScnae
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspMyhau
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspWipoe
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspCocas
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspCoaur
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspScleu
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspCetyr
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspMyful
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspHynae
+Phthiraptera	Philopteridae	Formicaphagus	Formicaphagus sp. FmspDypun
+Phthiraptera	Philopteridae	Buerelius	Buerelius sp. BlspBrlep
+Phthiraptera	Philopteridae	Bizarrifrons	Bizarrifrons sp. BispCacel
+Phthiraptera	Philopteridae	Emersoniella	Emersoniella sp. EmspTasyl
+Phthiraptera	Philopteridae	Emersoniella	Emersoniella bracteata
+Phthiraptera	Philopteridae	Sturnidoecus	Sturnidoecus sp. SnspHymus
+Phthiraptera	Philopteridae	Sturnidoecus	Sturnidoecus sp. SnspZocit
+Phthiraptera	Philopteridae	Sturnidoecus	Sturnidoecus caligineus
+Phthiraptera	Philopteridae	Sturnidoecus	Sturnidoecus sp. Snsp
+Phthiraptera	Philopteridae	Sturnidoecus	Sturnidoecus simplex
+Phthiraptera	Philopteridae	Psittaconirmus	Psittaconirmus sp. PcspTrrub
+Phthiraptera	Philopteridae	Psittaconirmus	Psittaconirmus sp. PcspPsdes
+Phthiraptera	Philopteridae	Psittaconirmus	Psittaconirmus sp. PcspOrarf
+Phthiraptera	Philopteridae	Psittaconirmus	Psittaconirmus launceloti
+Phthiraptera	Philopteridae	Psittoecus	Psittoecus sp. QkspCalea
+Phthiraptera	Philopteridae	Psittoecus	Psittoecus sp. QkspCagal
+Phthiraptera	Philopteridae	Psittoecus	Psittoecus eos
+Phthiraptera	Philopteridae	Anatoecus	Anatoecus sp. AtspChpic
+Phthiraptera	Philopteridae	Anatoecus	Anatoecus sp. AtspPhand
+Phthiraptera	Philopteridae	Anatoecus	Anatoecus sp. AtspCyatr
+Phthiraptera	Philopteridae	Anatoecus	Anatoecus keymeri
+Phthiraptera	Philopteridae	Anatoecus	Anatoecus dentatus
+Phthiraptera	Philopteridae	Anatoecus	Anatoecus penicillatus
+Phthiraptera	Philopteridae	Anatoecus	Anatoecus icterodes
+Phthiraptera	Philopteridae	Pessoaiella	Pessoaiella absita
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. MaspOrnig
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. PnspThgen
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. FospAnvar
+Phthiraptera	Philopteridae	Rallicola	Rallicola insulana
+Phthiraptera	Philopteridae	Rallicola	Rallicola scapanoides
+Phthiraptera	Philopteridae	Rallicola	Rallicola gracilentus
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspApaus
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspApowe
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspGaphi
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspPopor33
+Phthiraptera	Philopteridae	Rallicola	Rallicola takahe
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. FmspCylin
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspPopor10
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspPopor1
+Phthiraptera	Philopteridae	Rallicola	Rallicola keymerae
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspLamel
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspPhery
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspLeaff
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspScsp
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspCapus
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspMasqu
+Phthiraptera	Philopteridae	Rallicola	Rallicola tompkinsi
+Phthiraptera	Philopteridae	Rallicola	Rallicola picirostris
+Phthiraptera	Philopteridae	Rallicola	Rallicola laticephala
+Phthiraptera	Philopteridae	Rallicola	Rallicola harveyi
+Phthiraptera	Philopteridae	Rallicola	Rallicola elliotti
+Phthiraptera	Philopteridae	Rallicola	Rallicola californicus
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspLealb
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspPocar
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspRaele
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspSaruf
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspDemer
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspScruf
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspAuinf
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. Raruf
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspPhpyr
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspAuoch
+Phthiraptera	Philopteridae	Rallicola	Rallicola chunchotambo
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspXerut
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspAnstr
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. FmspCorob
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspPrbruPE
+Phthiraptera	Philopteridae	Rallicola	Rallicola certhia
+Phthiraptera	Philopteridae	Rallicola	Rallicola centropus
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspSyruf
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspXiobs
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspHybri
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspNalon
+Phthiraptera	Philopteridae	Rallicola	Rallicola wernecki
+Phthiraptera	Philopteridae	Rallicola	Rallicola taylori
+Phthiraptera	Philopteridae	Rallicola	Rallicola leucopterae
+Phthiraptera	Philopteridae	Rallicola	Rallicola lachrymosa
+Phthiraptera	Philopteridae	Rallicola	Rallicola guimaraesi
+Phthiraptera	Philopteridae	Rallicola	Rallicola fulicae
+Phthiraptera	Philopteridae	Rallicola	Rallicola deckeri
+Phthiraptera	Philopteridae	Rallicola	Rallicola cornutae
+Phthiraptera	Philopteridae	Rallicola	Rallicola cephalosa
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspGagal
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspFuala
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspSysub
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspPrbru
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspAnvar
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspDecer
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspEucas
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspPopor
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspFuard
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspDeful
+Phthiraptera	Philopteridae	Rallicola	Rallicola harrisoni
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspApsp
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspXiery
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspIrgal
+Phthiraptera	Philopteridae	Rallicola	Rallicola sp. RaspCesen
+Phthiraptera	Philopteridae	Rallicola	Rallicola kelloggi
+Phthiraptera	Philopteridae	Rallicola	Rallicola advenus
+Phthiraptera	Philopteridae	Rallicola	Rallicola foedus
+Phthiraptera	Philopteridae	Carduiceps	Carduiceps lapponicus
+Phthiraptera	Philopteridae	Carduiceps	Carduiceps zonarius
+Phthiraptera	Philopteridae	Lunaceps	Lunaceps haematopi
+Phthiraptera	Philopteridae	Lunaceps	Lunaceps sp. KJ-2017
+Phthiraptera	Philopteridae	Lunaceps	Lunaceps numenii
+Phthiraptera	Philopteridae	Lunaceps	Lunaceps drosti
+Phthiraptera	Philopteridae	Kodocephalon	Kodocephalon suborbiculatum
+Phthiraptera	Philopteridae	Kodocephalon	Kodocephalon bradicephalum
+Phthiraptera	Philopteridae	Goniocotes	Goniocotes sp. GospTycup
+Phthiraptera	Philopteridae	Goniocotes	Goniocotes sp. GospPtpet
+Phthiraptera	Philopteridae	Goniocotes	Goniocotes sp. GospAllat
+Phthiraptera	Philopteridae	Goniocotes	Goniocotes sp. GospMerei
+Phthiraptera	Philopteridae	Goniocotes	Goniocotes chrysocephalus
+Phthiraptera	Philopteridae	Goniodes	Goniodes sp. GdspPtswa
+Phthiraptera	Philopteridae	Goniodes	Goniodes sp. GdspPhcol
+Phthiraptera	Philopteridae	Goniodes	Goniodes sp. GdspNumel
+Phthiraptera	Philopteridae	Goniodes	Goniodes sp. GdspFrbic
+Phthiraptera	Philopteridae	Goniodes	Goniodes sp. GdspFraha
+Phthiraptera	Philopteridae	Goniodes	Goniodes sp. GdspCrmon
+Phthiraptera	Philopteridae	Goniodes	Goniodes sp. GdspCacal
+Phthiraptera	Philopteridae	Goniodes	Goniodes sp. GdspAllat
+Phthiraptera	Philopteridae	Goniodes	Goniodes coronatus
+Phthiraptera	Philopteridae	Goniodes	Goniodes merriamanus
+Phthiraptera	Philopteridae	Goniodes	Goniodes sp. Gdass
+Phthiraptera	Philopteridae	Goniodes	Goniodes ortygis
+Phthiraptera	Philopteridae	Goniodes	Goniodes centrocerci
+Phthiraptera	Philopteridae	Goniodes	Goniodes astrocephalus
+Phthiraptera	Philopteridae	Goniodes	Goniodes biordinatus
+Phthiraptera	Philopteridae	Goniodes	Goniodes talegallae
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus sp. FfspNemer
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus sp. FfspCynov
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus sp. FfpsPsdis
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus sp. FfspPshae
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus wilsoni
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus palmai
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus josephi
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus forficula
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus cameroni
+Phthiraptera	Philopteridae	Forficuloecus	Forficuloecus banksi
+Phthiraptera	Philopteridae	Bothriometopus	Bothriometopus macrocnemis
+Phthiraptera	Philopteridae	Echinophilopterus	Echinophilopterus sp. EtspPocry
+Phthiraptera	Philopteridae	Echinophilopterus	Echinophilopterus angustoclypeatus
+Phthiraptera	Philopteridae	Echinophilopterus	Echinophilopterus claytoni
+Phthiraptera	Philopteridae	Austrophilopterus	Austrophilopterus thysi
+Phthiraptera	Philopteridae	Austrophilopterus	Austrophilopterus flavirostris
+Phthiraptera	Philopteridae	Austrophilopterus	Austrophilopterus sp. Ausp.Aupra
+Phthiraptera	Philopteridae	Austrophilopterus	Austrophilopterus andigenae
+Phthiraptera	Philopteridae	Austrophilopterus	Austrophilopterus cancellosus
+Phthiraptera	Philopteridae	Degeeriella	Degeeriella vagans
+Phthiraptera	Philopteridae	Degeeriella	Degeeriella discocephalus
+Phthiraptera	Philopteridae	Degeeriella	Degeeriella sp. DgspBupla
+Phthiraptera	Philopteridae	Degeeriella	Degeeriella sp. DgspBujam
+Phthiraptera	Philopteridae	Degeeriella	Degeeriella rufa
+Phthiraptera	Philopteridae	Vernoniella	Vernoniella guimaraesi
+Phthiraptera	Philopteridae	Vernoniella	Vernoniella bergi
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus borgiolii
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus africanus
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus sp. NsspNebou
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus sp. NsspCaban
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus albus
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus sp. NsspApery
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus sp. NsspNyhol
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus sp. NsspPsvar
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus sp. NsspPosen
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus sp. NsspCalea
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus sp. NsspPshae
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus eos
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus bushae
+Phthiraptera	Philopteridae	Neopsittaconirmus	Neopsittaconirmus circumfasciatus
+Phthiraptera	Philopteridae	Lipeurus	Lipeurus sp. LispPtswa
+Phthiraptera	Philopteridae	Lipeurus	Lipeurus crassus
+Phthiraptera	Philopteridae	Lipeurus	Lipeurus sp. Lisp.Numel
+Phthiraptera	Philopteridae	Lipeurus	Lipeurus caponis
+Phthiraptera	Philopteridae	Ibidoecus	Ibidoecus australis
+Phthiraptera	Philopteridae	Ibidoecus	Ibidoecus dianae
+Phthiraptera	Philopteridae	Ibidoecus	Ibidoecus flavus
+Phthiraptera	Philopteridae	Ibidoecus	Ibidoecus bisignatus
+Phthiraptera	Philopteridae	Falcolipeurus	Falcolipeurus secretarius
+Phthiraptera	Philopteridae	Falcolipeurus	Falcolipeurus sp. FaspAqwah
+Phthiraptera	Philopteridae	Falcolipeurus	Falcolipeurus marginalis
+Phthiraptera	Philopteridae	Craspedonirmus	Craspedonirmus immer
+Phthiraptera	Philopteridae	Nesiotinus	Nesiotinus demersus
+Phthiraptera	Philopteridae	Pelmatocerandra	Pelmatocerandra enderleini
+Phthiraptera	Philopteridae	Incidifrons	Incidifrons sp. InspRaele
+Phthiraptera	Philopteridae	Incidifrons	Incidifrons transpositus
+Phthiraptera	Philopteridae	Picicola	Picicola sp. BrspPynig
+Phthiraptera	Philopteridae	Picicola	Picicola sp. PnspMeell
+Phthiraptera	Philopteridae	Picicola	Picicola sp. PnspCeele
+Phthiraptera	Philopteridae	Picicola	Picicola sp. PnspCacai
+Phthiraptera	Philopteridae	Picicola	Picicola sp. PnspCaben
+Phthiraptera	Philopteridae	Picicola	Picicola quadripustulosus
+Phthiraptera	Philopteridae	Picicola	Picicola foedus
+Phthiraptera	Philopteridae	Picicola	Picicola cuniculariae
+Phthiraptera	Philopteridae	Picicola	Picicola campethera
+Phthiraptera	Philopteridae	Picicola	Picicola sp. TuspTrcal
+Phthiraptera	Philopteridae	Picicola	Picicola sp. PispPiiri
+Phthiraptera	Philopteridae	Picicola	Picicola sp. PispGatom
+Phthiraptera	Philopteridae	Picicola	Picicola sp. Pisp.Smcap
+Phthiraptera	Philopteridae	Picicola	Picicola sp. Pisp.Pyalb
+Phthiraptera	Philopteridae	Picicola	Picicola sp. Pisp.Pifla
+Phthiraptera	Philopteridae	Picicola	Picicola sp. Pisp.Cegra
+Phthiraptera	Philopteridae	Picicola	Picicola sp. Iscsp.Grsqu
+Phthiraptera	Philopteridae	Picicola	Picicola serrafreirei
+Phthiraptera	Philopteridae	Picicola	Picicola osheai
+Phthiraptera	Philopteridae	Picicola	Picicola naokii
+Phthiraptera	Philopteridae	Picicola	Picicola faucetti
+Phthiraptera	Philopteridae	Picicola	Picicola snodgrassi
+Phthiraptera	Philopteridae	Cotingacola	Cotingacola tergalis
+Phthiraptera	Philopteridae	Cotingacola	Cotingacola rupicolae
+Phthiraptera	Philopteridae	Cotingacola	Cotingacola sp. Cosp.Ceorn
+Phthiraptera	Philopteridae	Cotingacola	Cotingacola engeli
+Phthiraptera	Philopteridae	Cotingacola	Cotingacola stotzi
+Phthiraptera	Philopteridae	Neophilopterus	Neophilopterus incompletus
+Phthiraptera	Philopteridae	Philoceanus	Philoceanus robertsi
+Phthiraptera	Philopteridae	Perineus	Perineus circumfasciatus
+Phthiraptera	Philopteridae	Paraclisis	Paraclisis diomedeae
+Phthiraptera	Philopteridae	Episbates	Episbates pederiformis
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola nigra
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola neopallidus
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola australis
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola atratus
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola sp. ArspAribi
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola sp. ArspIxfla
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola pilgrimi
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola ibis
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola harrisoni
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola rhaphidius
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola expallidus
+Phthiraptera	Philopteridae	Ardeicola	Ardeicola geronticorum
+Phthiraptera	Philopteridae	Fulicoffula	Fulicoffula sp. FuspFuruf
+Phthiraptera	Philopteridae	Fulicoffula	Fulicoffula sp. FuspFuala
+Phthiraptera	Philopteridae	Fulicoffula	Fulicoffula sp. FuspFugig
+Phthiraptera	Philopteridae	Fulicoffula	Fulicoffula sp. FuspFuarm
+Phthiraptera	Philopteridae	Fulicoffula	Fulicoffula sp. FuspFuard
+Phthiraptera	Philopteridae	Fulicoffula	Fulicoffula lurida
+Phthiraptera	Philopteridae	Fulicoffula	Fulicoffula sp. FuspPocar
+Phthiraptera	Philopteridae	Fulicoffula	Fulicoffula longipila
+Phthiraptera	Philopteridae	Cirrophthirius	Cirrophthirius sp. QuspRenov2
+Phthiraptera	Philopteridae	Cirrophthirius	Cirrophthirius recurvirostrae
+Phthiraptera	Philopteridae	Cirrophthirius	Cirrophthirius testudinarius
+Phthiraptera	Philopteridae	Osculotes	Osculotes macropoda
+Phthiraptera	Philopteridae	Osculotes	Osculotes curta
+Phthiraptera	Philopteridae	Colinicola	Colinicola mearnsi
+Phthiraptera	Philopteridae	Colinicola	Colinicola docophoroides
+Phthiraptera	Philopteridae	Anaticola	Anaticola sp. AnspChmel
+Phthiraptera	Philopteridae	Anaticola	Anaticola thoracicus
+Phthiraptera	Philopteridae	Anaticola	Anaticola sp. AnspBualb
+Phthiraptera	Philopteridae	Anaticola	Anaticola sp. AnspCaleu
+Phthiraptera	Philopteridae	Anaticola	Anaticola sp. AnspMearm
+Phthiraptera	Philopteridae	Anaticola	Anaticola sp. AnspChjub
+Phthiraptera	Philopteridae	Anaticola	Anaticola sp. AnspPhand
+Phthiraptera	Philopteridae	Anaticola	Anaticola sp. AnspBilob
+Phthiraptera	Philopteridae	Anaticola	Anaticola jamesi
+Phthiraptera	Philopteridae	Anaticola	Anaticola phoenicopteri
+Phthiraptera	Philopteridae	Anaticola	Anaticola mergiserrati
+Phthiraptera	Philopteridae	Anaticola	Anaticola marginella
+Phthiraptera	Philopteridae	Anaticola	Anaticola australis
+Phthiraptera	Philopteridae	Anaticola	Anaticola asymmetricus
+Phthiraptera	Philopteridae	Anaticola	Anaticola rheinwaldi
+Phthiraptera	Philopteridae	Anaticola	Anaticola magnificus
+Phthiraptera	Philopteridae	Anaticola	Anaticola anseris
+Phthiraptera	Philopteridae	Anaticola	Anaticola crassicornis
+Phthiraptera	Philopteridae	Trichophilopterus	Trichophilopterus babakotophilus
+Phthiraptera	Philopteridae	Struthiolipeurus	Struthiolipeurus sp. SlspRhame
+Phthiraptera	Philopteridae	Struthiolipeurus	Struthiolipeurus struthionis
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspPlful
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps ravus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps obliquus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps junceus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps hospes
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps hiaticulae
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps charadrii
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspStisa
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps caspius
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps nycthemerus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps kosswigi
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps dressleri
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspThorb
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspBugra
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspStber
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspLapac
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspRenov1
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps impar
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps umbrinus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps bicuspis
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps boephilus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps aethereus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspEsmag
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspCucha
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspReame
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspThrub
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspHaful
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspStnil
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspVamil
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. QuspHimex
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps sp. KJ-2017
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps ornatus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps strepsilaris
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps similis
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps obscurus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps auratus
+Phthiraptera	Philopteridae	Quadraceps	Quadraceps punctatus
+Phthiraptera	Philopteridae	Pseudolipeurus	Pseudolipeurus sp. PsspTimaj
+Phthiraptera	Philopteridae	Pseudolipeurus	Pseudolipeurus sp. QsspCrsou
+Phthiraptera	Philopteridae	Pseudolipeurus	Pseudolipeurus sp. PsspCrobs
+Phthiraptera	Philopteridae	Pseudolipeurus	Pseudolipeurus grandis
+Phthiraptera	Philopteridae	Pseudolipeurus	Pseudolipeurus macrogenitalis
+Phthiraptera	Philopteridae	Pseudolipeurus	Pseudolipeurus sp. PsspCrstr
+Phthiraptera	Philopteridae	Pseudolipeurus	Pseudolipeurus sp. PsspTigut
+Phthiraptera	Philopteridae	Pseudolipeurus	Pseudolipeurus plumbeus
+Phthiraptera	Philopteridae	Pseudolipeurus	Pseudolipeurus similis
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. BrspMefra
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspMerub
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspGypel
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspCaaur2
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspEuver
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspCaaur
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspCabru
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus arcticus
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspVenig
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspPobil
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspMechr
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspLyleu
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus marginatus
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus jungens
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspInvar
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspInmin
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspEuric
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspDegri
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspPsmin
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspCiruf
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspCatur
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspBrbab
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspAnlin
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspCeame
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspInwil
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus sp. PnspGycal
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus guineensis
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus pici
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus auritus
+Phthiraptera	Philopteridae	Penenirmus	Penenirmus zumpti
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus turbinatus
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus sp. PgspSusul
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus sp. PgspPhhar
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus acutofasciatus
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus afer
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus dispar
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus fregatiphagus
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus varius
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus gracilicornis
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus tordoffi
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus excornis
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus setosus
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus punctatus
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus annulatus
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus gyricornis
+Phthiraptera	Philopteridae	Pectinopygus	Pectinopygus bassani
+Phthiraptera	Philopteridae	Otidoecus	Otidoecus houbarae
+Phthiraptera	Philopteridae	Nyctibicola	Nyctibicola longirostris
+Phthiraptera	Philopteridae	Naubates	Naubates harrisoni
+Phthiraptera	Philopteridae	Harrisoniella	Harrisoniella densa
+Phthiraptera	Philopteridae	Formicaricola	Formicaricola sp. FospChnob373
+Phthiraptera	Philopteridae	Formicaricola	Formicaricola analoides
+Phthiraptera	Philopteridae	Docophoroides	Docophoroides brevis
+Phthiraptera	Philopteridae	Cuculicola	Cuculicola splendidus
+Phthiraptera	Philopteridae	Cuculicola	Cuculicola sp. CuspScnov
+Phthiraptera	Philopteridae	Cuculicola	Cuculicola sp. CuspCeaur
+Phthiraptera	Philopteridae	Cuculicola	Cuculicola sp. CuspCacas
+Phthiraptera	Philopteridae	Cuculicola	Cuculicola sp. Cusp.Clcaf
+Phthiraptera	Philopteridae	Cuculicola	Cuculicola atopus
+Phthiraptera	Philopteridae	Colilipeurus	Colilipeurus obscurior
+Phthiraptera	Philopteridae	Colilipeurus	Colilipeurus colius
+Phthiraptera	Philopteridae	Chelopistes	Chelopistes sp. PyspOdgut
+Phthiraptera	Philopteridae	Chelopistes	Chelopistes texanus
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspSIfro
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspSicur
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspRhnig
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspPyxan
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspPyjoc
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspPlvel
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspPhino
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspPaele
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspFihyp
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspCimag
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspCamex
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspAicra
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspClpic
+Phthiraptera	Philopteridae	Brueelia	Brueelia brachythorax
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspMycol
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspMegul
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspArcya
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspErtri
+Phthiraptera	Philopteridae	Brueelia	Brueelia rotundata
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspCrbar
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspOrfla
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspMenov
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspUrery
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspZodam
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspPoruf
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspHyleu
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspHecas
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspFitri
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspEmpus
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspPagul
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspAlmor
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspCyban
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspTepar
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspNabre
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspOrchi
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspStstr
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspGamae
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspSafer
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspDihot
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspLelut
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspMevir
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspLostr
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspCasin
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspTrvir
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspCocae
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspPamel
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspMelew
+Phthiraptera	Philopteridae	Brueelia	Brueelia longa
+Phthiraptera	Philopteridae	Brueelia	Brueelia biocellata
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspLofus
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspCoazu
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspCipun
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspMemys
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspMecru
+Phthiraptera	Philopteridae	Brueelia	Brueelia sp. BrspMeorn
+Phthiraptera	Philopteridae	Brueelia	Brueelia quadrangularis
+Phthiraptera	Philopteridae	Brueelia	Brueelia deficiens
+Phthiraptera	Philopteridae	Brueelia	Brueelia ornatissima
+Phthiraptera	Philopteridae	Brueelia	Brueelia brunneinucha
+Phthiraptera	Philopteridae	Brueelia	Brueelia laticeps
+Phthiraptera	Philopteridae	Brueelia	Brueelia marginella
+Phthiraptera	Philopteridae	Bedfordiella	Bedfordiella unica
+Phthiraptera	Philopteridae	Aquanirmus	Aquanirmus sp. AqspTanov
+Phthiraptera	Philopteridae	Aquanirmus	Aquanirmus sp. AqspPopol
+Phthiraptera	Philopteridae	Aquanirmus	Aquanirmus podicepis
+Phthiraptera	Philopteridae	Aquanirmus	Aquanirmus podilymbus
+Phthiraptera	Philopteridae	Aquanirmus	Aquanirmus rollandii
+Phthiraptera	Philopteridae	Aquanirmus	Aquanirmus occidentalis
+Phthiraptera	Philopteridae	Haffneria	Haffneria grandis
+Phthiraptera	Philopteridae	Oxylipeurus	Oxylipeurus sp. OxspOdspe
+Phthiraptera	Philopteridae	Oxylipeurus	Oxylipeurus inaequalis
+Phthiraptera	Philopteridae	Oxylipeurus	Oxylipeurus sp. Cxnum
+Phthiraptera	Philopteridae	Oxylipeurus	Oxylipeurus sp. Lisp.Rorou
+Phthiraptera	Philopteridae	Oxylipeurus	Oxylipeurus chiniri
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides sp. PhspGevrg
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides perijae
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides sp. PhspPhcha
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides sp. CaspPhhis
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides sp. CcspPhele
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides sp. CcspPeruf
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides sp. CcspPealb
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides zenaidurae
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides wisemani
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides spenceri
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides cubanus
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides ceratoceps
+Phthiraptera	Philopteridae	Physconelloides	Physconelloides anolaimae
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspHenov
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspGestr
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspCosjo
+Phthiraptera	Philopteridae	Coloceras	Coloceras stephani
+Phthiraptera	Philopteridae	Coloceras	Coloceras clayae
+Phthiraptera	Philopteridae	Coloceras	Coloceras castroi
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspGepla
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcpsOclop
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspGehum
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspGecun
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspLemel
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspStpic
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspStsem
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspTucha
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspTutym
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspAplar
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspStcap
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspStlug
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspChind
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CaspColcm
+Phthiraptera	Philopteridae	Coloceras	Coloceras sp. CcspMamac
+Phthiraptera	Philopteridae	Coloceras	Coloceras tovornikae
+Phthiraptera	Philopteridae	Coloceras	Coloceras museihalense
+Phthiraptera	Philopteridae	Coloceras	Coloceras setosum
+Phthiraptera	Philopteridae	Coloceras	Coloceras grande
+Phthiraptera	Philopteridae	Coloceras	Coloceras damicorne
+Phthiraptera	Philopteridae	Coloceras	Coloceras furcatum
+Phthiraptera	Philopteridae	Coloceras	Coloceras laticlypeatus
+Phthiraptera	Philopteridae	Coloceras	Coloceras hilli
+Phthiraptera	Philopteridae	Coloceras	Coloceras doreyanus
+Phthiraptera	Philopteridae	Coloceras	Coloceras clypeatum
+Phthiraptera	Philopteridae	Coloceras	Coloceras chinense
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes heteroceros
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes sp. CaspGehum
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes sp. CaspGesmi
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes sp. CaspGeplu
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes campanulatus
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes frenatus
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes flavus
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes elegans
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes durdeni
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes bidentatus
+Phthiraptera	Philopteridae	Campanulotes	Campanulotes compar
+Phthiraptera	Philopteridae	Auricotes	Auricotes sp. AuspDubak
+Phthiraptera	Philopteridae	Auricotes	Auricotes sp. AuspDupac
+Phthiraptera	Philopteridae	Auricotes	Auricotes sp. AuspPtriv
+Phthiraptera	Philopteridae	Auricotes	Auricotes sp. AuspDubic
+Phthiraptera	Philopteridae	Auricotes	Auricotes affinis
+Phthiraptera	Philopteridae	Auricotes	Auricotes rotundus
+Phthiraptera	Philopteridae	Columbicola	Columbicola sp. CospZeaur
+Phthiraptera	Philopteridae	Columbicola	Columbicola sp. CospGevrg
+Phthiraptera	Philopteridae	Columbicola	Columbicola sp. PnpicBlrub
+Phthiraptera	Philopteridae	Columbicola	Columbicola sp. CospOecap
+Phthiraptera	Philopteridae	Columbicola	Columbicola sp. CospCosjo
+Phthiraptera	Philopteridae	Columbicola	Columbicola sp. Tusp.Tutym
+Phthiraptera	Philopteridae	Columbicola	Columbicola palmai
+Phthiraptera	Philopteridae	Columbicola	Columbicola waggermani
+Phthiraptera	Philopteridae	Columbicola	Columbicola wolffhuegeli
+Phthiraptera	Philopteridae	Columbicola	Columbicola wecksteini
+Phthiraptera	Philopteridae	Columbicola	Columbicola taschenbergi
+Phthiraptera	Philopteridae	Columbicola	Columbicola mjoebergi
+Phthiraptera	Philopteridae	Columbicola	Columbicola meinertzhageni
+Phthiraptera	Philopteridae	Columbicola	Columbicola guimaraesi
+Phthiraptera	Philopteridae	Columbicola	Columbicola emersoni
+Phthiraptera	Philopteridae	Columbicola	Columbicola elbeli
+Phthiraptera	Philopteridae	Columbicola	Columbicola angustus
+Phthiraptera	Philopteridae	Columbicola	Columbicola timmermanni
+Phthiraptera	Philopteridae	Columbicola	Columbicola extinctus
+Phthiraptera	Philopteridae	Columbicola	Columbicola exilicornis
+Phthiraptera	Philopteridae	Columbicola	Columbicola macrourae
+Phthiraptera	Philopteridae	Columbicola	Columbicola columbae
+Phthiraptera	Philopteridae	Columbicola	Columbicola baculoides
+Phthiraptera	Philopteridae	Trabeculus	Trabeculus hexakon
+Phthiraptera	Philopteridae	Saemundssonia	Saemundssonia sp. CjspNupha
+Phthiraptera	Philopteridae	Saemundssonia	Saemundssonia sp. CjspNumin
+Phthiraptera	Philopteridae	Saemundssonia	Saemundssonia laticaudata
+Phthiraptera	Philopteridae	Saemundssonia	Saemundssonia melanocephalus
+Phthiraptera	Philopteridae	Saemundssonia	Saemundssonia sp. SaspStber
+Phthiraptera	Philopteridae	Saemundssonia	Saemundssonia sagulata
+Phthiraptera	Philopteridae	Saemundssonia	Saemundssonia wumisuzume
+Phthiraptera	Philopteridae	Saemundssonia	Saemundssonia haematopi
+Phthiraptera	Philopteridae	Saemundssonia	Saemundssonia lari
+Phthiraptera	Philopteridae	Halipeurus	Halipeurus abnormis
+Phthiraptera	Philopteridae	Halipeurus	Halipeurus diversus
+Phthiraptera	Philopteridae	Austrogoniodes	Austrogoniodes waterstoni
+Phthiraptera	Menoponidae	Eureum	Eureum sp. EuspTasq
+Phthiraptera	Menoponidae	Eureum	Eureum sp. EuspCoes
+Phthiraptera	Menoponidae	Heleonomus	Heleonomus assimilis
+Phthiraptera	Menoponidae	Amyrsidea	Amyrsidea jacquacu
+Phthiraptera	Menoponidae	Kaysius	Kaysius sp. NispLivoc
+Phthiraptera	Menoponidae	Heteromenopon	Heteromenopon sp. HmspArjan
+Phthiraptera	Menoponidae	Machaerilaemus	Machaerilaemus sp. MaspWipoe
+Phthiraptera	Menoponidae	Comatomenopon	Comatomenopon sp. CmspArmel
+Phthiraptera	Menoponidae	Bonomiella	Bonomiella columbae
+Phthiraptera	Menoponidae	Bonomiella	Bonomiella sp. BnspCoarq
+Phthiraptera	Menoponidae	Turacoeca	Turacoeca sp. TuspMujoh
+Phthiraptera	Menoponidae	Meromenopon	Meromenopon meropis
+Phthiraptera	Menoponidae	Quateia	Quateia irianensis
+Phthiraptera	Menoponidae	Psittacomenopon	Psittacomenopon gulielmi
+Phthiraptera	Menoponidae	Psittacobrosus	Psittacobrosus amazonicus
+Phthiraptera	Menoponidae	Pseudomenopon	Pseudomenopon pilosum
+Phthiraptera	Menoponidae	Pseudomenopon	Pseudomenopon dolium
+Phthiraptera	Menoponidae	Plegadiphilus	Plegadiphilus plegadis
+Phthiraptera	Menoponidae	Piagetiella	Piagetiella peralis
+Phthiraptera	Menoponidae	Odoriphila	Odoriphila phoeniculi
+Phthiraptera	Menoponidae	Numidicola	Numidicola antennatus
+Phthiraptera	Menoponidae	Nosopon	Nosopon lucidum
+Phthiraptera	Menoponidae	Eidmanniella	Eidmanniella pustulosa
+Phthiraptera	Menoponidae	Cuculiphilus	Cuculiphilus platygaster
+Phthiraptera	Menoponidae	Austromenopon	Austromenopon atrofulvum
+Phthiraptera	Menoponidae	Actornithophilus	Actornithophilus hoplopteri
+Phthiraptera	Menoponidae	Dicteisia	Dicteisia sp. DcspChtor
+Phthiraptera	Menoponidae	Franciscoloa	Franciscoloa sp. FrspCaban
+Phthiraptera	Menoponidae	Clayia	Clayia sp. ClspFraha
+Phthiraptera	Menoponidae	Ramphasticola	Ramphasticola sp. RmspRatuc
+Phthiraptera	Menoponidae	Apterygon	Apterygon sp. ApspApsp
+Phthiraptera	Menoponidae	Eomenopon	Eomenopon sp. EospTrhae
+Phthiraptera	Menoponidae	Kelerimenopon	Kelerimenopon sp. KmspPiiri
+Phthiraptera	Menoponidae	Kelerimenopon	Kelerimenopon sp. KmspCaban
+Phthiraptera	Menoponidae	Holomenopon	Holomenopon sp. HpspAnstr
+Phthiraptera	Menoponidae	Menacanthus	Menacanthus balfouri
+Phthiraptera	Menoponidae	Menacanthus	Menacanthus sp. MespPhalb
+Phthiraptera	Menoponidae	Menacanthus	Menacanthus sp. MespComel
+Phthiraptera	Menoponidae	Menacanthus	Menacanthus sp. MespMepuc
+Phthiraptera	Menoponidae	Menacanthus	Menacanthus sp. MespOrvet
+Phthiraptera	Menoponidae	Kurodaia	Kurodaia haliaeeti
+Phthiraptera	Menoponidae	Ciconiphilus	Ciconiphilus decimfasciatus
+Phthiraptera	Menoponidae	Fregatiella	Fregatiella aurifasciata
+Phthiraptera	Menoponidae	Colpocephalum	Colpocephalum unciferum
+Phthiraptera	Menoponidae	Colpocephalum	Colpocephalum nanum
+Phthiraptera	Menoponidae	Colpocephalum	Colpocephalum kelloggi
+Phthiraptera	Menoponidae	Colpocephalum	Colpocephalum cristatae
+Phthiraptera	Menoponidae	Colpocephalum	Colpocephalum turbinatum
+Phthiraptera	Menoponidae	Myrsidea	Myrsidea sp. BrspMaspl
+Phthiraptera	Menoponidae	Myrsidea	Myrsidea sp. MyspEujav
+Phthiraptera	Menoponidae	Myrsidea	Myrsidea sp. MyspTymel
+Phthiraptera	Menoponidae	Myrsidea	Myrsidea sp. MyspGycal
+Phthiraptera	Menoponidae	Myrsidea	Myrsidea sp. MyspRatuc
+Phthiraptera	Menoponidae	Myrsidea	Myrsidea sp. MyspHymus
+Phthiraptera	Menoponidae	Myrsidea	Myrsidea sp. Mysp
+Phthiraptera	Menoponidae	Myrsidea	Myrsidea minuscula
+Phthiraptera	Menoponidae	Myrsidea	Myrsidea wombeyi
+Phthiraptera	Menoponidae	Menopon	Menopon gallinae
+Phthiraptera	Menoponidae	Hoazineus	Hoazineus armiferus
+Phthiraptera	Menoponidae	Chapinia	Chapinia lophocerus
+Phthiraptera	Menoponidae	Trinoton	Trinoton nigrum
+Phthiraptera	Menoponidae	Trinoton	Trinoton fluviatile
+Phthiraptera	Menoponidae	Trinoton	Trinoton querquedulae
+Phthiraptera	Menoponidae	Hohorstiella	Hohorstiella radovskyi
+Phthiraptera	Menoponidae	Hohorstiella	Hohorstiella lata
+Phthiraptera	Menoponidae	Colimenopon	Colimenopon urocolius
+Phthiraptera	Menoponidae	Ancistrona	Ancistrona vagelli
+Phthiraptera	Menoponidae	Dennyus	Dennyus vonarxi
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespTasq
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespCypa
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespCycr
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespCyba
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespColi
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespCoes3
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespCoes2
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespCoes1
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespChci
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespChbr
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespApap
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespAeva
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespAete
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespAefu
+Phthiraptera	Menoponidae	Dennyus	Dennyus southwoodi
+Phthiraptera	Menoponidae	Dennyus	Dennyus meridionalis
+Phthiraptera	Menoponidae	Dennyus	Dennyus bruneri
+Phthiraptera	Menoponidae	Dennyus	Dennyus brunneitorques
+Phthiraptera	Menoponidae	Dennyus	Dennyus malagonensis
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespCoesc639
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespCoesc241
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespChegr
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespChspi
+Phthiraptera	Menoponidae	Dennyus	Dennyus sp. DespAepap
+Phthiraptera	Menoponidae	Dennyus	Dennyus pascoliae
+Phthiraptera	Menoponidae	Dennyus	Dennyus dubius
+Phthiraptera	Menoponidae	Dennyus	Dennyus simberloffi
+Phthiraptera	Menoponidae	Dennyus	Dennyus hirundinis
+Phthiraptera	Menoponidae	Dennyus	Dennyus cypsiurus
+Phthiraptera	Menoponidae	Dennyus	Dennyus carljonesi
+Phthiraptera	Menoponidae	Dennyus	Dennyus adamsae
+Thysanoptera	Heterothripidae	Heterothrips	Heterothrips salicis
+Thysanoptera	Melanthripidae	Dorythrips	Dorythrips wallacei
+Thysanoptera	Aeolothripidae	Dactuliothrips	Dactuliothrips xerophilus
+Thysanoptera	Merothripidae	Merothrips	Merothrips floridensis
+Thysanoptera	Thripidae	Hercinothrips	Hercinothrips bicinctus
+Thysanoptera	Thripidae	Neurisothrips	Neurisothrips sp. 2 KJ-2017
+Thysanoptera	Thripidae	Neurisothrips	Neurisothrips sp. 3 KJ-2017
+Thysanoptera	Thripidae	Nesothrips	Nesothrips lativentris
+Thysanoptera	Thripidae	Monilothrips	Monilothrips kempi
+Thysanoptera	Thripidae	Anisopilothrips	Anisopilothrips venustulus
+Thysanoptera	Thripidae	Anaphothrips	Anaphothrips swezeyi
+Thysanoptera	Thripidae	Helionothrips	Helionothrips spinosus
+Thysanoptera	Thripidae	Dendrothrips	Dendrothrips diaspora
+Thysanoptera	Thripidae	Dichromothrips	Dichromothrips smithi
+Thysanoptera	Thripidae	Pseudanaphothrips	Pseudanaphothrips achaetus
+Thysanoptera	Thripidae	Australothrips	Australothrips bicolor
+Thysanoptera	Thripidae	Aptinothrips	Aptinothrips rufus
+Thysanoptera	Thripidae	Sciothrips	Sciothrips cardamomi
+Thysanoptera	Thripidae	Heliothrips	Heliothrips haemorrhoidalis
+Thysanoptera	Thripidae	Scirtothrips	Scirtothrips dobroskyi
+Thysanoptera	Thripidae	Scirtothrips	Scirtothrips dorsalis
+Thysanoptera	Thripidae	Thrips	Thrips maculicollis
+Thysanoptera	Thripidae	Thrips	Thrips hawaiiensis
+Thysanoptera	Thripidae	Thrips	Thrips imaginis
+Thysanoptera	Thripidae	Frankliniella	Frankliniella invasor
+Thysanoptera	Thripidae	Frankliniella	Frankliniella insularis
+Thysanoptera	Thripidae	Frankliniella	Frankliniella occidentalis
+Thysanoptera	Phlaeothripidae	Lissothrips	Lissothrips tallagandai
+Thysanoptera	Phlaeothripidae	Malesiathrips	Malesiathrips australis
+Thysanoptera	Phlaeothripidae	Zemiathrips	Zemiathrips triseta
+Thysanoptera	Phlaeothripidae	Tolmetothrips	Tolmetothrips smilacis
+Thysanoptera	Phlaeothripidae	Thaumatothrips	Thaumatothrips froggatti
+Thysanoptera	Phlaeothripidae	Psalidothrips	Psalidothrips taylori
+Thysanoptera	Phlaeothripidae	Phallothrips	Phallothrips houstoni
+Thysanoptera	Phlaeothripidae	Iotatubothrips	Iotatubothrips crozieri
+Thysanoptera	Phlaeothripidae	Eurynothrips	Eurynothrips magnicollis
+Thysanoptera	Phlaeothripidae	Euoplothrips	Euoplothrips bagnalli
+Thysanoptera	Phlaeothripidae	Choleothrips	Choleothrips geijerae
+Thysanoptera	Phlaeothripidae	Celidothrips	Celidothrips camelus
+Thysanoptera	Phlaeothripidae	Allothrips	Allothrips stannardi
+Thysanoptera	Phlaeothripidae	Triadothrips	Triadothrips briga
+Thysanoptera	Phlaeothripidae	Sacothrips	Sacothrips corycidis
+Thysanoptera	Phlaeothripidae	Liothrips	Liothrips crassipes
+Thysanoptera	Phlaeothripidae	Leeuwenia	Leeuwenia tetrastigmae
+Thysanoptera	Phlaeothripidae	Koptothrips	Koptothrips zelus
+Thysanoptera	Phlaeothripidae	Dolichothrips	Dolichothrips reuteri
+Thysanoptera	Phlaeothripidae	Carientothrips	Carientothrips semirufus
+Thysanoptera	Phlaeothripidae	Baenothrips	Baenothrips caenosus
+Thysanoptera	Phlaeothripidae	Cartomothrips	Cartomothrips neboissi
+Thysanoptera	Phlaeothripidae	Teuchothrips	Teuchothrips sp. TespPH
+Thysanoptera	Phlaeothripidae	Haplothrips	Haplothrips victoriensis
+Thysanoptera	Phlaeothripidae	Strepterothrips	Strepterothrips tuberculatus
+Thysanoptera	Phlaeothripidae	Idolothrips	Idolothrips spectrum
+Thysanoptera	Phlaeothripidae	Lichanothrips	Lichanothrips magnificus
+Thysanoptera	Phlaeothripidae	Gynaikothrips	Gynaikothrips ficorum
+Thysanoptera	Phlaeothripidae	Kladothrips	Kladothrips rugosus
+Strepsiptera	Stylopidae	Stylops	Stylops melittae
+Hymenoptera	Cimbicidae	Abia	Abia berezowskii
+Hymenoptera	Chrysididae	Philoctetes	Philoctetes bogdanovii
+Hymenoptera	Sapygidae	Monosapyga	Monosapyga clavicornis
+Hymenoptera	Diapriidae	Trichopria	Trichopria drosophilae
+Hymenoptera	Siricidae	Tremex	Tremex magus
+Hymenoptera	Torymidae	Podagrion	Podagrion pachymerum
+Hymenoptera	Braconidae	Macrocentrus	Macrocentrus marginator
+Hymenoptera	Agaonidae	Elisabethiella	Elisabethiella stueckenbergi
+Hymenoptera	Chyphotidae	Chyphotes	Chyphotes sp. AD-2014
+Hymenoptera	Ceraphronidae	Ceraphron	Ceraphron sp. AD-2014
+Hymenoptera	Orussidae	Orussus	Orussus unicolor
+Hymenoptera	Halictidae	Sphecodes	Sphecodes albilabris
+Hymenoptera	Crabronidae	Spilomena	Spilomena beata
+Hymenoptera	Crabronidae	Oxybelus	Oxybelus bipunctatus
+Hymenoptera	Crabronidae	Gorytes	Gorytes laticinctus
+Hymenoptera	Vespidae	Quartinia	Quartinia thebaica
+Hymenoptera	Vespidae	Celonites	Celonites abbreviatus
+Hymenoptera	Vespidae	Symmorphus	Symmorphus murarius
+Hymenoptera	Cephidae	Cephus	Cephus spinipes
+Hymenoptera	Pompilidae	Heterodontonyx	Heterodontonyx sp. AD-2014
+Hymenoptera	Pompilidae	Pompilus	Pompilus cinereus
+Hymenoptera	Ichneumonidae	Heteropelma	Heteropelma amictum
+Hymenoptera	Sphecidae	Chlorion	Chlorion hirtum
+Hymenoptera	Sphecidae	Ammophila	Ammophila sabulosa
+Hymenoptera	Sphecidae	Chalybion	Chalybion californicum
+Hymenoptera	Cynipidae	Synergus	Synergus umbraculus
+Hymenoptera	Scoliidae	Colpa	Colpa sexmaculata
+Hymenoptera	Evaniidae	Brachygaster	Brachygaster minutus
+Hymenoptera	Eucharitidae	Eucharis	Eucharis adscendens
+Hymenoptera	Aphelinidae	Aphelinus	Aphelinus abdominalis
+Hymenoptera	Mymaridae	Cosmocomoidea	Cosmocomoidea morrilli
+Hymenoptera	Megachilidae	Dioxys	Dioxys cincta
+Hymenoptera	Megachilidae	Coelioxys	Coelioxys conoidea
+Hymenoptera	Megachilidae	Chelostoma	Chelostoma florisomne
+Hymenoptera	Megachilidae	Megachile	Megachile willughbiella
+Hymenoptera	Megachilidae	Osmia	Osmia cornuta
+Hymenoptera	Eulophidae	Diglyphus	Diglyphus isaea
+Hymenoptera	Pelecinidae	Pelecinus	Pelecinus polyturator
+Hymenoptera	Apidae	Nomada	Nomada lathburiana
+Hymenoptera	Apidae	Bombus	Bombus rupestris
+Dermaptera	Anisolabididae	Gonolabis	Gonolabis marginalis
+Dermaptera	Forficulidae	Forficula	Forficula auricularia
+Mantodea	Mantidae	Mantis	Mantis religiosa
+Diptera	Sepsidae	Meroplius	Meroplius fasciculatus
+Diptera	Oestridae	Cuterebra	Cuterebra austeni
+Diptera	Trichoceridae	Trichocera	Trichocera saltator
+Diptera	Stratiomyidae	Ptecticus	Ptecticus tenebrifer
+Diptera	Lonchopteridae	Lonchoptera	Lonchoptera bifurcata
+Diptera	Chironomidae	Polypedilum	Polypedilum vanderplanki
+Diptera	Syrphidae	Eristalis	Eristalis pertinax
+Diptera	Syrphidae	Ferdinandea	Ferdinandea cuprea
+Diptera	Bibionidae	Bibio	Bibio marci
+Diptera	Dolichopodidae	Heteropsilopus	Heteropsilopus ingenuus
+Diptera	Calliphoridae	Calliphora	Calliphora vomitoria
+Diptera	Drosophilidae	Drosophila	Drosophila melanogaster
+Lepidoptera	Mimallonidae	Menevia	Menevia lantona
+Lepidoptera	Erebidae	Amata	Amata phegea
+Lepidoptera	Crambidae	Catoptria	Catoptria falsella
+Lepidoptera	Crambidae	Leucinodes	Leucinodes orbonalis
+Lepidoptera	Saturniidae	Samia	Samia wangi
+Lepidoptera	Hepialidae	Triodia	Triodia sylvina
+Lepidoptera	Hesperiidae	Urbanus	Urbanus proteus
+Lepidoptera	Adelidae	Nemophora	Nemophora degeerella
+Lepidoptera	Lasiocampidae	Dendrolimus	Dendrolimus pini
+Lepidoptera	Nymphalidae	Vanessa	Vanessa cardui
+Lepidoptera	Nymphalidae	Pararge	Pararge aegeria
+Lepidoptera	Pieridae	Eurema	Eurema mandarina
+Lepidoptera	Pieridae	Colias	Colias croceus
+Lepidoptera	Papilionidae	Papilio	Papilio xuthus
+Lepidoptera	Noctuidae	Spodoptera	Spodoptera litura
+Lepidoptera	Noctuidae	Spodoptera	Spodoptera frugiperda
+Lepidoptera	Bombycidae	Bombyx	Bombyx mori
+Coleoptera	Tenebrionidae	Zophobas	Zophobas morio
+Coleoptera	Rhipiceridae	Sandalus	Sandalus niger
+Coleoptera	Lymexylidae	Melittomma	Melittomma sp. AD-2015
+Coleoptera	Glaresidae	Glaresis	Glaresis sp. AD-2015
+Coleoptera	Gyrinidae	Dineutus	Dineutus sp. AD-2015
+Coleoptera	Erotylidae	Pharaxonotha	Pharaxonotha floridana
+Coleoptera	Elateridae	Drilus	Drilus concolor
+Coleoptera	Haliplidae	Haliplus	Haliplus fluviatilis
+Coleoptera	Cryptophagidae	Atomaria	Atomaria fuscata
+Coleoptera	Silvanidae	Uleiota	Uleiota planata
+Coleoptera	Geotrupidae	Anoplotrupes	Anoplotrupes stercorosus
+Coleoptera	Scarabaeidae	Trypoxylus	Trypoxylus dichotomus
+Coleoptera	Scarabaeidae	Onthophagus	Onthophagus similis
+Coleoptera	Coccinellidae	Stethorus	Stethorus sp. AD-2015
+Coleoptera	Coccinellidae	Harmonia	Harmonia axyridis
+Coleoptera	Noteridae	Noterus	Noterus clavicornis
+Coleoptera	Dytiscidae	Cybister	Cybister lateralimarginalis
+Coleoptera	Chrysomelidae	Oreina	Oreina cacaliae
+Coleoptera	Curculionidae	Larinus	Larinus minutus
+Coleoptera	Curculionidae	Hypothenemus	Hypothenemus hampei
+Coleoptera	Curculionidae	Ips	Ips typographus
+Coleoptera	Curculionidae	Diaprepes	Diaprepes abbreviatus
+Coleoptera	Curculionidae	Sitophilus	Sitophilus zeamais
+Hemiptera	Anthocoridae	Lasiochilus	Lasiochilus sp. LASspLAS
+Hemiptera	Enicocephalidae	Alienates	Alienates sp. AlspENIC
+Hemiptera	Aenictopecheidae	Tornocrusus	Tornocrusus sp. AENspAEN
+Hemiptera	Omaniidae	Omania	Omania coleoptrata
+Hemiptera	Megarididae	Megaris	Megaris sp. MEGspMEG
+Hemiptera	Medocostidae	Medocostes	Medocostes sp. MespMED
+Hemiptera	Geocoridae	Epipolops	Epipolops sp. EpspGEO
+Hemiptera	Vianaididae	Anommatocoris	Anommatocoris minutissimus
+Hemiptera	Urostylididae	Urostylis	Urostylis sp. UrspURO
+Hemiptera	Oxycarenidae	Oxycarenus	Oxycarenus sp. OXYspOXY
+Hemiptera	Plokiophilidae	Lipokophila	Lipokophila tengella
+Hemiptera	Lestoniidae	Lestonia	Lestonia sp. LESspLES
+Hemiptera	Tessaratomidae	Piezosternum	Piezosternum sp. PispTES
+Hemiptera	Tessaratomidae	Eusthenes	Eusthenes femoralis
+Hemiptera	Stenocephalidae	Dicranocephalus	Dicranocephalus sp. DispSTE
+Hemiptera	Ninidae	Cymoninus	Cymoninus sp. CyspNIN
+Hemiptera	Dipsocoridae	Cryptostemma	Cryptostemma sp. CrspDIPS
+Hemiptera	Canopidae	Canopus	Canopus sp. CANspCAN
+Hemiptera	Schizopteridae	Rectilamina	Rectilamina sp. KJ-2017
+Hemiptera	Meenoplidae	Nisamia	Nisamia sp. KJ-2017
+Hemiptera	Cerococcidae	Cerococcus	Cerococcus sp. KJ-2017
+Hemiptera	Asterolecaniidae	Russellaspis	Russellaspis sp. KJ-2017
+Hemiptera	Phacopteronidae	Pseudophacopteron	Pseudophacopteron sp. A KJ-2017
+Hemiptera	Myerslopiidae	Mapuchea	Mapuchea sp. KJ-2017
+Hemiptera	Kinnaridae	Quilessa	Quilessa sp. KJ-2017
+Hemiptera	Achilixiidae	Bebaiotes	Bebaiotes sp. KJ-2017
+Hemiptera	Velocipedidae	Scotomedes	Scotomedes sp. VELspVEL
+Hemiptera	Velocipedidae	Costomedes	Costomedes karimui
+Hemiptera	Cercopidae	Asprocranites	Asprocranites variegata
+Hemiptera	Steingeliidae	Araucaricoccus	Araucaricoccus queenslandicus
+Hemiptera	Psyllidae	Freysuila	Freysuila caesalpiniae
+Hemiptera	Psyllidae	Russelliana	Russelliana solanicola
+Hemiptera	Homotomidae	Mycopsylla	Mycopsylla gardenensis
+Hemiptera	Lophopidae	Lophops	Lophops saccharicida
+Hemiptera	Lecanodiaspididae	Lecanodiaspis	Lecanodiaspis rufescens
+Hemiptera	Liviidae	Euphyllura	Euphyllura phillyreae
+Hemiptera	Lyctocoridae	Lyctocoris	Lyctocoris campestris
+Hemiptera	Phoenicococcidae	Phoenicococcus	Phoenicococcus marlatti
+Hemiptera	Cymidae	Cymus	Cymus coriacipennis
+Hemiptera	Microphysidae	Loricula	Loricula sp. MICspMIC
+Hemiptera	Microphysidae	Loricula	Loricula pselaphiformis
+Hemiptera	Flatidae	Ormenoides	Ormenoides venusta
+Hemiptera	Membracidae	Scytodepsa	Scytodepsa sp. KJ-2017
+Hemiptera	Membracidae	Centrotus	Centrotus cornutus
+Hemiptera	Membracidae	Atymna	Atymna helena
+Hemiptera	Coelostomidiidae	Coelostomidia	Coelostomidia montana
+Hemiptera	Aphididae	Neophyllaphis	Neophyllaphis varicolor
+Hemiptera	Aphididae	Iziphya	Iziphya flabella
+Hemiptera	Diaspididae	Fissuraspis	Fissuraspis ulmi
+Hemiptera	Diaspididae	Furcaspis	Furcaspis capensis
+Hemiptera	Diaspididae	Comstockiella	Comstockiella sabalis
+Hemiptera	Artheneidae	Chilacis	Chilacis typhae
+Hemiptera	Belostomatidae	Diplonychus	Diplonychus rusticus
+Hemiptera	Thaumastocoridae	Thaumastocoris	Thaumastocoris peregrinus
+Hemiptera	Thaumastocoridae	Discocoris	Discocoris drakei
+Hemiptera	Acanthosomatidae	Acanthosoma	Acanthosoma haemorrhoidale
+Hemiptera	Parastrachiidae	Dismegistus	Dismegistus sanguineus
+Hemiptera	Thaumastellidae	Thaumastella	Thaumastella namaquensis
+Hemiptera	Carsidaridae	Protyora	Protyora sterculiae
+Hemiptera	Margarodidae	Xylococculus	Xylococculus macrocarpae
+Hemiptera	Margarodidae	Marchalina	Marchalina hellenica
+Hemiptera	Halimococcidae	Thysanococcus	Thysanococcus pandani
+Hemiptera	Conchaspididae	Fagisuga	Fagisuga triloba
+Hemiptera	Stictococcidae	Stictococcus	Stictococcus vayssierei
+Hemiptera	Stictococcidae	Stictococcus	Stictococcus sjostedti
+Hemiptera	Beesoniidae	Gallacoccus	Gallacoccus heckrothi
+Hemiptera	Tettigarctidae	Tettigarcta	Tettigarcta crinita
+Hemiptera	Aphrophoridae	Aphrophora	Aphrophora alni
+Hemiptera	Triozidae	Triozoida	Triozoida limbata
+Hemiptera	Triozidae	Pariaconus	Pariaconus gracilis
+Hemiptera	Triozidae	Acanthocasuarina	Acanthocasuarina muellerianae
+Hemiptera	Triozidae	Bactericera	Bactericera cockerelli
+Hemiptera	Pentatomidae	Dinidor	Dinidor sp. DINspDIN
+Hemiptera	Pentatomidae	Halyomorpha	Halyomorpha halys
+Hemiptera	Pleidae	Plea	Plea minutissima
+Hemiptera	Ochteridae	Ochterus	Ochterus marginatus
+Hemiptera	Termitaphididae	Termitaradus	Termitaradus australiensis
+Hemiptera	Miridae	Peritropis	Peritropis setosicornis
+Hemiptera	Miridae	Pachymerocorista	Pachymerocorista pilosus
+Hemiptera	Miridae	Myiomma	Myiomma sp. MIRIsoMIR
+Hemiptera	Miridae	Monalocoris	Monalocoris sp. MospMIR
+Hemiptera	Miridae	Helopeltis	Helopeltis sp. HespMIR
+Hemiptera	Miridae	Fulvius	Fulvius sp. FuspMIR
+Hemiptera	Miridae	Deraeocoris	Deraeocoris sp. DespMIR
+Hemiptera	Miridae	Coridromius	Coridromius sp. CospMIR
+Hemiptera	Miridae	Nesidiocoris	Nesidiocoris tenuis
+Hemiptera	Miridae	Larinocerus	Larinocerus balius
+Hemiptera	Hyocephalidae	Maevius	Maevius indecorus
+Hemiptera	Idiostolidae	Trisecus	Trisecus pictus
+Hemiptera	Joppeicidae	Joppeicus	Joppeicus paradoxus
+Hemiptera	Leptopodidae	Valleriola	Valleriola javanica
+Hemiptera	Pseudococcidae	Eumyrmococcus	Eumyrmococcus scorpioides
+Hemiptera	Pseudococcidae	Planococcus	Planococcus citri
+Hemiptera	Cicadellidae	Sudra	Sudra notanda
+Hemiptera	Cicadellidae	Myerslopella	Myerslopella taylori
+Hemiptera	Cicadellidae	Coloborrhis	Coloborrhis corticina
+Hemiptera	Cicadellidae	Signoretia	Signoretia dulitensis
+Hemiptera	Cicadellidae	Calliscarta	Calliscarta boliviana
+Hemiptera	Cicadellidae	Graphocephala	Graphocephala fennahi
+Hemiptera	Cicadellidae	Empoasca	Empoasca fabae
+Hemiptera	Cicadellidae	Lystridea	Lystridea uhleri
+Hemiptera	Phloeomyzidae	Phloeomyzus	Phloeomyzus passerinii
+Hemiptera	Cicadidae	Okanagana	Okanagana villosa
+Hemiptera	Cicadidae	Kikihia	Kikihia scutellaris
+Hemiptera	Aphalaridae	Glycaspis	Glycaspis brimblecombei
+Hemiptera	Delphacidae	Nilaparvata	Nilaparvata lugens
+Hemiptera	Peloridiidae	Rhacophysa	Rhacophysa taylori
+Hemiptera	Peloridiidae	Oiophysella	Oiophysella degenerata
+Hemiptera	Peloridiidae	Craspedophysa	Craspedophysa monteithi
+Hemiptera	Peloridiidae	Xenophyes	Xenophyes metoponcus
+Hemiptera	Peloridiidae	Hemiodoecus	Hemiodoecus acutus
+Hemiptera	Peloridiidae	Xenophysella	Xenophysella greensladeae
+Hemiptera	Peloridiidae	Peloridium	Peloridium hammoniorum
+Hemiptera	Peloridiidae	Hemiowoodwardia	Hemiowoodwardia wilsoni
+Hemiptera	Gerromorpha	Hebridae	Hebrus
+Hemiptera	Gerromorpha	Macroveliidae	Macrovelia
+Hemiptera	Aleyrodidae	Aleurotrachelus	Aleurotrachelus sp. Alela
+Hemiptera	Aleyrodidae	Chitonaleyrodes	Chitonaleyrodes canberrensis
+Hemiptera	Aleyrodidae	Aleuroctarthrus	Aleuroctarthrus destructor
+Hemiptera	Aleyrodidae	Aleuroclava	Aleuroclava jasmini
+Hemiptera	Aleyrodidae	Paraleyrodes	Paraleyrodes minei
+Hemiptera	Aleyrodidae	Aleurocanthus	Aleurocanthus neofroggatti
+Hemiptera	Aleyrodidae	Aleurocanthus	Aleurocanthus spiniferus
+Hemiptera	Aleyrodidae	Dialeurodes	Dialeurodes kirkaldyi
+Hemiptera	Aleyrodidae	Dialeurodes	Dialeurodes citri
+Hemiptera	Aleyrodidae	Aleyrodes	Aleyrodes proletella
+Hemiptera	Aleyrodidae	Trialeurodes	Trialeurodes vaporariorum
+Hemiptera	Aleyrodidae	Bemisia	Bemisia afer
+Hemiptera	Aleyrodidae	Bemisia	Bemisia tabaci
+Blattodea	Pseudophyllodromiidae	Balta	Balta vilis
+Blattodea	Rhinotermitidae	Coptotermes	Coptotermes sp. AD-2015
+Blattodea	Tryonicidae	Tryonicus	Tryonicus parvus
+Blattodea	Blattellidae	Ischnoptera	Ischnoptera deropeltiformis
+Blattodea	Blattellidae	Paratemnopteryx	Paratemnopteryx couloniana
+Blattodea	Cryptocercidae	Cryptocercus	Cryptocercus wrighti
+Blattodea	Ectobiidae	Ectobius	Ectobius sylvestris
+Blattodea	Ectobiidae	Supella	Supella longipalpa
+Blattodea	Corydiidae	Polyphaga	Polyphaga aegyptiaca
+Blattodea	Blattidae	Deropeltis	Deropeltis erythrocephala
+Blattodea	Blattidae	Periplaneta	Periplaneta americana

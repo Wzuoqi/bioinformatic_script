@@ -1,0 +1,2299 @@
+Insecta
++-Mantophasmatodea
+| \-Austrophasmatidae
+|   \-Austrophasmatidae sp. AD-2015
++-Zoraptera
+| \-Spiralizoridae
+|   \-Spiralizoros
+|     \-Spiralizoros caudelli
++-Raphidioptera
+| \-Raphidiidae
+|   +-Raphidia
+|   | \-Raphidia mediterranea
+|   +-Phaeostigma
+|   | \-Phaeostigma divina
+|   \-Puncha
+|     \-Puncha ratzeburgi
++-Grylloblattodea
+| \-Grylloblattidae
+|   \-Grylloblatta
+|     \-Grylloblatta bifratrilecta
++-Orthoptera
+| +-Pyrgomorphidae
+| | +-Dictyophorus
+| | | \-Dictyophorus griseus
+| | +-Phymateus
+| | | \-Phymateus viridipes
+| | +-Stenoscepa
+| | | \-Stenoscepa sp. AD-2015
+| | \-Atractomorpha
+| |   \-Atractomorpha sp. AD-2015
+| +-Gryllacrididae
+| | \-Nippancistroger
+| |   \-Nippancistroger testaceus
+| \-Tetrigidae
+|   \-Tetrix
+|     \-Tetrix subulata
++-Megaloptera
+| +-Corydalidae
+| | +-Corydalidae sp. AD-2015
+| | +-Chauliodes
+| | | \-Chauliodes sp. AD-2015
+| | \-Corydalus
+| |   \-Corydalus cornutus
+| \-Sialidae
+|   \-Sialis
+|     \-Sialis lutaria
++-Plecoptera
+| \-Perlidae
+|   \-Perla
+|     \-Perla marginata
++-Siphonaptera
+| \-Ceratophyllidae
+|   \-Ceratophyllus
+|     \-Ceratophyllus gallinae
++-Psocoptera
+| +-Troctopsocidae
+| | \-Thaipsocus
+| |   \-Thaipsocus sp. ThspTR
+| +-Spurostigmatidae
+| | \-Spurostigma
+| |   \-Spurostigma sp. SpspCL
+| +-Lepidopsocidae
+| | \-Lepium
+| |   \-Lepium sp. LpspLE
+| +-Pseudocaeciliidae
+| | +-Zelandopsocus
+| | | \-Zelandopsocus sp. ZespPS
+| | \-Mepleres
+| |   \-Mepleres sp. MpspPS
+| +-Dolabellopsocidae
+| | \-Dolabellopsocus
+| |   \-Dolabellopsocus sp. DospDO
+| +-Hemipsocidae
+| | \-Hemipsocus
+| |   +-Hemipsocus sp. HespHE
+| |   \-Hemipsocus pretiosus
+| +-Epipsocidae
+| | \-Goja
+| |   \-Goja eertmoedi
+| +-Psilopsocidae
+| | \-Psilopsocus
+| |   \-Psilopsocus sp. PsspPS
+| +-Ptiloneuridae
+| | \-Loneura
+| |   \-Loneura mombachensis
+| +-Myopsocidae
+| | +-Myopsocus
+| | | +-Myopsocus sp. MyspCAL
+| | | \-Myopsocus sp. MyspPER
+| | \-Lichenomima
+| |   +-Lichenomima sp. LispMY
+| |   \-Lichenomima lugens
+| +-Cladiopsocidae
+| | \-Cladiopsocus
+| |   \-Cladiopsocus ocotensis
+| +-Calopsocidae
+| | \-Calopsocus
+| |   \-Calopsocus reticulatus
+| +-Bryopsocidae
+| | \-Bryopsocus
+| |   \-Bryopsocus townsendi
+| +-Psoquillidae
+| | \-Rhyopsocus
+| |   \-Rhyopsocus sp. RhspPQ
+| +-Neurostigmatidae
+| | \-Neurostigma
+| |   \-Neurostigma sp. NespNE
+| +-Musapsocidae
+| | \-Musapsocus
+| |   \-Musapsocus sp. MuspMU
+| +-Electrentomidae
+| | \-Epitroctes
+| |   \-Epitroctes sp. EpspEL
+| +-Trichopsocidae
+| | \-Trichopsocus
+| |   \-Trichopsocus clarus
+| +-Elipsocidae
+| | +-Nepiomorpha
+| | | \-Nepiomorpha sp. NespEL
+| | +-Kilauella
+| | | \-Kilauella sp. KispEL
+| | \-Propsocus
+| |   \-Propsocus pulchripennis
+| +-Asiopsocidae
+| | \-Asiopsocus
+| |   \-Asiopsocus sonorensis
+| +-Psocidae
+| | +-Trichadenotecnum
+| | | \-Trichadenotecnum majus
+| | \-Loensia
+| |   \-Loensia conspersa
+| +-Prionoglarididae
+| | +-Sensitibilla
+| | | \-Sensitibilla sp. SespPR
+| | +-Afrotrogla
+| | | \-Afrotrogla sp. AfspPR
+| | +-Prionoglaris
+| | | \-Prionoglaris stygia
+| | +-Neotrogla
+| | | \-Neotrogla sp. NespPR
+| | \-Speleketor
+| |   \-Speleketor irwini
+| +-Philotarsidae
+| | \-Philotarsus
+| |   \-Philotarsus kwakiutl
+| +-Lachesillidae
+| | +-Acantholachesilla
+| | | \-Acantholachesilla sp. AcspLA
+| | +-Notolachesilla
+| | | \-Notolachesilla sp. GRA1sp1LA
+| | +-Prolachesilla
+| | | +-Prolachesilla sp. GRAspLA
+| | | +-Prolachesilla sp. GRA2sp1LA
+| | | \-Prolachesilla sp. PrspLA
+| | +-Waoraniella
+| | | \-Waoraniella jarlinsoni
+| | +-Anomolachesilla
+| | | \-Anomolachesilla palaciosi
+| | +-Lachesilla
+| | | +-Lachesilla sp. Lasp7Q
+| | | +-Lachesilla sp. LaspMLY
+| | | +-Lachesilla sp. LaspGHN
+| | | +-Lachesilla punctata
+| | | +-Lachesilla texcocana
+| | | +-Lachesilla rufa
+| | | +-Lachesilla picticeps
+| | | \-Lachesilla pedicularia
+| | +-Anomopsocus
+| | | +-Anomopsocus sp. AnspLA
+| | | \-Anomopsocus amabilis
+| | \-Eolachesilla
+| |   \-Eolachesilla chilensis
+| +-Ectopsocidae
+| | \-Ectopsocopsis
+| |   \-Ectopsocopsis cryptomeriae
+| +-Pachytroctidae
+| | +-Tapinella
+| | | \-Tapinella sp. TaspPA
+| | +-Peritroctes
+| | | \-Peritroctes sp. PespPA
+| | \-Pachytroctes
+| |   \-Pachytroctes maculosus
+| +-Sphaeropsocidae
+| | +-Sphaeropsocus
+| | | \-Sphaeropsocus bicolor
+| | +-Hemicaecilius
+| | | +-Hemicaecilius smithersi
+| | | \-Hemicaecilius mockfordi
+| | +-Graphocaecilius
+| | | \-Graphocaecilius interpretatus
+| | +-Dagualachesilloides
+| | | \-Dagualachesilloides caliensis
+| | +-Dagualachesilla
+| | | \-Dagualachesilla anchicayaensis
+| | \-Badonnelia
+| |   \-Badonnelia titei
+| +-Amphipsocidae
+| | +-Teliapsocus
+| | | \-Teliapsocus conterminus
+| | +-Amphipsocus
+| | | \-Amphipsocus japonicus
+| | \-Polypsocus
+| |   \-Polypsocus corruptus
+| +-Archipsocidae
+| | +-Pararchipsocus
+| | | \-Pararchipsocus sp. PaspAR
+| | \-Archipsocus
+| |   +-Archipsocus sp. ArspAR
+| |   \-Archipsocus nomas
+| +-Peripsocidae
+| | +-Kaestneriella
+| | | \-Kaestneriella sp. KaspPE
+| | \-Peripsocus
+| |   +-Peripsocus phaeopterus
+| |   \-Peripsocus subfasciatus
+| +-Liposcelididae
+| | +-Embidopsocus
+| | | \-Embidopsocus sp. Emsp2LIv2
+| | \-Liposcelis
+| |   +-Liposcelis pearmani
+| |   \-Liposcelis brunnea
+| +-Psyllipsocidae
+| | \-Dorypteryx
+| |   \-Dorypteryx domestica
+| +-Compsocidae
+| | \-Compsocus
+| |   \-Compsocus elegans
+| +-Mesopsocidae
+| | \-Idatenopsocus
+| |   \-Idatenopsocus orientalis
+| \-Caeciliusidae
+|   +-Fuelleborniella
+|   | \-Fuelleborniella sp. FuspCA
+|   +-Paracaecilius
+|   | \-Paracaecilius japanus
+|   +-Dypsocus
+|   | \-Dypsocus coleoptratus
+|   +-Valenzuela
+|   | \-Valenzuela flavidus
+|   \-Xanthocaecilius
+|     \-Xanthocaecilius sommermanae
++-Neuroptera
+| +-Mantispidae
+| | +-Mantispinae sp. AD-2015
+| | \-Eumantispa
+| |   \-Eumantispa harmandi
+| +-Hemerobiidae
+| | \-Hemerobius
+| |   +-Hemerobius nitidulus
+| |   \-Hemerobius handschini
+| +-Myrmeleontidae
+| | \-Myrmeleon
+| |   \-Myrmeleon formicarius
+| \-Chrysopidae
+|   +-Apertochrysa
+|   | +-Apertochrysa ventralis
+|   | \-Apertochrysa flavifrons
+|   |   \-Apertochrysa flavifrons flavifrons
+|   +-Peyerimhoffina
+|   | \-Peyerimhoffina gracilis
+|   \-Chrysoperla
+|     \-Chrysoperla carnea
++-Phasmatodea
+| +-Aschiphasmatidae
+| | +-Abrosoma
+| | | \-Abrosoma johorense
+| | \-Orthomeria
+| |   \-Orthomeria sp. AD-2014
+| +-Pseudophasmatidae
+| | \-Peruphasma
+| |   \-Peruphasma schultei
+| +-Phasmatidae
+| | +-Spathomorpha
+| | | \-Spathomorpha lancettifer
+| | \-Megacrania
+| |   \-Megacrania phelaus
+| \-Timematidae
+|   \-Timema
+|     \-Timema knulli
++-Odonata
+| \-Cordulegastridae
+|   \-Cordulegaster
+|     \-Cordulegaster boltonii
++-Zygentoma
+| +-Nicoletiidae
+| | \-Atelura
+| |   \-Atelura formicaria
+| \-Lepismatidae
+|   \-Thermobia
+|     \-Thermobia domestica
++-Phthiraptera
+| +-Neolinognathidae
+| | \-Neolinognathus
+| |   \-Neolinognathus sp. NlspEledw
+| +-Linognathidae
+| | \-Prolinognathus
+| |   \-Prolinognathus sp. XlspPrcap
+| +-Enderleinellidae
+| | \-Enderleinellus
+| |   \-Enderleinellus marmotae
+| +-Gyropidae
+| | +-Aotiella
+| | | \-Aotiella hershkovitzi
+| | +-Gliricola
+| | | \-Gliricola sp. GlspPrgar
+| | \-Macrogyropus
+| |   \-Macrogyropus costalimai
+| +-Ricinidae
+| | +-Trochiloecetes
+| | | +-Trochiloecetes angustifrons
+| | | \-Trochiloecetes sp. TcspArcol
+| | \-Ricinus
+| |   +-Ricinus elongatus
+| |   +-Ricinus sp. RispBlsyn
+| |   +-Ricinus sp. RispJuhye
+| |   \-Ricinus sp. Risp
+| +-Trimenoponidae
+| | +-Chinchillophaga
+| | | \-Chinchillophaga clayae
+| | +-Trimenopon
+| | | \-Trimenopon hispidum
+| | +-Harrisonia
+| | | \-Harrisonia sp. HsspPrgar
+| | \-Cummingsia
+| |   \-Cummingsia maculata
+| +-Boopidae
+| | \-Heterodoxus
+| |   +-Heterodoxus sp. HtspMaagi
+| |   \-Heterodoxus spiniger
+| +-Bovicoliidae
+| | +-Damalinia
+| | | \-Damalinia meyeri
+| | |   \-Damalinia meyeri sika
+| | \-Bovicola
+| |   \-Bovicola ovis
+| +-Laemobothriidae
+| | \-Laemobothrion
+| |   +-Laemobothrion gracile
+| |   +-Laemobothrion opisthocomi
+| |   +-Laemobothrion maximum
+| |   +-Laemobothrion glutinans
+| |   +-Laemobothrion tinnunculi
+| |   \-Laemobothrion atrum
+| +-Trichodectidae
+| | +-Procavicola
+| | | \-Procavicola sp. PvspPrcap
+| | +-Neotrichodectes
+| | | \-Neotrichodectes mephitidis
+| | +-Eutrichophilus
+| | | \-Eutrichophilus setosus
+| | +-Tricholipeurus
+| | | \-Tricholipeurus lipeuroides
+| | +-Stachiella
+| | | \-Stachiella larseni
+| | +-Trichodectes
+| | | \-Trichodectes canis
+| | \-Geomydoecus
+| |   \-Geomydoecus aurei
+| +-Polyplacidae
+| | +-Phthirpediculus
+| | | \-Phthirpediculus sp. QzspEumac
+| | +-Lemurphthirus
+| | | \-Lemurphthirus sp. LespGadee
+| | +-Polyplax
+| | | \-Polyplax sp. PxspLoaqu
+| | \-Linognathoides
+| |   \-Linognathoides marmotae
+| +-Haematomyzidae
+| | \-Haematomyzus
+| |   \-Haematomyzus elephantis
+| +-Heptapsogasteridae
+| | +-Megaginus
+| | | +-Megaginus sp. MgspCrsou
+| | | +-Megaginus emarginatus
+| | | +-Megaginus sp. MgspCrund
+| | | \-Megaginus tataupensis
+| | +-Kelloggia
+| | | +-Kelloggia sp. 'Hypocrypturellus' HyspTitao
+| | | +-Kelloggia sp. 'Hypocrypturellus' HyspTimaj
+| | | +-Kelloggia sp. 'Hypocrypturellus' HyspTigut
+| | | +-Kelloggia sp. 'Hypocrypturellus' HyspCrsou
+| | | +-Kelloggia sp. 'Hypocrypturellus' HyspCrobs
+| | | +-Kelloggia intermedius
+| | | +-Kelloggia mendax
+| | | +-Kelloggia undulatus
+| | | +-Kelloggia sp. KespCrtat
+| | | +-Kelloggia sp. KespTigut
+| | | \-Kelloggia sp. KespCrstr
+| | +-Pectenosoma
+| | | +-Pectenosoma sp. PespCrtra
+| | | +-Pectenosoma punensis
+| | | +-Pectenosoma meserythra
+| | | +-Pectenosoma angusta
+| | | +-Pectenosoma subparva
+| | | +-Pectenosoma yapurae
+| | | +-Pectenosoma parva
+| | | \-Pectenosoma sp. PespCrstr
+| | +-Heptapsogaster
+| | | +-Heptapsogaster teres
+| | | +-Heptapsogaster subteres
+| | | +-Heptapsogaster sp. HespNodar2
+| | | +-Heptapsogaster bolivianus
+| | | +-Heptapsogaster rotundatus
+| | | +-Heptapsogaster sexpunctatus
+| | | +-Heptapsogaster andinae
+| | | +-Heptapsogaster sexsetosus
+| | | +-Heptapsogaster testudo
+| | | +-Heptapsogaster tesselatus
+| | | +-Heptapsogaster sp. 2 HespCrbou2
+| | | +-Heptapsogaster sp. HespNopen
+| | | +-Heptapsogaster sp. HespNocin
+| | | +-Heptapsogaster sp. HespCrtra
+| | | +-Heptapsogaster sp. HespCrobsPE
+| | | +-Heptapsogaster sp. HespCrbou
+| | | +-Heptapsogaster nothocercae
+| | | +-Heptapsogaster inexpectatus
+| | | +-Heptapsogaster truncatus
+| | | +-Heptapsogaster sp. HespCrobs
+| | | +-Heptapsogaster sp. HespCrstr2
+| | | +-Heptapsogaster sp. HespNodar
+| | | +-Heptapsogaster sp. HespNobor
+| | | +-Heptapsogaster sp. HespCrpar
+| | | +-Heptapsogaster sp. HespCrund
+| | | +-Heptapsogaster mandibularis
+| | | +-Heptapsogaster minor
+| | | +-Heptapsogaster frielingi
+| | | +-Heptapsogaster sp. HespTigut
+| | | +-Heptapsogaster sp. HespEuele
+| | | +-Heptapsogaster sp. HespChbur
+| | | \-Heptapsogaster sp. HespCrstr
+| | +-Strongylocotes
+| | | +-Strongylocotes sp. StspTimaj
+| | | +-Strongylocotes sp. StspTigut
+| | | +-Strongylocotes sp. StspNonig
+| | | +-Strongylocotes sp. SgspCrsou2
+| | | +-Strongylocotes sp. SgspCrobsPE
+| | | +-Strongylocotes tinami
+| | | +-Strongylocotes sp. SgspCrobs
+| | | +-Strongylocotes subspinosus
+| | | +-Strongylocotes limai
+| | | +-Strongylocotes glabrous
+| | | +-Strongylocotes cordiceps
+| | | +-Strongylocotes sp. SgspCrsou
+| | | +-Strongylocotes sp. SgspTigut
+| | | +-Strongylocotes sp. SgspCrstr
+| | | +-Strongylocotes lipogonus
+| | | \-Strongylocotes orbicularis
+| | +-Megapeostus
+| | | +-Megapeostus sp. MespCrobs
+| | | +-Megapeostus multiplex
+| | | | \-Megapeostus multiplex Memul
+| | | +-Megapeostus sp. MpspCrcin2
+| | | +-Megapeostus sp. MpspCrcin1
+| | | +-Megapeostus petersi
+| | | +-Megapeostus heptarthrogastriformis
+| | | +-Megapeostus sp. MpspCrstr
+| | | \-Megapeostus asymmetricus
+| | \-Discocorpus
+| |   +-Discocorpus sp. DispCrtra
+| |   +-Discocorpus sp. DispCrstr
+| |   +-Discocorpus sp. DispCrobs
+| |   \-Discocorpus mexicanus
+| +-Echinophthiriidae
+| | +-Lepidophthirus
+| | | \-Lepidophthirus macrorhini
+| | +-Antarctophthirus
+| | | +-Antarctophthirus ogmorhini
+| | | +-Antarctophthirus lobodontis
+| | | +-Antarctophthirus carlinii
+| | | \-Antarctophthirus microchir
+| | \-Echinophthirius
+| |   \-Echinophthirius horridus
+| +-Philopteridae
+| | +-Olivinirmus
+| | | +-Olivinirmus semiannulatus
+| | | \-Olivinirmus morionus
+| | +-Maculinirmus
+| | | \-Maculinirmus sp. MaspSpvir
+| | +-Indoceoplanetes
+| | | +-Indoceoplanetes sp. MaspConov
+| | | +-Indoceoplanetes sp. MaspComcg
+| | | \-Indoceoplanetes sp. MaspComac
+| | +-Guimaraesiella
+| | | +-Guimaraesiella sp. GuspChpap
+| | | +-Guimaraesiella sp. GuspChnuc
+| | | +-Guimaraesiella sp. GuspBlsyn
+| | | +-Guimaraesiella sp. GuspZolun
+| | | +-Guimaraesiella sp. GuspZohei
+| | | +-Guimaraesiella sp. GuspVacur
+| | | +-Guimaraesiella sp. GuspSeper
+| | | +-Guimaraesiella sp. GuspSenoh
+| | | +-Guimaraesiella sp. GuspPyplu
+| | | +-Guimaraesiella sp. GuspPhict
+| | | +-Guimaraesiella sp. GuspPhalb
+| | | +-Guimaraesiella sp. GuspPesig
+| | | +-Guimaraesiella sp. GuspNichl
+| | | +-Guimaraesiella sp. GuspNepoe
+| | | +-Guimaraesiella sp. GuspMycol
+| | | +-Guimaraesiella sp. GuspManit
+| | | +-Guimaraesiella sp. GuspFafro
+| | | +-Guimaraesiella sp. GuspCycri
+| | | +-Guimaraesiella sp. GuspCrbar
+| | | +-Guimaraesiella sp. GuspCohar
+| | | +-Guimaraesiella sp. GuspCoalb
+| | | +-Guimaraesiella sp. GuspBlexi
+| | | +-Guimaraesiella sp. GuspBlcan
+| | | \-Guimaraesiella sp. GuspAraur
+| | +-Heptarthrogaster
+| | | +-Heptarthrogaster sp. HespTigut2
+| | | +-Heptarthrogaster sp. HespTimaj2
+| | | \-Heptarthrogaster sp. HespTimaj
+| | +-Tyranniphilopterus
+| | | \-Tyranniphilopterus sp. TyspPamin
+| | +-Philopteroides
+| | | +-Philopteroides sp. PpspChjef
+| | | +-Philopteroides sp. PhspQuqu
+| | | \-Philopteroides sp. PhspBamo
+| | +-Traihoriella
+| | | +-Traihoriella sp. PnspMevir
+| | | +-Traihoriella sp. PnspMemys
+| | | \-Traihoriella sp. PnspMemon
+| | +-Mayriphilopterus
+| | | +-Mayriphilopterus sp. MaspMafu
+| | | +-Mayriphilopterus sp. MaspMomo
+| | | +-Mayriphilopterus sp. MaspJaau
+| | | +-Mayriphilopterus sp. MaspGaal
+| | | \-Mayriphilopterus sp. PpspNobru
+| | +-Corcorides
+| | | +-Corcorides inopinatus
+| | | \-Corcorides biocellatus
+| | +-Priceiella
+| | | +-Priceiella sp. PrspTubre
+| | | +-Priceiella sp. PrspPoruf
+| | | +-Priceiella sp. PrspLacin
+| | | \-Priceiella sp. PrspGamil
+| | +-Resartor
+| | | \-Resartor sp. RespGamil
+| | +-Ornicholax
+| | | +-Ornicholax sp. OrspTitao
+| | | +-Ornicholax sp. OrspTimaj2
+| | | +-Ornicholax sp. OrspTimaj1
+| | | +-Ornicholax sp. OnspTigut2
+| | | +-Ornicholax sp. OnspTigut
+| | | \-Ornicholax sp. OnspTimaj
+| | +-Trichodopeostus
+| | | \-Trichodopeostus spinosus
+| | +-Nothocotus
+| | | +-Nothocotus sp. NospNonig
+| | | \-Nothocotus subsimilis
+| | +-Philopteridae sp. FuspSaruf
+| | +-Saepocephalum
+| | | \-Saepocephalum stephenfryi
+| | +-Lamprocorpus
+| | | +-Lamprocorpus spinosus
+| | | +-Lamprocorpus sp. LpspNodar
+| | | \-Lamprocorpus hirsutus
+| | +-Cuclotocephalus
+| | | +-Cuclotocephalus sp. CkspNodar2
+| | | +-Cuclotocephalus secundus
+| | | +-Cuclotocephalus extraneus
+| | | +-Cuclotocephalus sp. CkspNodar
+| | | \-Cuclotocephalus sp. CkspNoorn
+| | +-Pterocotes
+| | | +-Pterocotes aberrans
+| | | +-Pterocotes tergalis
+| | | +-Pterocotes inexpectatus
+| | | +-Pterocotes sp. PtspTimaj
+| | | \-Pterocotes sp. QrspCrund
+| | +-Furnariphilus
+| | | +-Furnariphilus parkeri
+| | | +-Furnariphilus sp. FnspAupar
+| | | \-Furnariphilus sp. FispScgua
+| | +-Tinamotaecola
+| | | +-Tinamotaecola sp. TispTipen
+| | | +-Tinamotaecola sp. TispEufor
+| | | +-Tinamotaecola andinae
+| | | \-Tinamotaecola elegans
+| | +-Podargoecus
+| | | +-Podargoecus strigoides
+| | | \-Podargoecus papuensis
+| | +-Esthiopterum
+| | | \-Esthiopterum brevicephalum
+| | +-Dahlemhornia
+| | | \-Dahlemhornia asymmetrica
+| | +-Ardeiphagus
+| | | +-Ardeiphagus similis
+| | | \-Ardeiphagus cochlearius
+| | +-Cuculoecus
+| | | +-Cuculoecus piayae
+| | | \-Cuculoecus africanus
+| | +-Craspedorrhynchus
+| | | +-Craspedorrhynchus pachypus
+| | | +-Craspedorrhynchus sp. CfspBualb
+| | | +-Craspedorrhynchus sp. CfspFaber
+| | | \-Craspedorrhynchus subhaematopus
+| | +-Alcedoffula
+| | | +-Alcedoffula madagascariensis
+| | | +-Alcedoffula sp. AfspIspic
+| | | +-Alcedoffula sp. AfspChame
+| | | +-Alcedoffula sp. AfspChama
+| | | +-Alcedoffula sp. AfspColeu
+| | | +-Alcedoffula sp. AfspCeazu
+| | | +-Alcedoffula cristata
+| | | +-Alcedoffula chocoana
+| | | +-Alcedoffula ceycis
+| | | \-Alcedoffula alcyonae
+| | +-Acidoproctus
+| | | +-Acidoproctus fuligulae
+| | | +-Acidoproctus hilli
+| | | \-Acidoproctus rostratus
+| | +-Turnicola
+| | | +-Turnicola angustissimus
+| | | +-Turnicola sp. TkspTuvar
+| | | \-Turnicola sp. TkspTupyr
+| | +-Splendoroffula
+| | | +-Splendoroffula sp. SpspTusch
+| | | \-Splendoroffula sp. SpspTapor
+| | +-Philopterus
+| | | +-Philopterus sp. PpspMocla
+| | | +-Philopterus sp. PpspLaaet
+| | | +-Philopterus sp. PpspCagut
+| | | +-Philopterus sp. 'Clayiella' ClspMomo
+| | | +-Philopterus sp. PpspTenig
+| | | +-Philopterus sp. PpspSaspi
+| | | +-Philopterus sp. PpspPrplu
+| | | +-Philopterus sp. PpspPiang
+| | | +-Philopterus sp. PpspPanig
+| | | +-Philopterus sp. PpspPagri
+| | | +-Philopterus ornatus
+| | | +-Philopterus neotropicalis
+| | | +-Philopterus agelaii
+| | | +-Philopterus sp. PnspNear
+| | | +-Philopterus sp. PpspOcpul
+| | | +-Philopterus sp. PpspPiint
+| | | +-Philopterus sp. PpspLecoe
+| | | +-Philopterus sp. PpspAshel
+| | | +-Philopterus sp. PpspSyspo
+| | | +-Philopterus sp. PpspThruf
+| | | +-Philopterus sp. PpspPycin
+| | | +-Philopterus sp. PpspDileu
+| | | +-Philopterus sp. PpspMycol
+| | | +-Philopterus sp. PpspSppin
+| | | +-Philopterus corvi
+| | | +-Philopterus sp. PpspSctur
+| | | +-Philopterus sp. PpspTosul
+| | | +-Philopterus sp. PpspMioli
+| | | +-Philopterus sp. PpspVojac
+| | | +-Philopterus sp. PpspLopil
+| | | +-Philopterus sp. PpspPimen
+| | | +-Philopterus sp. PpspCoorr
+| | | +-Philopterus sp. PpspTeruf
+| | | +-Philopterus sp. PpspPhict
+| | | +-Philopterus sp. PpspDiads
+| | | +-Philopterus sp. PpspPtgui
+| | | +-Philopterus sp. PpspAmmac
+| | | +-Philopterus sp. PpspEurub
+| | | +-Philopterus sp. PpspColon
+| | | +-Philopterus sp. PpspHymad
+| | | +-Philopterus sp. PpspClpic
+| | | +-Philopterus sp. PpspPrnew
+| | | +-Philopterus sp. PpspGrcya
+| | | +-Philopterus sp. PpspCipun
+| | | +-Philopterus sp. PpspColeu
+| | | +-Philopterus sp. PpspSppus
+| | | +-Philopterus kekilovae
+| | | +-Philopterus sp. PpspNoruf
+| | | +-Philopterus sp. PpspPiiri
+| | | +-Philopterus sp. PpspCrquo
+| | | +-Philopterus sp. PpspEuann
+| | | +-Philopterus sp. PpspDihot
+| | | +-Philopterus sp. PpspHepic
+| | | +-Philopterus sp. PpspHidau
+| | | +-Philopterus sp. PpspThpun
+| | | +-Philopterus sp. PpspHakas
+| | | +-Philopterus solus
+| | | +-Philopterus sp. PpspBamar
+| | | \-Philopterus sp. PpspTymel
+| | +-Mulcticola
+| | | +-Mulcticola sp. MuspEuarg
+| | | +-Mulcticola sp. MuspCaena
+| | | \-Mulcticola sp. MuspNyalb
+| | +-Meropoecus
+| | | \-Meropoecus sp. MrspMeorn
+| | +-Upupicola
+| | | \-Upupicola upupae
+| | +-Trogoniella
+| | | \-Trogoniella apaloderma
+| | +-Pseudocophorus
+| | | \-Pseudocophorus antennatus
+| | +-Lagopoecus
+| | | +-Lagopoecus obscurus
+| | | \-Lagopoecus gibsoni
+| | +-Hopkinsiella
+| | | \-Hopkinsiella hopkinsi
+| | +-Caracaricola
+| | | \-Caracaricola chimangophilus
+| | +-Buceronirmus
+| | | \-Buceronirmus longicuneatus
+| | +-Buceroemersonia
+| | | +-Buceroemersonia sp. BmspTonas
+| | | \-Buceroemersonia clarkei
+| | +-Bucerocophorus
+| | | \-Bucerocophorus latifrons
+| | +-Acutifrons
+| | | \-Acutifrons mexicanus
+| | +-Strigiphilus
+| | | +-Strigiphilus sp. StspTyalb
+| | | +-Strigiphilus sp. StspNicon
+| | | \-Strigiphilus cursor
+| | +-Rhynonirmus
+| | | \-Rhynonirmus parsonsae
+| | +-Pseudonirmus
+| | | \-Pseudonirmus lugubris
+| | +-Ornithobius
+| | | \-Ornithobius goniopleurus
+| | +-Rhopaloceras
+| | | +-Rhopaloceras genitalis
+| | | +-Rhopaloceras rudimentarius
+| | | +-Rhopaloceras abbreviatus
+| | | +-Rhopaloceras pennaticeps
+| | | +-Rhopaloceras brevitemporalis
+| | | +-Rhopaloceras undulatus
+| | | +-Rhopaloceras sp. RpspTigut
+| | | \-Rhopaloceras sp. RpspCrstr
+| | +-Physconella
+| | | +-Physconella sp. PwspCrsou
+| | | +-Physconella nothocercae
+| | | +-Physconella emersoni
+| | | \-Physconella sp. PwspCrobs
+| | +-Psophiicola
+| | | +-Psophiicola sp. PsspPscre
+| | | \-Psophiicola sp. PsspPsvir
+| | +-Palmaellus
+| | | \-Palmaellus sp. PaspPsvir
+| | +-Labicotes
+| | | \-Labicotes sp. LbspPesup
+| | +-Epipicus
+| | | \-Epipicus sp. EpspCarub
+| | +-Alcedoecus
+| | | +-Alcedoecus delphax
+| | | \-Alcedoecus sp. AlspHabad
+| | +-Trogoninirmus
+| | | +-Trogoninirmus sp. GuspTrmel
+| | | +-Trogoninirmus hastiformis
+| | | \-Trogoninirmus sp. Trsp.Trper
+| | +-Cuclotogaster
+| | | +-Cuclotogaster sp. Liesp
+| | | +-Cuclotogaster cinereus
+| | | \-Cuclotogaster sp. Cgsp.Frhil
+| | +-Capraiella
+| | | +-Capraiella sp. CbspEugul
+| | | +-Capraiella sp. Cbsp.Eugla
+| | | \-Capraiella sp. Cbsp.Coaby
+| | +-Theresiella
+| | | \-Theresiella sp. TsspPsbre
+| | +-Pseudophilopterus
+| | | +-Pseudophilopterus obsoletus
+| | | \-Pseudophilopterus sp. QsspCrstr
+| | +-Passonomedea
+| | | +-Passonomedea sp. PyspOdspe
+| | | +-Passonomedea sp. PyspOdguj
+| | | \-Passonomedea sp. PyspOdste
+| | +-Paragoniocotes
+| | | +-Paragoniocotes sp. PaspPylep248
+| | | +-Paragoniocotes longulufrons
+| | | +-Paragoniocotes sp. PaspPymel
+| | | +-Paragoniocotes sp. PaspAmkaw
+| | | +-Paragoniocotes sp. PaspArjan
+| | | +-Paragoniocotes sp. PaspArleu
+| | | +-Paragoniocotes sp. PaspArast
+| | | +-Paragoniocotes venezolanus
+| | | +-Paragoniocotes guajirensis
+| | | +-Paragoniocotes grandis
+| | | +-Paragoniocotes sp. PaspPyper
+| | | +-Paragoniocotes sp. PaspPyane
+| | | +-Paragoniocotes sp. PaspArsev
+| | | \-Paragoniocotes sp. PaspPisen
+| | +-Formicaphagus
+| | | +-Formicaphagus sp. FmspHypoe67
+| | | +-Formicaphagus sp. FmspMymyo
+| | | +-Formicaphagus sp. FmspScnae
+| | | +-Formicaphagus sp. FmspMyhau
+| | | +-Formicaphagus sp. FmspWipoe
+| | | +-Formicaphagus sp. FmspCocas
+| | | +-Formicaphagus sp. FmspCoaur
+| | | +-Formicaphagus sp. FmspScleu
+| | | +-Formicaphagus sp. FmspCetyr
+| | | +-Formicaphagus sp. FmspMyful
+| | | +-Formicaphagus sp. FmspHynae
+| | | \-Formicaphagus sp. FmspDypun
+| | +-Buerelius
+| | | \-Buerelius sp. BlspBrlep
+| | +-Bizarrifrons
+| | | \-Bizarrifrons sp. BispCacel
+| | +-Emersoniella
+| | | +-Emersoniella sp. EmspTasyl
+| | | \-Emersoniella bracteata
+| | +-Sturnidoecus
+| | | +-Sturnidoecus sp. SnspHymus
+| | | +-Sturnidoecus sp. SnspZocit
+| | | +-Sturnidoecus caligineus
+| | | +-Sturnidoecus sp. Snsp
+| | | \-Sturnidoecus simplex
+| | +-Psittaconirmus
+| | | +-Psittaconirmus sp. PcspTrrub
+| | | +-Psittaconirmus sp. PcspPsdes
+| | | +-Psittaconirmus sp. PcspOrarf
+| | | \-Psittaconirmus launceloti
+| | +-Psittoecus
+| | | +-Psittoecus sp. QkspCalea
+| | | +-Psittoecus sp. QkspCagal
+| | | \-Psittoecus eos
+| | +-Anatoecus
+| | | +-Anatoecus sp. AtspChpic
+| | | +-Anatoecus sp. AtspPhand
+| | | +-Anatoecus sp. AtspCyatr
+| | | +-Anatoecus keymeri
+| | | +-Anatoecus dentatus
+| | | +-Anatoecus penicillatus
+| | | \-Anatoecus icterodes
+| | +-Pessoaiella
+| | | \-Pessoaiella absita
+| | +-Rallicola
+| | | +-Rallicola sp. MaspOrnig
+| | | +-Rallicola sp. PnspThgen
+| | | +-Rallicola sp. FospAnvar
+| | | +-Rallicola insulana
+| | | +-Rallicola scapanoides
+| | | +-Rallicola gracilentus
+| | | +-Rallicola sp. RaspApaus
+| | | +-Rallicola sp. RaspApowe
+| | | +-Rallicola sp. RaspGaphi
+| | | +-Rallicola sp. RaspPopor33
+| | | +-Rallicola takahe
+| | | +-Rallicola sp. FmspCylin
+| | | +-Rallicola sp. RaspPopor10
+| | | +-Rallicola sp. RaspPopor1
+| | | +-Rallicola keymerae
+| | | +-Rallicola sp. RaspLamel
+| | | +-Rallicola sp. RaspPhery
+| | | +-Rallicola sp. RaspLeaff
+| | | +-Rallicola sp. RaspScsp
+| | | +-Rallicola sp. RaspCapus
+| | | +-Rallicola sp. RaspMasqu
+| | | +-Rallicola tompkinsi
+| | | +-Rallicola picirostris
+| | | +-Rallicola laticephala
+| | | +-Rallicola harveyi
+| | | +-Rallicola elliotti
+| | | +-Rallicola californicus
+| | | +-Rallicola sp. RaspLealb
+| | | +-Rallicola sp. RaspPocar
+| | | +-Rallicola sp. RaspRaele
+| | | +-Rallicola sp. RaspSaruf
+| | | +-Rallicola sp. RaspDemer
+| | | +-Rallicola sp. RaspScruf
+| | | +-Rallicola sp. RaspAuinf
+| | | +-Rallicola sp. Raruf
+| | | +-Rallicola sp. RaspPhpyr
+| | | +-Rallicola sp. RaspAuoch
+| | | +-Rallicola chunchotambo
+| | | +-Rallicola sp. RaspXerut
+| | | +-Rallicola sp. RaspAnstr
+| | | +-Rallicola sp. FmspCorob
+| | | +-Rallicola sp. RaspPrbruPE
+| | | +-Rallicola certhia
+| | | +-Rallicola centropus
+| | | +-Rallicola sp. RaspSyruf
+| | | +-Rallicola sp. RaspXiobs
+| | | +-Rallicola sp. RaspHybri
+| | | +-Rallicola sp. RaspNalon
+| | | +-Rallicola wernecki
+| | | +-Rallicola taylori
+| | | +-Rallicola leucopterae
+| | | +-Rallicola lachrymosa
+| | | +-Rallicola guimaraesi
+| | | +-Rallicola fulicae
+| | | +-Rallicola deckeri
+| | | +-Rallicola cornutae
+| | | +-Rallicola cephalosa
+| | | +-Rallicola sp. RaspGagal
+| | | +-Rallicola sp. RaspFuala
+| | | +-Rallicola sp. RaspSysub
+| | | +-Rallicola sp. RaspPrbru
+| | | +-Rallicola sp. RaspAnvar
+| | | +-Rallicola sp. RaspDecer
+| | | +-Rallicola sp. RaspEucas
+| | | +-Rallicola sp. RaspPopor
+| | | +-Rallicola sp. RaspFuard
+| | | +-Rallicola sp. RaspDeful
+| | | +-Rallicola harrisoni
+| | | +-Rallicola sp. RaspApsp
+| | | +-Rallicola sp. RaspXiery
+| | | +-Rallicola sp. RaspIrgal
+| | | +-Rallicola sp. RaspCesen
+| | | +-Rallicola kelloggi
+| | | +-Rallicola advenus
+| | | \-Rallicola foedus
+| | +-Carduiceps
+| | | +-Carduiceps lapponicus
+| | | \-Carduiceps zonarius
+| | +-Lunaceps
+| | | +-Lunaceps haematopi
+| | | +-Lunaceps sp. KJ-2017
+| | | +-Lunaceps numenii
+| | | \-Lunaceps drosti
+| | +-Kodocephalon
+| | | +-Kodocephalon suborbiculatum
+| | | \-Kodocephalon bradicephalum
+| | +-Goniocotes
+| | | +-Goniocotes sp. GospTycup
+| | | +-Goniocotes sp. GospPtpet
+| | | +-Goniocotes sp. GospAllat
+| | | +-Goniocotes sp. GospMerei
+| | | \-Goniocotes chrysocephalus
+| | +-Goniodes
+| | | +-Goniodes sp. GdspPtswa
+| | | +-Goniodes sp. GdspPhcol
+| | | +-Goniodes sp. GdspNumel
+| | | +-Goniodes sp. GdspFrbic
+| | | +-Goniodes sp. GdspFraha
+| | | +-Goniodes sp. GdspCrmon
+| | | +-Goniodes sp. GdspCacal
+| | | +-Goniodes sp. GdspAllat
+| | | +-Goniodes coronatus
+| | | +-Goniodes merriamanus
+| | | +-Goniodes sp. Gdass
+| | | +-Goniodes ortygis
+| | | +-Goniodes centrocerci
+| | | +-Goniodes astrocephalus
+| | | +-Goniodes biordinatus
+| | | \-Goniodes talegallae
+| | +-Forficuloecus
+| | | +-Forficuloecus sp. FfspNemer
+| | | +-Forficuloecus sp. FfspCynov
+| | | +-Forficuloecus sp. FfpsPsdis
+| | | +-Forficuloecus sp. FfspPshae
+| | | +-Forficuloecus wilsoni
+| | | +-Forficuloecus palmai
+| | | +-Forficuloecus josephi
+| | | +-Forficuloecus forficula
+| | | +-Forficuloecus cameroni
+| | | \-Forficuloecus banksi
+| | +-Bothriometopus
+| | | \-Bothriometopus macrocnemis
+| | +-Echinophilopterus
+| | | +-Echinophilopterus sp. EtspPocry
+| | | +-Echinophilopterus angustoclypeatus
+| | | \-Echinophilopterus claytoni
+| | +-Austrophilopterus
+| | | +-Austrophilopterus thysi
+| | | +-Austrophilopterus flavirostris
+| | | +-Austrophilopterus sp. Ausp.Aupra
+| | | +-Austrophilopterus andigenae
+| | | \-Austrophilopterus cancellosus
+| | +-Degeeriella
+| | | +-Degeeriella vagans
+| | | +-Degeeriella discocephalus
+| | | +-Degeeriella sp. DgspBupla
+| | | +-Degeeriella sp. DgspBujam
+| | | \-Degeeriella rufa
+| | +-Vernoniella
+| | | +-Vernoniella guimaraesi
+| | | \-Vernoniella bergi
+| | +-Neopsittaconirmus
+| | | +-Neopsittaconirmus borgiolii
+| | | +-Neopsittaconirmus africanus
+| | | +-Neopsittaconirmus sp. NsspNebou
+| | | +-Neopsittaconirmus sp. NsspCaban
+| | | +-Neopsittaconirmus albus
+| | | +-Neopsittaconirmus sp. NsspApery
+| | | +-Neopsittaconirmus sp. NsspNyhol
+| | | +-Neopsittaconirmus sp. NsspPsvar
+| | | +-Neopsittaconirmus sp. NsspPosen
+| | | +-Neopsittaconirmus sp. NsspCalea
+| | | +-Neopsittaconirmus sp. NsspPshae
+| | | +-Neopsittaconirmus eos
+| | | +-Neopsittaconirmus bushae
+| | | \-Neopsittaconirmus circumfasciatus
+| | +-Lipeurus
+| | | +-Lipeurus sp. LispPtswa
+| | | +-Lipeurus crassus
+| | | +-Lipeurus sp. Lisp.Numel
+| | | \-Lipeurus caponis
+| | +-Ibidoecus
+| | | +-Ibidoecus australis
+| | | +-Ibidoecus dianae
+| | | +-Ibidoecus flavus
+| | | \-Ibidoecus bisignatus
+| | +-Falcolipeurus
+| | | +-Falcolipeurus secretarius
+| | | +-Falcolipeurus sp. FaspAqwah
+| | | \-Falcolipeurus marginalis
+| | +-Craspedonirmus
+| | | \-Craspedonirmus immer
+| | +-Nesiotinus
+| | | \-Nesiotinus demersus
+| | +-Pelmatocerandra
+| | | \-Pelmatocerandra enderleini
+| | +-Incidifrons
+| | | +-Incidifrons sp. InspRaele
+| | | \-Incidifrons transpositus
+| | +-Picicola
+| | | +-Picicola sp. BrspPynig
+| | | +-Picicola sp. PnspMeell
+| | | +-Picicola sp. PnspCeele
+| | | +-Picicola sp. PnspCacai
+| | | +-Picicola sp. PnspCaben
+| | | +-Picicola quadripustulosus
+| | | +-Picicola foedus
+| | | +-Picicola cuniculariae
+| | | +-Picicola campethera
+| | | +-Picicola sp. TuspTrcal
+| | | +-Picicola sp. PispPiiri
+| | | +-Picicola sp. PispGatom
+| | | +-Picicola sp. Pisp.Smcap
+| | | +-Picicola sp. Pisp.Pyalb
+| | | +-Picicola sp. Pisp.Pifla
+| | | +-Picicola sp. Pisp.Cegra
+| | | +-Picicola sp. Iscsp.Grsqu
+| | | +-Picicola serrafreirei
+| | | +-Picicola osheai
+| | | +-Picicola naokii
+| | | +-Picicola faucetti
+| | | \-Picicola snodgrassi
+| | +-Cotingacola
+| | | +-Cotingacola tergalis
+| | | +-Cotingacola rupicolae
+| | | +-Cotingacola sp. Cosp.Ceorn
+| | | +-Cotingacola engeli
+| | | \-Cotingacola stotzi
+| | +-Neophilopterus
+| | | \-Neophilopterus incompletus
+| | +-Philoceanus
+| | | \-Philoceanus robertsi
+| | +-Perineus
+| | | \-Perineus circumfasciatus
+| | +-Paraclisis
+| | | \-Paraclisis diomedeae
+| | +-Episbates
+| | | \-Episbates pederiformis
+| | +-Ardeicola
+| | | +-Ardeicola nigra
+| | | +-Ardeicola neopallidus
+| | | +-Ardeicola australis
+| | | +-Ardeicola atratus
+| | | +-Ardeicola sp. ArspAribi
+| | | +-Ardeicola sp. ArspIxfla
+| | | +-Ardeicola pilgrimi
+| | | +-Ardeicola ibis
+| | | +-Ardeicola harrisoni
+| | | +-Ardeicola rhaphidius
+| | | +-Ardeicola expallidus
+| | | \-Ardeicola geronticorum
+| | +-Fulicoffula
+| | | +-Fulicoffula sp. FuspFuruf
+| | | +-Fulicoffula sp. FuspFuala
+| | | +-Fulicoffula sp. FuspFugig
+| | | +-Fulicoffula sp. FuspFuarm
+| | | +-Fulicoffula sp. FuspFuard
+| | | +-Fulicoffula lurida
+| | | +-Fulicoffula sp. FuspPocar
+| | | \-Fulicoffula longipila
+| | +-Cirrophthirius
+| | | +-Cirrophthirius sp. QuspRenov2
+| | | +-Cirrophthirius recurvirostrae
+| | | \-Cirrophthirius testudinarius
+| | +-Osculotes
+| | | +-Osculotes macropoda
+| | | \-Osculotes curta
+| | +-Colinicola
+| | | +-Colinicola mearnsi
+| | | \-Colinicola docophoroides
+| | +-Anaticola
+| | | +-Anaticola sp. AnspChmel
+| | | +-Anaticola thoracicus
+| | | +-Anaticola sp. AnspBualb
+| | | +-Anaticola sp. AnspCaleu
+| | | +-Anaticola sp. AnspMearm
+| | | +-Anaticola sp. AnspChjub
+| | | +-Anaticola sp. AnspPhand
+| | | +-Anaticola sp. AnspBilob
+| | | +-Anaticola jamesi
+| | | +-Anaticola phoenicopteri
+| | | +-Anaticola mergiserrati
+| | | +-Anaticola marginella
+| | | +-Anaticola australis
+| | | +-Anaticola asymmetricus
+| | | +-Anaticola rheinwaldi
+| | | +-Anaticola magnificus
+| | | +-Anaticola anseris
+| | | \-Anaticola crassicornis
+| | +-Trichophilopterus
+| | | \-Trichophilopterus babakotophilus
+| | +-Struthiolipeurus
+| | | +-Struthiolipeurus sp. SlspRhame
+| | | \-Struthiolipeurus struthionis
+| | +-Quadraceps
+| | | +-Quadraceps sp. QuspPlful
+| | | +-Quadraceps ravus
+| | | +-Quadraceps obliquus
+| | | +-Quadraceps junceus
+| | | +-Quadraceps hospes
+| | | +-Quadraceps hiaticulae
+| | | +-Quadraceps charadrii
+| | | +-Quadraceps sp. QuspStisa
+| | | +-Quadraceps caspius
+| | | +-Quadraceps nycthemerus
+| | | +-Quadraceps kosswigi
+| | | +-Quadraceps dressleri
+| | | +-Quadraceps sp. QuspThorb
+| | | +-Quadraceps sp. QuspBugra
+| | | +-Quadraceps sp. QuspStber
+| | | +-Quadraceps sp. QuspLapac
+| | | +-Quadraceps sp. QuspRenov1
+| | | +-Quadraceps impar
+| | | +-Quadraceps umbrinus
+| | | +-Quadraceps bicuspis
+| | | +-Quadraceps boephilus
+| | | +-Quadraceps aethereus
+| | | +-Quadraceps sp. QuspEsmag
+| | | +-Quadraceps sp. QuspCucha
+| | | +-Quadraceps sp. QuspReame
+| | | +-Quadraceps sp. QuspThrub
+| | | +-Quadraceps sp. QuspHaful
+| | | +-Quadraceps sp. QuspStnil
+| | | +-Quadraceps sp. QuspVamil
+| | | +-Quadraceps sp. QuspHimex
+| | | +-Quadraceps sp. KJ-2017
+| | | +-Quadraceps ornatus
+| | | +-Quadraceps strepsilaris
+| | | +-Quadraceps similis
+| | | +-Quadraceps obscurus
+| | | +-Quadraceps auratus
+| | | \-Quadraceps punctatus
+| | +-Pseudolipeurus
+| | | +-Pseudolipeurus sp. PsspTimaj
+| | | +-Pseudolipeurus sp. QsspCrsou
+| | | +-Pseudolipeurus sp. PsspCrobs
+| | | +-Pseudolipeurus grandis
+| | | +-Pseudolipeurus macrogenitalis
+| | | +-Pseudolipeurus sp. PsspCrstr
+| | | +-Pseudolipeurus sp. PsspTigut
+| | | +-Pseudolipeurus plumbeus
+| | | \-Pseudolipeurus similis
+| | +-Penenirmus
+| | | +-Penenirmus sp. BrspMefra
+| | | +-Penenirmus sp. PnspMerub
+| | | +-Penenirmus sp. PnspGypel
+| | | +-Penenirmus sp. PnspCaaur2
+| | | +-Penenirmus sp. PnspEuver
+| | | +-Penenirmus sp. PnspCaaur
+| | | +-Penenirmus sp. PnspCabru
+| | | +-Penenirmus arcticus
+| | | +-Penenirmus sp. PnspVenig
+| | | +-Penenirmus sp. PnspPobil
+| | | +-Penenirmus sp. PnspMechr
+| | | +-Penenirmus sp. PnspLyleu
+| | | +-Penenirmus marginatus
+| | | +-Penenirmus jungens
+| | | +-Penenirmus sp. PnspInvar
+| | | +-Penenirmus sp. PnspInmin
+| | | +-Penenirmus sp. PnspEuric
+| | | +-Penenirmus sp. PnspDegri
+| | | +-Penenirmus sp. PnspPsmin
+| | | +-Penenirmus sp. PnspCiruf
+| | | +-Penenirmus sp. PnspCatur
+| | | +-Penenirmus sp. PnspBrbab
+| | | +-Penenirmus sp. PnspAnlin
+| | | +-Penenirmus sp. PnspCeame
+| | | +-Penenirmus sp. PnspInwil
+| | | +-Penenirmus sp. PnspGycal
+| | | +-Penenirmus guineensis
+| | | +-Penenirmus pici
+| | | +-Penenirmus auritus
+| | | \-Penenirmus zumpti
+| | +-Pectinopygus
+| | | +-Pectinopygus turbinatus
+| | | +-Pectinopygus sp. PgspSusul
+| | | +-Pectinopygus sp. PgspPhhar
+| | | +-Pectinopygus acutofasciatus
+| | | +-Pectinopygus afer
+| | | +-Pectinopygus dispar
+| | | +-Pectinopygus fregatiphagus
+| | | +-Pectinopygus varius
+| | | +-Pectinopygus gracilicornis
+| | | +-Pectinopygus tordoffi
+| | | +-Pectinopygus excornis
+| | | +-Pectinopygus setosus
+| | | +-Pectinopygus punctatus
+| | | +-Pectinopygus annulatus
+| | | +-Pectinopygus gyricornis
+| | | \-Pectinopygus bassani
+| | +-Otidoecus
+| | | \-Otidoecus houbarae
+| | +-Nyctibicola
+| | | \-Nyctibicola longirostris
+| | +-Naubates
+| | | \-Naubates harrisoni
+| | +-Harrisoniella
+| | | \-Harrisoniella densa
+| | +-Formicaricola
+| | | +-Formicaricola sp. FospChnob373
+| | | \-Formicaricola analoides
+| | +-Docophoroides
+| | | \-Docophoroides brevis
+| | +-Cuculicola
+| | | +-Cuculicola splendidus
+| | | +-Cuculicola sp. CuspScnov
+| | | +-Cuculicola sp. CuspCeaur
+| | | +-Cuculicola sp. CuspCacas
+| | | +-Cuculicola sp. Cusp.Clcaf
+| | | \-Cuculicola atopus
+| | +-Colilipeurus
+| | | +-Colilipeurus obscurior
+| | | \-Colilipeurus colius
+| | +-Chelopistes
+| | | +-Chelopistes sp. PyspOdgut
+| | | \-Chelopistes texanus
+| | +-Brueelia
+| | | +-Brueelia sp. BrspSIfro
+| | | +-Brueelia sp. BrspSicur
+| | | +-Brueelia sp. BrspRhnig
+| | | +-Brueelia sp. BrspPyxan
+| | | +-Brueelia sp. BrspPyjoc
+| | | +-Brueelia sp. BrspPlvel
+| | | +-Brueelia sp. BrspPhino
+| | | +-Brueelia sp. BrspPaele
+| | | +-Brueelia sp. BrspFihyp
+| | | +-Brueelia sp. BrspCimag
+| | | +-Brueelia sp. BrspCamex
+| | | +-Brueelia sp. BrspAicra
+| | | +-Brueelia sp. BrspClpic
+| | | +-Brueelia brachythorax
+| | | +-Brueelia sp. BrspMycol
+| | | +-Brueelia sp. BrspMegul
+| | | +-Brueelia sp. BrspArcya
+| | | +-Brueelia sp. BrspErtri
+| | | +-Brueelia rotundata
+| | | +-Brueelia sp. BrspCrbar
+| | | +-Brueelia sp. BrspOrfla
+| | | +-Brueelia sp. BrspMenov
+| | | +-Brueelia sp. BrspUrery
+| | | +-Brueelia sp. BrspZodam
+| | | +-Brueelia sp. BrspPoruf
+| | | +-Brueelia sp. BrspHyleu
+| | | +-Brueelia sp. BrspHecas
+| | | +-Brueelia sp. BrspFitri
+| | | +-Brueelia sp. BrspEmpus
+| | | +-Brueelia sp. BrspPagul
+| | | +-Brueelia sp. BrspAlmor
+| | | +-Brueelia sp. BrspCyban
+| | | +-Brueelia sp. BrspTepar
+| | | +-Brueelia sp. BrspNabre
+| | | +-Brueelia sp. BrspOrchi
+| | | +-Brueelia sp. BrspStstr
+| | | +-Brueelia sp. BrspGamae
+| | | +-Brueelia sp. BrspSafer
+| | | +-Brueelia sp. BrspDihot
+| | | +-Brueelia sp. BrspLelut
+| | | +-Brueelia sp. BrspMevir
+| | | +-Brueelia sp. BrspLostr
+| | | +-Brueelia sp. BrspCasin
+| | | +-Brueelia sp. BrspTrvir
+| | | +-Brueelia sp. BrspCocae
+| | | +-Brueelia sp. BrspPamel
+| | | +-Brueelia sp. BrspMelew
+| | | +-Brueelia longa
+| | | +-Brueelia biocellata
+| | | +-Brueelia sp. BrspLofus
+| | | +-Brueelia sp. BrspCoazu
+| | | +-Brueelia sp. BrspCipun
+| | | +-Brueelia sp. BrspMemys
+| | | +-Brueelia sp. BrspMecru
+| | | +-Brueelia sp. BrspMeorn
+| | | +-Brueelia quadrangularis
+| | | +-Brueelia deficiens
+| | | +-Brueelia ornatissima
+| | | +-Brueelia brunneinucha
+| | | +-Brueelia laticeps
+| | | \-Brueelia marginella
+| | +-Bedfordiella
+| | | \-Bedfordiella unica
+| | +-Aquanirmus
+| | | +-Aquanirmus sp. AqspTanov
+| | | +-Aquanirmus sp. AqspPopol
+| | | +-Aquanirmus podicepis
+| | | +-Aquanirmus podilymbus
+| | | +-Aquanirmus rollandii
+| | | \-Aquanirmus occidentalis
+| | +-Haffneria
+| | | \-Haffneria grandis
+| | +-Oxylipeurus
+| | | +-Oxylipeurus sp. OxspOdspe
+| | | +-Oxylipeurus inaequalis
+| | | +-Oxylipeurus sp. Cxnum
+| | | +-Oxylipeurus sp. Lisp.Rorou
+| | | \-Oxylipeurus chiniri
+| | +-Physconelloides
+| | | +-Physconelloides sp. PhspGevrg
+| | | +-Physconelloides perijae
+| | | +-Physconelloides sp. PhspPhcha
+| | | +-Physconelloides sp. CaspPhhis
+| | | +-Physconelloides sp. CcspPhele
+| | | +-Physconelloides sp. CcspPeruf
+| | | +-Physconelloides sp. CcspPealb
+| | | +-Physconelloides zenaidurae
+| | | +-Physconelloides wisemani
+| | | +-Physconelloides spenceri
+| | | +-Physconelloides cubanus
+| | | +-Physconelloides ceratoceps
+| | | \-Physconelloides anolaimae
+| | +-Coloceras
+| | | +-Coloceras sp. CcspHenov
+| | | +-Coloceras sp. CcspGestr
+| | | +-Coloceras sp. CcspCosjo
+| | | +-Coloceras stephani
+| | | +-Coloceras clayae
+| | | +-Coloceras castroi
+| | | +-Coloceras sp. CcspGepla
+| | | +-Coloceras sp. CcpsOclop
+| | | +-Coloceras sp. CcspGehum
+| | | +-Coloceras sp. CcspGecun
+| | | +-Coloceras sp. CcspLemel
+| | | +-Coloceras sp. CcspStpic
+| | | +-Coloceras sp. CcspStsem
+| | | +-Coloceras sp. CcspTucha
+| | | +-Coloceras sp. CcspTutym
+| | | +-Coloceras sp. CcspAplar
+| | | +-Coloceras sp. CcspStcap
+| | | +-Coloceras sp. CcspStlug
+| | | +-Coloceras sp. CcspChind
+| | | +-Coloceras sp. CaspColcm
+| | | +-Coloceras sp. CcspMamac
+| | | +-Coloceras tovornikae
+| | | +-Coloceras museihalense
+| | | +-Coloceras setosum
+| | | +-Coloceras grande
+| | | +-Coloceras damicorne
+| | | +-Coloceras furcatum
+| | | +-Coloceras laticlypeatus
+| | | +-Coloceras hilli
+| | | +-Coloceras doreyanus
+| | | +-Coloceras clypeatum
+| | | \-Coloceras chinense
+| | +-Campanulotes
+| | | +-Campanulotes heteroceros
+| | | +-Campanulotes sp. CaspGehum
+| | | +-Campanulotes sp. CaspGesmi
+| | | +-Campanulotes sp. CaspGeplu
+| | | +-Campanulotes campanulatus
+| | | +-Campanulotes frenatus
+| | | +-Campanulotes flavus
+| | | +-Campanulotes elegans
+| | | +-Campanulotes durdeni
+| | | +-Campanulotes bidentatus
+| | | \-Campanulotes compar
+| | +-Auricotes
+| | | +-Auricotes sp. AuspDubak
+| | | +-Auricotes sp. AuspDupac
+| | | +-Auricotes sp. AuspPtriv
+| | | +-Auricotes sp. AuspDubic
+| | | +-Auricotes affinis
+| | | \-Auricotes rotundus
+| | +-Columbicola
+| | | +-Columbicola sp. CospZeaur
+| | | +-Columbicola sp. CospGevrg
+| | | +-Columbicola sp. PnpicBlrub
+| | | +-Columbicola sp. CospOecap
+| | | +-Columbicola sp. CospCosjo
+| | | +-Columbicola sp. Tusp.Tutym
+| | | +-Columbicola palmai
+| | | +-Columbicola waggermani
+| | | +-Columbicola wolffhuegeli
+| | | +-Columbicola wecksteini
+| | | +-Columbicola taschenbergi
+| | | +-Columbicola mjoebergi
+| | | +-Columbicola meinertzhageni
+| | | +-Columbicola guimaraesi
+| | | +-Columbicola emersoni
+| | | +-Columbicola elbeli
+| | | +-Columbicola angustus
+| | | +-Columbicola timmermanni
+| | | +-Columbicola extinctus
+| | | +-Columbicola exilicornis
+| | | +-Columbicola macrourae
+| | | +-Columbicola columbae
+| | | \-Columbicola baculoides
+| | +-Trabeculus
+| | | \-Trabeculus hexakon
+| | +-Saemundssonia
+| | | +-Saemundssonia sp. CjspNupha
+| | | +-Saemundssonia sp. CjspNumin
+| | | +-Saemundssonia laticaudata
+| | | +-Saemundssonia melanocephalus
+| | | +-Saemundssonia sp. SaspStber
+| | | +-Saemundssonia sagulata
+| | | +-Saemundssonia wumisuzume
+| | | +-Saemundssonia haematopi
+| | | \-Saemundssonia lari
+| | +-Halipeurus
+| | | +-Halipeurus abnormis
+| | | \-Halipeurus diversus
+| | \-Austrogoniodes
+| |   \-Austrogoniodes waterstoni
+| \-Menoponidae
+|   +-Eureum
+|   | +-Eureum sp. EuspTasq
+|   | \-Eureum sp. EuspCoes
+|   +-Heleonomus
+|   | \-Heleonomus assimilis
+|   +-Amyrsidea
+|   | \-Amyrsidea jacquacu
+|   +-Kaysius
+|   | \-Kaysius sp. NispLivoc
+|   +-Heteromenopon
+|   | \-Heteromenopon sp. HmspArjan
+|   +-Machaerilaemus
+|   | \-Machaerilaemus sp. MaspWipoe
+|   +-Comatomenopon
+|   | \-Comatomenopon sp. CmspArmel
+|   +-Bonomiella
+|   | +-Bonomiella columbae
+|   | \-Bonomiella sp. BnspCoarq
+|   +-Turacoeca
+|   | \-Turacoeca sp. TuspMujoh
+|   +-Meromenopon
+|   | \-Meromenopon meropis
+|   +-Quateia
+|   | \-Quateia irianensis
+|   +-Psittacomenopon
+|   | \-Psittacomenopon gulielmi
+|   +-Psittacobrosus
+|   | \-Psittacobrosus amazonicus
+|   +-Pseudomenopon
+|   | +-Pseudomenopon pilosum
+|   | \-Pseudomenopon dolium
+|   +-Plegadiphilus
+|   | \-Plegadiphilus plegadis
+|   +-Piagetiella
+|   | \-Piagetiella peralis
+|   +-Odoriphila
+|   | \-Odoriphila phoeniculi
+|   +-Numidicola
+|   | \-Numidicola antennatus
+|   +-Nosopon
+|   | \-Nosopon lucidum
+|   +-Eidmanniella
+|   | \-Eidmanniella pustulosa
+|   +-Cuculiphilus
+|   | \-Cuculiphilus platygaster
+|   +-Austromenopon
+|   | \-Austromenopon atrofulvum
+|   +-Actornithophilus
+|   | \-Actornithophilus hoplopteri
+|   +-Dicteisia
+|   | \-Dicteisia sp. DcspChtor
+|   +-Franciscoloa
+|   | \-Franciscoloa sp. FrspCaban
+|   +-Clayia
+|   | \-Clayia sp. ClspFraha
+|   +-Ramphasticola
+|   | \-Ramphasticola sp. RmspRatuc
+|   +-Apterygon
+|   | \-Apterygon sp. ApspApsp
+|   +-Eomenopon
+|   | \-Eomenopon sp. EospTrhae
+|   +-Kelerimenopon
+|   | +-Kelerimenopon sp. KmspPiiri
+|   | \-Kelerimenopon sp. KmspCaban
+|   +-Holomenopon
+|   | \-Holomenopon sp. HpspAnstr
+|   +-Menacanthus
+|   | +-Menacanthus balfouri
+|   | +-Menacanthus sp. MespPhalb
+|   | +-Menacanthus sp. MespComel
+|   | +-Menacanthus sp. MespMepuc
+|   | \-Menacanthus sp. MespOrvet
+|   +-Kurodaia
+|   | \-Kurodaia haliaeeti
+|   +-Ciconiphilus
+|   | \-Ciconiphilus decimfasciatus
+|   +-Fregatiella
+|   | \-Fregatiella aurifasciata
+|   +-Colpocephalum
+|   | +-Colpocephalum unciferum
+|   | +-Colpocephalum nanum
+|   | +-Colpocephalum kelloggi
+|   | +-Colpocephalum cristatae
+|   | \-Colpocephalum turbinatum
+|   +-Myrsidea
+|   | +-Myrsidea sp. BrspMaspl
+|   | +-Myrsidea sp. MyspEujav
+|   | +-Myrsidea sp. MyspTymel
+|   | +-Myrsidea sp. MyspGycal
+|   | +-Myrsidea sp. MyspRatuc
+|   | +-Myrsidea sp. MyspHymus
+|   | +-Myrsidea sp. Mysp
+|   | +-Myrsidea minuscula
+|   | \-Myrsidea wombeyi
+|   +-Menopon
+|   | \-Menopon gallinae
+|   +-Hoazineus
+|   | \-Hoazineus armiferus
+|   +-Chapinia
+|   | \-Chapinia lophocerus
+|   +-Trinoton
+|   | +-Trinoton nigrum
+|   | +-Trinoton fluviatile
+|   | \-Trinoton querquedulae
+|   +-Hohorstiella
+|   | +-Hohorstiella radovskyi
+|   | \-Hohorstiella lata
+|   +-Colimenopon
+|   | \-Colimenopon urocolius
+|   +-Ancistrona
+|   | \-Ancistrona vagelli
+|   \-Dennyus
+|     +-Dennyus vonarxi
+|     +-Dennyus sp. DespTasq
+|     +-Dennyus sp. DespCypa
+|     +-Dennyus sp. DespCycr
+|     +-Dennyus sp. DespCyba
+|     +-Dennyus sp. DespColi
+|     +-Dennyus sp. DespCoes3
+|     +-Dennyus sp. DespCoes2
+|     +-Dennyus sp. DespCoes1
+|     +-Dennyus sp. DespChci
+|     +-Dennyus sp. DespChbr
+|     +-Dennyus sp. DespApap
+|     +-Dennyus sp. DespAeva
+|     +-Dennyus sp. DespAete
+|     +-Dennyus sp. DespAefu
+|     +-Dennyus southwoodi
+|     +-Dennyus meridionalis
+|     +-Dennyus bruneri
+|     +-Dennyus brunneitorques
+|     +-Dennyus malagonensis
+|     +-Dennyus sp. DespCoesc639
+|     +-Dennyus sp. DespCoesc241
+|     +-Dennyus sp. DespChegr
+|     +-Dennyus sp. DespChspi
+|     +-Dennyus sp. DespAepap
+|     +-Dennyus pascoliae
+|     +-Dennyus dubius
+|     +-Dennyus simberloffi
+|     +-Dennyus hirundinis
+|     +-Dennyus cypsiurus
+|     +-Dennyus carljonesi
+|     | \-Dennyus carljonesi forresteri
+|     \-Dennyus adamsae
++-Thysanoptera
+| +-Heterothripidae
+| | \-Heterothrips
+| |   \-Heterothrips salicis
+| +-Melanthripidae
+| | \-Dorythrips
+| |   \-Dorythrips wallacei
+| +-Aeolothripidae
+| | \-Dactuliothrips
+| |   \-Dactuliothrips xerophilus
+| +-Merothripidae
+| | \-Merothrips
+| |   \-Merothrips floridensis
+| +-Thripidae
+| | +-Hercinothrips
+| | | \-Hercinothrips bicinctus
+| | +-Neurisothrips
+| | | +-Neurisothrips sp. 2 KJ-2017
+| | | \-Neurisothrips sp. 3 KJ-2017
+| | +-Nesothrips
+| | | \-Nesothrips lativentris
+| | +-Monilothrips
+| | | \-Monilothrips kempi
+| | +-Anisopilothrips
+| | | \-Anisopilothrips venustulus
+| | +-Anaphothrips
+| | | \-Anaphothrips swezeyi
+| | +-Helionothrips
+| | | \-Helionothrips spinosus
+| | +-Dendrothrips
+| | | \-Dendrothrips diaspora
+| | +-Dichromothrips
+| | | \-Dichromothrips smithi
+| | +-Pseudanaphothrips
+| | | \-Pseudanaphothrips achaetus
+| | +-Australothrips
+| | | \-Australothrips bicolor
+| | +-Aptinothrips
+| | | \-Aptinothrips rufus
+| | +-Sciothrips
+| | | \-Sciothrips cardamomi
+| | +-Heliothrips
+| | | \-Heliothrips haemorrhoidalis
+| | +-Scirtothrips
+| | | +-Scirtothrips dobroskyi
+| | | \-Scirtothrips dorsalis
+| | +-Thrips
+| | | +-Thrips maculicollis
+| | | +-Thrips hawaiiensis
+| | | \-Thrips imaginis
+| | \-Frankliniella
+| |   +-Frankliniella invasor
+| |   +-Frankliniella insularis
+| |   \-Frankliniella occidentalis
+| \-Phlaeothripidae
+|   +-Lissothrips
+|   | \-Lissothrips tallagandai
+|   +-Malesiathrips
+|   | \-Malesiathrips australis
+|   +-Zemiathrips
+|   | \-Zemiathrips triseta
+|   +-Tolmetothrips
+|   | \-Tolmetothrips smilacis
+|   +-Thaumatothrips
+|   | \-Thaumatothrips froggatti
+|   +-Psalidothrips
+|   | \-Psalidothrips taylori
+|   +-Phallothrips
+|   | \-Phallothrips houstoni
+|   +-Iotatubothrips
+|   | \-Iotatubothrips crozieri
+|   +-Eurynothrips
+|   | \-Eurynothrips magnicollis
+|   +-Euoplothrips
+|   | \-Euoplothrips bagnalli
+|   +-Choleothrips
+|   | \-Choleothrips geijerae
+|   +-Celidothrips
+|   | \-Celidothrips camelus
+|   +-Allothrips
+|   | \-Allothrips stannardi
+|   +-Triadothrips
+|   | \-Triadothrips briga
+|   +-Sacothrips
+|   | \-Sacothrips corycidis
+|   +-Liothrips
+|   | \-Liothrips crassipes
+|   +-Leeuwenia
+|   | \-Leeuwenia tetrastigmae
+|   +-Koptothrips
+|   | \-Koptothrips zelus
+|   +-Dolichothrips
+|   | \-Dolichothrips reuteri
+|   +-Carientothrips
+|   | \-Carientothrips semirufus
+|   +-Baenothrips
+|   | \-Baenothrips caenosus
+|   +-Cartomothrips
+|   | \-Cartomothrips neboissi
+|   +-Teuchothrips
+|   | \-Teuchothrips sp. TespPH
+|   +-Haplothrips
+|   | \-Haplothrips victoriensis
+|   +-Strepterothrips
+|   | \-Strepterothrips tuberculatus
+|   +-Idolothrips
+|   | \-Idolothrips spectrum
+|   +-Lichanothrips
+|   | \-Lichanothrips magnificus
+|   +-Gynaikothrips
+|   | \-Gynaikothrips ficorum
+|   \-Kladothrips
+|     \-Kladothrips rugosus
++-Strepsiptera
+| \-Stylopidae
+|   \-Stylops
+|     \-Stylops melittae
++-Hymenoptera
+| +-Cimbicidae
+| | \-Abia
+| |   \-Abia berezowskii
+| +-Chrysididae
+| | \-Philoctetes
+| |   \-Philoctetes bogdanovii
+| +-Sapygidae
+| | \-Monosapyga
+| |   \-Monosapyga clavicornis
+| +-Diapriidae
+| | \-Trichopria
+| |   \-Trichopria drosophilae
+| +-Siricidae
+| | \-Tremex
+| |   \-Tremex magus
+| +-Torymidae
+| | \-Podagrion
+| |   \-Podagrion pachymerum
+| +-Braconidae
+| | \-Macrocentrus
+| |   \-Macrocentrus marginator
+| +-Agaonidae
+| | \-Elisabethiella
+| |   \-Elisabethiella stueckenbergi
+| +-Chyphotidae
+| | \-Chyphotes
+| |   \-Chyphotes sp. AD-2014
+| +-Ceraphronidae
+| | \-Ceraphron
+| |   \-Ceraphron sp. AD-2014
+| +-Orussidae
+| | \-Orussus
+| |   \-Orussus unicolor
+| +-Halictidae
+| | \-Sphecodes
+| |   \-Sphecodes albilabris
+| +-Crabronidae
+| | +-Spilomena
+| | | \-Spilomena beata
+| | +-Oxybelus
+| | | \-Oxybelus bipunctatus
+| | \-Gorytes
+| |   \-Gorytes laticinctus
+| +-Vespidae
+| | +-Quartinia
+| | | \-Quartinia thebaica
+| | +-Celonites
+| | | \-Celonites abbreviatus
+| | \-Symmorphus
+| |   \-Symmorphus murarius
+| +-Cephidae
+| | \-Cephus
+| |   \-Cephus spinipes
+| +-Pompilidae
+| | +-Heterodontonyx
+| | | \-Heterodontonyx sp. AD-2014
+| | \-Pompilus
+| |   \-Pompilus cinereus
+| +-Ichneumonidae
+| | \-Heteropelma
+| |   \-Heteropelma amictum
+| +-Sphecidae
+| | +-Chlorion
+| | | \-Chlorion hirtum
+| | +-Ammophila
+| | | \-Ammophila sabulosa
+| | \-Chalybion
+| |   \-Chalybion californicum
+| +-Cynipidae
+| | \-Synergus
+| |   \-Synergus umbraculus
+| +-Scoliidae
+| | \-Colpa
+| |   \-Colpa sexmaculata
+| +-Evaniidae
+| | \-Brachygaster
+| |   \-Brachygaster minutus
+| +-Eucharitidae
+| | \-Eucharis
+| |   \-Eucharis adscendens
+| +-Aphelinidae
+| | \-Aphelinus
+| |   \-Aphelinus abdominalis
+| +-Mymaridae
+| | \-Cosmocomoidea
+| |   \-Cosmocomoidea morrilli
+| +-Megachilidae
+| | +-Dioxys
+| | | \-Dioxys cincta
+| | +-Coelioxys
+| | | \-Coelioxys conoidea
+| | +-Chelostoma
+| | | \-Chelostoma florisomne
+| | +-Megachile
+| | | \-Megachile willughbiella
+| | \-Osmia
+| |   \-Osmia cornuta
+| +-Eulophidae
+| | \-Diglyphus
+| |   \-Diglyphus isaea
+| +-Pelecinidae
+| | \-Pelecinus
+| |   \-Pelecinus polyturator
+| \-Apidae
+|   +-Nomada
+|   | \-Nomada lathburiana
+|   \-Bombus
+|     \-Bombus rupestris
++-Dermaptera
+| +-Anisolabididae
+| | \-Gonolabis
+| |   \-Gonolabis marginalis
+| \-Forficulidae
+|   \-Forficula
+|     \-Forficula auricularia
++-Mantodea
+| \-Mantidae
+|   \-Mantis
+|     \-Mantis religiosa
++-Diptera
+| +-Sepsidae
+| | \-Meroplius
+| |   \-Meroplius fasciculatus
+| +-Oestridae
+| | \-Cuterebra
+| |   \-Cuterebra austeni
+| +-Trichoceridae
+| | \-Trichocera
+| |   \-Trichocera saltator
+| +-Stratiomyidae
+| | \-Ptecticus
+| |   \-Ptecticus tenebrifer
+| +-Lonchopteridae
+| | \-Lonchoptera
+| |   \-Lonchoptera bifurcata
+| +-Chironomidae
+| | \-Polypedilum
+| |   \-Polypedilum vanderplanki
+| +-Syrphidae
+| | +-Eristalis
+| | | \-Eristalis pertinax
+| | \-Ferdinandea
+| |   \-Ferdinandea cuprea
+| +-Bibionidae
+| | \-Bibio
+| |   \-Bibio marci
+| +-Dolichopodidae
+| | \-Heteropsilopus
+| |   \-Heteropsilopus ingenuus
+| +-Calliphoridae
+| | \-Calliphora
+| |   \-Calliphora vomitoria
+| \-Drosophilidae
+|   \-Drosophila
+|     \-Drosophila melanogaster
++-Lepidoptera
+| +-Mimallonidae
+| | \-Menevia
+| |   \-Menevia lantona
+| +-Erebidae
+| | \-Amata
+| |   \-Amata phegea
+| +-Crambidae
+| | +-Catoptria
+| | | \-Catoptria falsella
+| | \-Leucinodes
+| |   \-Leucinodes orbonalis
+| +-Saturniidae
+| | \-Samia
+| |   \-Samia wangi
+| +-Hepialidae
+| | \-Triodia
+| |   \-Triodia sylvina
+| +-Hesperiidae
+| | \-Urbanus
+| |   \-Urbanus proteus
+| +-Adelidae
+| | \-Nemophora
+| |   \-Nemophora degeerella
+| +-Lasiocampidae
+| | \-Dendrolimus
+| |   \-Dendrolimus pini
+| +-Nymphalidae
+| | +-Vanessa
+| | | \-Vanessa cardui
+| | \-Pararge
+| |   \-Pararge aegeria
+| +-Pieridae
+| | +-Eurema
+| | | \-Eurema mandarina
+| | \-Colias
+| |   \-Colias croceus
+| +-Papilionidae
+| | \-Papilio
+| |   \-Papilio xuthus
+| +-Noctuidae
+| | \-Spodoptera
+| |   +-Spodoptera litura
+| |   \-Spodoptera frugiperda
+| \-Bombycidae
+|   \-Bombyx
+|     \-Bombyx mori
++-Coleoptera
+| +-Tenebrionidae
+| | \-Zophobas
+| |   \-Zophobas morio
+| +-Rhipiceridae
+| | \-Sandalus
+| |   \-Sandalus niger
+| +-Lymexylidae
+| | \-Melittomma
+| |   \-Melittomma sp. AD-2015
+| +-Glaresidae
+| | \-Glaresis
+| |   \-Glaresis sp. AD-2015
+| +-Gyrinidae
+| | \-Dineutus
+| |   \-Dineutus sp. AD-2015
+| +-Erotylidae
+| | \-Pharaxonotha
+| |   \-Pharaxonotha floridana
+| +-Elateridae
+| | \-Drilus
+| |   \-Drilus concolor
+| +-Haliplidae
+| | \-Haliplus
+| |   \-Haliplus fluviatilis
+| +-Cryptophagidae
+| | \-Atomaria
+| |   \-Atomaria fuscata
+| +-Silvanidae
+| | \-Uleiota
+| |   \-Uleiota planata
+| +-Geotrupidae
+| | \-Anoplotrupes
+| |   \-Anoplotrupes stercorosus
+| +-Scarabaeidae
+| | +-Trypoxylus
+| | | \-Trypoxylus dichotomus
+| | \-Onthophagus
+| |   \-Onthophagus similis
+| +-Coccinellidae
+| | +-Stethorus
+| | | \-Stethorus sp. AD-2015
+| | \-Harmonia
+| |   \-Harmonia axyridis
+| +-Noteridae
+| | \-Noterus
+| |   \-Noterus clavicornis
+| +-Dytiscidae
+| | \-Cybister
+| |   \-Cybister lateralimarginalis
+| +-Chrysomelidae
+| | \-Oreina
+| |   \-Oreina cacaliae
+| \-Curculionidae
+|   +-Larinus
+|   | \-Larinus minutus
+|   +-Dendroctonus
+|   +-Hypothenemus
+|   | \-Hypothenemus hampei
+|   +-Ips
+|   | \-Ips typographus
+|   +-Diaprepes
+|   | \-Diaprepes abbreviatus
+|   \-Sitophilus
+|     \-Sitophilus zeamais
++-Hemiptera
+| +-Anthocoridae
+| | \-Lasiochilus
+| |   \-Lasiochilus sp. LASspLAS
+| +-Enicocephalidae
+| | \-Alienates
+| |   \-Alienates sp. AlspENIC
+| +-Aenictopecheidae
+| | \-Tornocrusus
+| |   \-Tornocrusus sp. AENspAEN
+| +-Omaniidae
+| | \-Omania
+| |   \-Omania coleoptrata
+| +-Megarididae
+| | \-Megaris
+| |   \-Megaris sp. MEGspMEG
+| +-Medocostidae
+| | \-Medocostes
+| |   \-Medocostes sp. MespMED
+| +-Geocoridae
+| | \-Epipolops
+| |   \-Epipolops sp. EpspGEO
+| +-Vianaididae
+| | \-Anommatocoris
+| |   \-Anommatocoris minutissimus
+| +-Urostylididae
+| | \-Urostylis
+| |   \-Urostylis sp. UrspURO
+| +-Oxycarenidae
+| | \-Oxycarenus
+| |   \-Oxycarenus sp. OXYspOXY
+| +-Plokiophilidae
+| | \-Lipokophila
+| |   \-Lipokophila tengella
+| +-Lestoniidae
+| | \-Lestonia
+| |   \-Lestonia sp. LESspLES
+| +-Tessaratomidae
+| | +-Piezosternum
+| | | \-Piezosternum sp. PispTES
+| | \-Eusthenes
+| |   \-Eusthenes femoralis
+| +-Stenocephalidae
+| | \-Dicranocephalus
+| |   \-Dicranocephalus sp. DispSTE
+| +-Ninidae
+| | \-Cymoninus
+| |   \-Cymoninus sp. CyspNIN
+| +-Dipsocoridae
+| | \-Cryptostemma
+| |   \-Cryptostemma sp. CrspDIPS
+| +-Canopidae
+| | \-Canopus
+| |   \-Canopus sp. CANspCAN
+| +-Schizopteridae
+| | \-Rectilamina
+| |   \-Rectilamina sp. KJ-2017
+| +-Meenoplidae
+| | \-Nisamia
+| |   \-Nisamia sp. KJ-2017
+| +-Cerococcidae
+| | \-Cerococcus
+| |   \-Cerococcus sp. KJ-2017
+| +-Asterolecaniidae
+| | \-Russellaspis
+| |   \-Russellaspis sp. KJ-2017
+| +-Phacopteronidae
+| | \-Pseudophacopteron
+| |   \-Pseudophacopteron sp. A KJ-2017
+| +-Myerslopiidae
+| | \-Mapuchea
+| |   \-Mapuchea sp. KJ-2017
+| +-Kinnaridae
+| | \-Quilessa
+| |   \-Quilessa sp. KJ-2017
+| +-Achilixiidae
+| | \-Bebaiotes
+| |   \-Bebaiotes sp. KJ-2017
+| +-Velocipedidae
+| | +-Scotomedes
+| | | \-Scotomedes sp. VELspVEL
+| | \-Costomedes
+| |   \-Costomedes karimui
+| +-Cercopidae
+| | \-Asprocranites
+| |   \-Asprocranites variegata
+| +-Steingeliidae
+| | \-Araucaricoccus
+| |   \-Araucaricoccus queenslandicus
+| +-Psyllidae
+| | +-Freysuila
+| | | \-Freysuila caesalpiniae
+| | \-Russelliana
+| |   \-Russelliana solanicola
+| +-Homotomidae
+| | \-Mycopsylla
+| |   \-Mycopsylla gardenensis
+| +-Lophopidae
+| | \-Lophops
+| |   \-Lophops saccharicida
+| +-Lecanodiaspididae
+| | \-Lecanodiaspis
+| |   \-Lecanodiaspis rufescens
+| +-Liviidae
+| | \-Euphyllura
+| |   \-Euphyllura phillyreae
+| +-Lyctocoridae
+| | \-Lyctocoris
+| |   \-Lyctocoris campestris
+| +-Phoenicococcidae
+| | \-Phoenicococcus
+| |   \-Phoenicococcus marlatti
+| +-Cymidae
+| | \-Cymus
+| |   \-Cymus coriacipennis
+| +-Microphysidae
+| | \-Loricula
+| |   +-Loricula sp. MICspMIC
+| |   \-Loricula pselaphiformis
+| +-Flatidae
+| | \-Ormenoides
+| |   \-Ormenoides venusta
+| +-Membracidae
+| | +-Scytodepsa
+| | | \-Scytodepsa sp. KJ-2017
+| | +-Centrotus
+| | | \-Centrotus cornutus
+| | \-Atymna
+| |   \-Atymna helena
+| +-Coelostomidiidae
+| | \-Coelostomidia
+| |   \-Coelostomidia montana
+| +-Aphididae
+| | +-Neophyllaphis
+| | | \-Neophyllaphis varicolor
+| | \-Iziphya
+| |   \-Iziphya flabella
+| +-Diaspididae
+| | +-Fissuraspis
+| | | \-Fissuraspis ulmi
+| | +-Furcaspis
+| | | \-Furcaspis capensis
+| | \-Comstockiella
+| |   \-Comstockiella sabalis
+| +-Artheneidae
+| | \-Chilacis
+| |   \-Chilacis typhae
+| +-Belostomatidae
+| | \-Diplonychus
+| |   \-Diplonychus rusticus
+| +-Thaumastocoridae
+| | +-Thaumastocoris
+| | | \-Thaumastocoris peregrinus
+| | \-Discocoris
+| |   \-Discocoris drakei
+| +-Acanthosomatidae
+| | \-Acanthosoma
+| |   \-Acanthosoma haemorrhoidale
+| +-Parastrachiidae
+| | \-Dismegistus
+| |   \-Dismegistus sanguineus
+| +-Thaumastellidae
+| | \-Thaumastella
+| |   \-Thaumastella namaquensis
+| +-Carsidaridae
+| | \-Protyora
+| |   \-Protyora sterculiae
+| +-Margarodidae
+| | +-Xylococculus
+| | | \-Xylococculus macrocarpae
+| | \-Marchalina
+| |   \-Marchalina hellenica
+| +-Halimococcidae
+| | \-Thysanococcus
+| |   \-Thysanococcus pandani
+| +-Conchaspididae
+| | \-Fagisuga
+| |   \-Fagisuga triloba
+| +-Stictococcidae
+| | \-Stictococcus
+| |   +-Stictococcus vayssierei
+| |   \-Stictococcus sjostedti
+| +-Beesoniidae
+| | \-Gallacoccus
+| |   \-Gallacoccus heckrothi
+| +-Tettigarctidae
+| | \-Tettigarcta
+| |   \-Tettigarcta crinita
+| +-Aphrophoridae
+| | \-Aphrophora
+| |   \-Aphrophora alni
+| +-Triozidae
+| | +-Triozoida
+| | | \-Triozoida limbata
+| | +-Pariaconus
+| | | \-Pariaconus gracilis
+| | +-Acanthocasuarina
+| | | \-Acanthocasuarina muellerianae
+| | \-Bactericera
+| |   \-Bactericera cockerelli
+| +-Pentatomidae
+| | +-Dinidor
+| | | \-Dinidor sp. DINspDIN
+| | \-Halyomorpha
+| |   \-Halyomorpha halys
+| +-Pleidae
+| | \-Plea
+| |   \-Plea minutissima
+| +-Ochteridae
+| | \-Ochterus
+| |   \-Ochterus marginatus
+| +-Termitaphididae
+| | \-Termitaradus
+| |   \-Termitaradus australiensis
+| +-Miridae
+| | +-Peritropis
+| | | \-Peritropis setosicornis
+| | +-Pachymerocorista
+| | | \-Pachymerocorista pilosus
+| | +-Myiomma
+| | | \-Myiomma sp. MIRIsoMIR
+| | +-Monalocoris
+| | | \-Monalocoris sp. MospMIR
+| | +-Helopeltis
+| | | \-Helopeltis sp. HespMIR
+| | +-Fulvius
+| | | \-Fulvius sp. FuspMIR
+| | +-Deraeocoris
+| | | \-Deraeocoris sp. DespMIR
+| | +-Coridromius
+| | | \-Coridromius sp. CospMIR
+| | +-Nesidiocoris
+| | | \-Nesidiocoris tenuis
+| | \-Larinocerus
+| |   \-Larinocerus balius
+| +-Hyocephalidae
+| | \-Maevius
+| |   \-Maevius indecorus
+| +-Idiostolidae
+| | \-Trisecus
+| |   \-Trisecus pictus
+| +-Joppeicidae
+| | \-Joppeicus
+| |   \-Joppeicus paradoxus
+| +-Leptopodidae
+| | \-Valleriola
+| |   \-Valleriola javanica
+| +-Pseudococcidae
+| | +-Eumyrmococcus
+| | | \-Eumyrmococcus scorpioides
+| | \-Planococcus
+| |   \-Planococcus citri
+| +-Cicadellidae
+| | +-Sudra
+| | | \-Sudra notanda
+| | +-Myerslopella
+| | | \-Myerslopella taylori
+| | +-Coloborrhis
+| | | \-Coloborrhis corticina
+| | +-Signoretia
+| | | \-Signoretia dulitensis
+| | +-Calliscarta
+| | | \-Calliscarta boliviana
+| | +-Graphocephala
+| | | \-Graphocephala fennahi
+| | +-Empoasca
+| | | \-Empoasca fabae
+| | \-Lystridea
+| |   \-Lystridea uhleri
+| +-Phloeomyzidae
+| | \-Phloeomyzus
+| |   \-Phloeomyzus passerinii
+| +-Cicadidae
+| | +-Okanagana
+| | | \-Okanagana villosa
+| | \-Kikihia
+| |   \-Kikihia scutellaris
+| +-Aphalaridae
+| | \-Glycaspis
+| |   \-Glycaspis brimblecombei
+| +-Delphacidae
+| | \-Nilaparvata
+| |   \-Nilaparvata lugens
+| +-Peloridiidae
+| | +-Rhacophysa
+| | | \-Rhacophysa taylori
+| | +-Oiophysella
+| | | \-Oiophysella degenerata
+| | +-Craspedophysa
+| | | \-Craspedophysa monteithi
+| | +-Xenophyes
+| | | \-Xenophyes metoponcus
+| | +-Hemiodoecus
+| | | \-Hemiodoecus acutus
+| | +-Xenophysella
+| | | \-Xenophysella greensladeae
+| | +-Peloridium
+| | | \-Peloridium hammoniorum
+| | \-Hemiowoodwardia
+| |   \-Hemiowoodwardia wilsoni
+| +-Gerromorpha
+| | +-Hebridae
+| | | \-Hebrus
+| | |   \-Hebrus sp. HEBspHEB
+| | \-Macroveliidae
+| |   \-Macrovelia
+| |     \-Macrovelia hornii
+| \-Aleyrodidae
+|   +-Aleurotrachelus
+|   | \-Aleurotrachelus sp. Alela
+|   +-Chitonaleyrodes
+|   | \-Chitonaleyrodes canberrensis
+|   +-Aleuroctarthrus
+|   | \-Aleuroctarthrus destructor
+|   +-Aleuroclava
+|   | \-Aleuroclava jasmini
+|   +-Paraleyrodes
+|   | \-Paraleyrodes minei
+|   +-Aleurocanthus
+|   | +-Aleurocanthus neofroggatti
+|   | \-Aleurocanthus spiniferus
+|   +-Dialeurodes
+|   | +-Dialeurodes kirkaldyi
+|   | \-Dialeurodes citri
+|   +-Aleyrodes
+|   | \-Aleyrodes proletella
+|   +-Trialeurodes
+|   | \-Trialeurodes vaporariorum
+|   \-Bemisia
+|     +-Bemisia afer
+|     \-Bemisia tabaci
+\-Blattodea
+  +-Pseudophyllodromiidae
+  | \-Balta
+  |   \-Balta vilis
+  +-Rhinotermitidae
+  | \-Coptotermes
+  |   \-Coptotermes sp. AD-2015
+  +-Tryonicidae
+  | \-Tryonicus
+  |   \-Tryonicus parvus
+  +-Blattellidae
+  | +-Ischnoptera
+  | | \-Ischnoptera deropeltiformis
+  | \-Paratemnopteryx
+  |   \-Paratemnopteryx couloniana
+  +-Cryptocercidae
+  | \-Cryptocercus
+  |   \-Cryptocercus wrighti
+  +-Ectobiidae
+  | +-Ectobius
+  | | \-Ectobius sylvestris
+  | \-Supella
+  |   \-Supella longipalpa
+  +-Corydiidae
+  | \-Polyphaga
+  |   \-Polyphaga aegyptiaca
+  \-Blattidae
+    +-Deropeltis
+    | \-Deropeltis erythrocephala
+    \-Periplaneta
+      \-Periplaneta americana
+-----------------------------------
