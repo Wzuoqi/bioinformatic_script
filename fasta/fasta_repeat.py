@@ -25,3 +25,5 @@ with open(file) as file_object:
         print(fasta_string)
 
 file_object.close()
+
+nohup singularity exec ~/04_docker/braker3.sif braker.pl --genome=GCA_030704895.1_SYSU_HVIGI_v1.0_genomic.fna --species=GCA_030704895 --min_contig=5000 --prot_seq=/home/wangzuoqi/02_dataset/02_masked_genome/proteins.fasta --threads=12 --gff3 --workingdir=GCA_030704895 --useexisting &
